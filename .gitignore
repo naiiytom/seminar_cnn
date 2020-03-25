@@ -107,4 +107,4 @@ venv.bak/
 # vscode
 .vscode/
 
-data/HAM10000
+data/*

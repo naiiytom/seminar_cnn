@@ -1,0 +1,2227 @@
+,lesion_id,image_id,dx,dx_type,age,sex,localization,cell_type,binary_target,cat_target
+6,HAM_0002761,ISIC_0029176,bkl,histo,60,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+11,HAM_0004234,ISIC_0029396,bkl,histo,85,female,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+15,HAM_0007207,ISIC_0031326,bkl,histo,65,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+15,HAM_0007207,ISIC_0031326,bkl,histo,65,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+16,HAM_0001601,ISIC_0025915,bkl,histo,75,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+18,HAM_0007571,ISIC_0029836,bkl,histo,70,male,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+20,HAM_0006071,ISIC_0032343,bkl,histo,70,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+22,HAM_0003301,ISIC_0027310,bkl,histo,60,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+24,HAM_0004884,ISIC_0025937,bkl,histo,75,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+27,HAM_0006574,ISIC_0030698,bkl,histo,40,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+30,HAM_0001480,ISIC_0026835,bkl,histo,70,male,abdomen,Benign keratosis-like lesions ,-1,Non-Melanoma
+38,HAM_0003847,ISIC_0027053,bkl,histo,85,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+42,HAM_0000164,ISIC_0026273,bkl,histo,60,male,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+51,HAM_0007125,ISIC_0025016,bkl,histo,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+56,HAM_0003569,ISIC_0027960,bkl,histo,75,male,unknown,Benign keratosis-like lesions ,-1,Non-Melanoma
+58,HAM_0000700,ISIC_0028052,bkl,histo,60,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+60,HAM_0003021,ISIC_0031468,bkl,histo,75,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+63,HAM_0000959,ISIC_0031008,bkl,histo,75,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+71,HAM_0004341,ISIC_0031967,bkl,histo,70,female,scalp,Benign keratosis-like lesions ,-1,Non-Melanoma
+75,HAM_0001469,ISIC_0029289,bkl,histo,60,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+99,HAM_0002957,ISIC_0026153,bkl,histo,70,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+110,HAM_0001417,ISIC_0027533,bkl,histo,55,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+120,HAM_0000566,ISIC_0026794,bkl,histo,60,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+135,HAM_0005299,ISIC_0032778,bkl,histo,55,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+137,HAM_0004075,ISIC_0030276,bkl,histo,60,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+139,HAM_0000112,ISIC_0033465,bkl,histo,55,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+156,HAM_0003770,ISIC_0032877,bkl,histo,80,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+170,HAM_0003978,ISIC_0033908,bkl,histo,80,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+173,HAM_0005258,ISIC_0033262,bkl,histo,60,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+184,HAM_0002008,ISIC_0032983,bkl,histo,60,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+185,HAM_0002008,ISIC_0034024,bkl,histo,60,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+187,HAM_0004975,ISIC_0032863,bkl,histo,85,male,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+188,HAM_0004975,ISIC_0034168,bkl,histo,85,male,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+204,HAM_0000527,ISIC_0032508,bkl,histo,45,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+205,HAM_0000527,ISIC_0034201,bkl,histo,45,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+206,HAM_0001954,ISIC_0032776,bkl,histo,55,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+207,HAM_0001954,ISIC_0033828,bkl,histo,55,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+210,HAM_0000087,ISIC_0034070,bkl,histo,45,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+211,HAM_0000087,ISIC_0033709,bkl,histo,45,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+211,HAM_0000087,ISIC_0033709,bkl,histo,45,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+211,HAM_0000087,ISIC_0033709,bkl,histo,45,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+213,HAM_0000581,ISIC_0034115,bkl,histo,40,female,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+220,HAM_0004458,ISIC_0034126,bkl,histo,80,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+225,HAM_0003927,ISIC_0032756,bkl,histo,60,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+227,HAM_0000790,ISIC_0032576,bkl,histo,75,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+228,HAM_0004091,ISIC_0033587,bkl,histo,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+237,HAM_0002372,ISIC_0034031,bkl,histo,65,male,neck,Benign keratosis-like lesions ,-1,Non-Melanoma
+240,HAM_0003659,ISIC_0033676,bkl,histo,85,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+242,HAM_0007341,ISIC_0033488,bkl,histo,50,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+253,HAM_0004029,ISIC_0029472,bkl,histo,65,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+254,HAM_0004029,ISIC_0029682,bkl,histo,65,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+257,HAM_0007402,ISIC_0034003,bkl,histo,60,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+261,HAM_0001309,ISIC_0032876,bkl,histo,60,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+263,HAM_0001837,ISIC_0033868,bkl,histo,80,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+273,HAM_0004748,ISIC_0027513,bkl,histo,55,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+274,HAM_0002810,ISIC_0031876,bkl,histo,70,female,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+278,HAM_0000113,ISIC_0027989,bkl,histo,75,female,hand,Benign keratosis-like lesions ,-1,Non-Melanoma
+279,HAM_0000308,ISIC_0025136,bkl,histo,55,female,abdomen,Benign keratosis-like lesions ,-1,Non-Melanoma
+283,HAM_0006697,ISIC_0030272,bkl,histo,50,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+288,HAM_0007220,ISIC_0025867,bkl,histo,60,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+291,HAM_0005891,ISIC_0026060,bkl,histo,70,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+300,HAM_0004114,ISIC_0026844,bkl,histo,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+305,HAM_0005915,ISIC_0025656,bkl,histo,45,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+312,HAM_0001055,ISIC_0028120,bkl,histo,65,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+315,HAM_0004690,ISIC_0027374,bkl,histo,70,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+322,HAM_0000236,ISIC_0024592,bkl,histo,40,female,abdomen,Benign keratosis-like lesions ,-1,Non-Melanoma
+323,HAM_0003613,ISIC_0030118,bkl,histo,80,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+327,HAM_0006122,ISIC_0031556,bkl,histo,60,male,scalp,Benign keratosis-like lesions ,-1,Non-Melanoma
+329,HAM_0006143,ISIC_0032168,bkl,histo,60,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+331,HAM_0003752,ISIC_0028308,bkl,histo,50,female,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+331,HAM_0003752,ISIC_0028308,bkl,histo,50,female,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+334,HAM_0000364,ISIC_0024505,bkl,histo,40,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+349,HAM_0005325,ISIC_0024971,bkl,histo,50,male,neck,Benign keratosis-like lesions ,-1,Non-Melanoma
+349,HAM_0005325,ISIC_0024971,bkl,histo,50,male,neck,Benign keratosis-like lesions ,-1,Non-Melanoma
+353,HAM_0002335,ISIC_0031812,bkl,histo,85,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+378,HAM_0000844,ISIC_0024773,bkl,histo,70,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+378,HAM_0000844,ISIC_0024773,bkl,histo,70,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+392,HAM_0006513,ISIC_0030783,bkl,histo,70,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+397,HAM_0000198,ISIC_0026923,bkl,histo,75,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+413,HAM_0005514,ISIC_0024453,bkl,histo,65,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+413,HAM_0005514,ISIC_0024453,bkl,histo,65,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+415,HAM_0004259,ISIC_0026644,bkl,histo,60,female,neck,Benign keratosis-like lesions ,-1,Non-Melanoma
+416,HAM_0001325,ISIC_0030522,bkl,histo,70,male,scalp,Benign keratosis-like lesions ,-1,Non-Melanoma
+417,HAM_0000298,ISIC_0029051,bkl,histo,65,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+421,HAM_0007261,ISIC_0031686,bkl,histo,65,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+427,HAM_0002301,ISIC_0028555,bkl,histo,50,male,scalp,Benign keratosis-like lesions ,-1,Non-Melanoma
+431,HAM_0004377,ISIC_0030561,bkl,histo,40,female,foot,Benign keratosis-like lesions ,-1,Non-Melanoma
+439,HAM_0004889,ISIC_0026714,bkl,histo,75,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+449,HAM_0006128,ISIC_0031770,bkl,histo,55,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+450,HAM_0006170,ISIC_0029557,bkl,histo,70,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+459,HAM_0004883,ISIC_0031851,bkl,histo,55,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+461,HAM_0005527,ISIC_0031819,bkl,histo,50,male,unknown,Benign keratosis-like lesions ,-1,Non-Melanoma
+462,HAM_0002535,ISIC_0027754,bkl,histo,50,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+466,HAM_0004988,ISIC_0025659,bkl,histo,75,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+466,HAM_0004988,ISIC_0025659,bkl,histo,75,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+470,HAM_0000744,ISIC_0029525,bkl,histo,70,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+473,HAM_0001057,ISIC_0032045,bkl,histo,75,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+477,HAM_0001603,ISIC_0031016,bkl,histo,70,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+484,HAM_0006580,ISIC_0025376,bkl,histo,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+485,HAM_0003899,ISIC_0029991,bkl,histo,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+494,HAM_0005591,ISIC_0025746,bkl,histo,60,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+501,HAM_0001245,ISIC_0025575,bkl,histo,60,male,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+518,HAM_0001979,ISIC_0027527,bkl,histo,55,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+518,HAM_0001979,ISIC_0027527,bkl,histo,55,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+534,HAM_0000973,ISIC_0025222,bkl,histo,65,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+536,HAM_0004010,ISIC_0031061,bkl,histo,60,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+537,HAM_0003943,ISIC_0025973,bkl,histo,80,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+542,HAM_0000299,ISIC_0029878,bkl,histo,55,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+546,HAM_0005335,ISIC_0025627,bkl,histo,40,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+553,HAM_0004801,ISIC_0030365,bkl,histo,50,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+564,HAM_0006595,ISIC_0028223,bkl,histo,55,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+572,HAM_0000833,ISIC_0031937,bkl,histo,40,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+580,HAM_0002350,ISIC_0026290,bkl,histo,85,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+582,HAM_0006343,ISIC_0024997,bkl,histo,60,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+589,HAM_0006211,ISIC_0025519,bkl,histo,50,male,neck,Benign keratosis-like lesions ,-1,Non-Melanoma
+590,HAM_0003605,ISIC_0029841,bkl,histo,55,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+594,HAM_0005082,ISIC_0029617,bkl,histo,65,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+595,HAM_0002357,ISIC_0031783,bkl,histo,70,male,neck,Benign keratosis-like lesions ,-1,Non-Melanoma
+598,HAM_0000425,ISIC_0026947,bkl,histo,50,male,scalp,Benign keratosis-like lesions ,-1,Non-Melanoma
+603,HAM_0001082,ISIC_0024696,bkl,histo,75,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+608,HAM_0000238,ISIC_0024910,bkl,histo,70,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+611,HAM_0001094,ISIC_0031150,bkl,histo,70,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+611,HAM_0001094,ISIC_0031150,bkl,histo,70,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+615,HAM_0005952,ISIC_0027916,bkl,histo,80,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+615,HAM_0005952,ISIC_0027916,bkl,histo,80,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+617,HAM_0006173,ISIC_0031961,bkl,histo,60,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+621,HAM_0006622,ISIC_0025939,bkl,histo,45,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+627,HAM_0002358,ISIC_0028650,bkl,histo,85,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+640,HAM_0004423,ISIC_0026737,bkl,histo,65,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+660,HAM_0006472,ISIC_0029032,bkl,histo,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+665,HAM_0004338,ISIC_0026704,bkl,histo,65,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+672,HAM_0001292,ISIC_0031951,bkl,histo,60,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+677,HAM_0001721,ISIC_0029040,bkl,histo,40,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+690,HAM_0004158,ISIC_0028229,bkl,histo,70,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+691,HAM_0000542,ISIC_0025068,bkl,histo,80,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+693,HAM_0000881,ISIC_0030372,bkl,histo,80,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+698,HAM_0004630,ISIC_0025292,bkl,histo,85,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+702,HAM_0001312,ISIC_0024871,bkl,histo,65,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+711,HAM_0000920,ISIC_0028707,bkl,histo,60,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+713,HAM_0001608,ISIC_0029406,bkl,histo,65,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+729,HAM_0001820,ISIC_0026744,bkl,histo,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+735,HAM_0000149,ISIC_0025113,bkl,histo,70,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+739,HAM_0004396,ISIC_0028913,bkl,histo,65,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+742,HAM_0004422,ISIC_0027239,bkl,histo,70,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+746,HAM_0001733,ISIC_0031496,bkl,histo,70,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+752,HAM_0004463,ISIC_0027770,bkl,histo,75,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+753,HAM_0004832,ISIC_0024709,bkl,histo,65,female,hand,Benign keratosis-like lesions ,-1,Non-Melanoma
+768,HAM_0004453,ISIC_0030677,bkl,confocal,65,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+783,HAM_0005967,ISIC_0032031,bkl,confocal,65,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+785,HAM_0000083,ISIC_0028622,bkl,confocal,60,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+796,HAM_0005632,ISIC_0025470,bkl,confocal,85,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+807,HAM_0000835,ISIC_0025378,bkl,confocal,55,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+808,HAM_0000835,ISIC_0030394,bkl,confocal,55,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+821,HAM_0007590,ISIC_0031528,bkl,confocal,40,male,unknown,Benign keratosis-like lesions ,-1,Non-Melanoma
+834,HAM_0006064,ISIC_0032111,bkl,consensus,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+844,HAM_0005404,ISIC_0028094,bkl,consensus,70,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+858,HAM_0006099,ISIC_0026311,bkl,consensus,55,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+864,HAM_0003920,ISIC_0026351,bkl,consensus,55,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+866,HAM_0006186,ISIC_0029427,bkl,consensus,0,male,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+877,HAM_0001011,ISIC_0032498,bkl,consensus,55,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+882,HAM_0001310,ISIC_0027820,bkl,consensus,50,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+900,HAM_0006009,ISIC_0026174,bkl,consensus,65,male,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+905,HAM_0005845,ISIC_0025851,bkl,consensus,80,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+915,HAM_0005903,ISIC_0032179,bkl,consensus,65,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+916,HAM_0006277,ISIC_0031428,bkl,consensus,55,male,scalp,Benign keratosis-like lesions ,-1,Non-Melanoma
+926,HAM_0004142,ISIC_0033732,bkl,consensus,80,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+927,HAM_0006003,ISIC_0032827,bkl,consensus,85,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+932,HAM_0004113,ISIC_0033185,bkl,consensus,55,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+934,HAM_0004258,ISIC_0033693,bkl,consensus,85,male,chest,Benign keratosis-like lesions ,-1,Non-Melanoma
+935,HAM_0006026,ISIC_0032804,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+935,HAM_0006026,ISIC_0032804,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+936,HAM_0006026,ISIC_0033924,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+937,HAM_0006026,ISIC_0033531,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+937,HAM_0006026,ISIC_0033531,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+939,HAM_0001772,ISIC_0033270,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+939,HAM_0001772,ISIC_0033270,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+941,HAM_0005749,ISIC_0032843,bkl,consensus,85,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+946,HAM_0006528,ISIC_0034291,bkl,consensus,70,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+949,HAM_0000571,ISIC_0032773,bkl,consensus,70,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+963,HAM_0007427,ISIC_0034221,bkl,consensus,60,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+969,HAM_0002660,ISIC_0033750,bkl,consensus,,unknown,unknown,Benign keratosis-like lesions ,-1,Non-Melanoma
+979,HAM_0005779,ISIC_0026790,bkl,consensus,55,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+982,HAM_0003393,ISIC_0032113,bkl,consensus,45,female,face,Benign keratosis-like lesions ,-1,Non-Melanoma
+983,HAM_0000090,ISIC_0032330,bkl,consensus,65,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+984,HAM_0002242,ISIC_0026511,bkl,consensus,45,male,abdomen,Benign keratosis-like lesions ,-1,Non-Melanoma
+986,HAM_0004322,ISIC_0027142,bkl,consensus,55,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+989,HAM_0000613,ISIC_0031253,bkl,consensus,60,male,hand,Benign keratosis-like lesions ,-1,Non-Melanoma
+999,HAM_0004078,ISIC_0026566,bkl,consensus,70,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1001,HAM_0003668,ISIC_0024383,bkl,consensus,70,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1004,HAM_0007151,ISIC_0029793,bkl,consensus,70,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1018,HAM_0003287,ISIC_0026846,bkl,consensus,80,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1021,HAM_0003973,ISIC_0026867,bkl,consensus,55,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1029,HAM_0006243,ISIC_0031436,bkl,consensus,75,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1029,HAM_0006243,ISIC_0031436,bkl,consensus,75,male,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1031,HAM_0000659,ISIC_0030088,bkl,consensus,75,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1033,HAM_0003859,ISIC_0027167,bkl,consensus,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+1040,HAM_0003165,ISIC_0025856,bkl,consensus,55,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1042,HAM_0002962,ISIC_0028331,bkl,consensus,80,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+1046,HAM_0001402,ISIC_0031558,bkl,consensus,50,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1046,HAM_0001402,ISIC_0031558,bkl,consensus,50,female,upper extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1051,HAM_0001062,ISIC_0027710,bkl,consensus,50,male,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1055,HAM_0006772,ISIC_0026135,bkl,consensus,75,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1064,HAM_0007219,ISIC_0029227,bkl,consensus,70,male,hand,Benign keratosis-like lesions ,-1,Non-Melanoma
+1065,HAM_0001423,ISIC_0025454,bkl,consensus,70,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+1066,HAM_0004289,ISIC_0025879,bkl,consensus,45,female,abdomen,Benign keratosis-like lesions ,-1,Non-Melanoma
+1068,HAM_0002503,ISIC_0029676,bkl,consensus,75,male,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+1071,HAM_0002965,ISIC_0026446,bkl,consensus,75,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1071,HAM_0002965,ISIC_0026446,bkl,consensus,75,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1074,HAM_0000452,ISIC_0029048,bkl,consensus,45,female,abdomen,Benign keratosis-like lesions ,-1,Non-Melanoma
+1083,HAM_0000792,ISIC_0025387,bkl,consensus,70,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+1083,HAM_0000792,ISIC_0025387,bkl,consensus,70,female,back,Benign keratosis-like lesions ,-1,Non-Melanoma
+1087,HAM_0000215,ISIC_0025484,bkl,consensus,70,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1087,HAM_0000215,ISIC_0025484,bkl,consensus,70,female,lower extremity,Benign keratosis-like lesions ,-1,Non-Melanoma
+1090,HAM_0000465,ISIC_0030583,bkl,consensus,35,female,trunk,Benign keratosis-like lesions ,-1,Non-Melanoma
+1095,HAM_0005276,ISIC_0027008,df,histo,75,male,back,Dermatofibroma,-1,Non-Melanoma
+1096,HAM_0005276,ISIC_0028790,df,histo,75,male,back,Dermatofibroma,-1,Non-Melanoma
+1097,HAM_0004103,ISIC_0028880,df,histo,55,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1098,HAM_0004103,ISIC_0031309,df,histo,55,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1099,HAM_0001164,ISIC_0030021,df,histo,50,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1100,HAM_0001164,ISIC_0027118,df,histo,50,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1101,HAM_0005684,ISIC_0027613,df,histo,75,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1102,HAM_0005684,ISIC_0032468,df,histo,75,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1103,HAM_0004330,ISIC_0029760,df,histo,70,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1104,HAM_0004330,ISIC_0030555,df,histo,70,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1105,HAM_0007526,ISIC_0030244,df,histo,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1106,HAM_0007526,ISIC_0031827,df,histo,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1107,HAM_0007051,ISIC_0031002,df,histo,65,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1108,HAM_0007051,ISIC_0025668,df,histo,65,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1109,HAM_0005518,ISIC_0032410,df,histo,30,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1110,HAM_0002546,ISIC_0030579,df,histo,55,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1111,HAM_0001785,ISIC_0034169,df,histo,50,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1112,HAM_0001785,ISIC_0032941,df,histo,50,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1113,HAM_0002909,ISIC_0032642,df,histo,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1114,HAM_0002909,ISIC_0033790,df,histo,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1115,HAM_0002909,ISIC_0033675,df,histo,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1116,HAM_0004756,ISIC_0029248,df,histo,55,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1117,HAM_0004756,ISIC_0030442,df,histo,55,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1118,HAM_0007225,ISIC_0032247,df,histo,75,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1119,HAM_0007225,ISIC_0031429,df,histo,75,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1120,HAM_0003555,ISIC_0030321,df,histo,30,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1121,HAM_0007421,ISIC_0025302,df,histo,60,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1122,HAM_0004317,ISIC_0029039,df,histo,50,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1123,HAM_0004317,ISIC_0025504,df,histo,50,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1124,HAM_0004036,ISIC_0027727,df,histo,55,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1125,HAM_0004036,ISIC_0027107,df,histo,55,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1126,HAM_0004036,ISIC_0027648,df,histo,55,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1127,HAM_0004960,ISIC_0029967,df,histo,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1128,HAM_0004960,ISIC_0027876,df,histo,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1129,HAM_0005492,ISIC_0032138,df,histo,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1130,HAM_0000720,ISIC_0028926,df,histo,65,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1131,HAM_0002706,ISIC_0025954,df,histo,40,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1132,HAM_0002706,ISIC_0029783,df,histo,40,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1133,HAM_0002895,ISIC_0029578,df,histo,60,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1134,HAM_0004371,ISIC_0030011,df,histo,45,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1135,HAM_0004371,ISIC_0030427,df,histo,45,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1136,HAM_0004371,ISIC_0027626,df,histo,45,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1137,HAM_0007227,ISIC_0024973,df,histo,75,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1138,HAM_0007227,ISIC_0029891,df,histo,75,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1139,HAM_0003290,ISIC_0030757,df,histo,80,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1140,HAM_0003290,ISIC_0031358,df,histo,80,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1141,HAM_0003290,ISIC_0031735,df,histo,80,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1142,HAM_0003110,ISIC_0026473,df,histo,65,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1143,HAM_0003110,ISIC_0032114,df,histo,65,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1144,HAM_0003110,ISIC_0026789,df,histo,65,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1145,HAM_0005861,ISIC_0031344,df,histo,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1146,HAM_0005861,ISIC_0028346,df,histo,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1147,HAM_0001177,ISIC_0025154,df,histo,55,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1148,HAM_0007410,ISIC_0029962,df,histo,65,male,foot,Dermatofibroma,-1,Non-Melanoma
+1149,HAM_0007410,ISIC_0031457,df,histo,65,male,foot,Dermatofibroma,-1,Non-Melanoma
+1150,HAM_0005362,ISIC_0029824,df,consensus,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1151,HAM_0005362,ISIC_0025622,df,consensus,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1152,HAM_0007418,ISIC_0031372,df,consensus,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1153,HAM_0007418,ISIC_0026313,df,consensus,50,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1154,HAM_0005663,ISIC_0026417,df,consensus,30,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1155,HAM_0005663,ISIC_0028735,df,consensus,30,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1156,HAM_0000827,ISIC_0031443,df,consensus,60,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1157,HAM_0000827,ISIC_0025223,df,consensus,60,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1158,HAM_0006542,ISIC_0030015,df,consensus,65,male,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1159,HAM_0002450,ISIC_0024318,df,consensus,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1160,HAM_0002450,ISIC_0024396,df,consensus,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1161,HAM_0006188,ISIC_0024330,df,consensus,40,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1162,HAM_0006188,ISIC_0027188,df,consensus,40,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1163,HAM_0003487,ISIC_0031123,df,consensus,40,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1164,HAM_0003487,ISIC_0024845,df,consensus,40,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1165,HAM_0005584,ISIC_0032613,df,consensus,25,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1166,HAM_0005584,ISIC_0033256,df,consensus,25,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1167,HAM_0006371,ISIC_0034135,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1168,HAM_0006371,ISIC_0033626,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1169,HAM_0006371,ISIC_0033780,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1170,HAM_0007396,ISIC_0033891,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1171,HAM_0007396,ISIC_0033554,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1172,HAM_0007396,ISIC_0033810,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1173,HAM_0000349,ISIC_0033695,df,consensus,45,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1174,HAM_0000349,ISIC_0033005,df,consensus,45,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1175,HAM_0003597,ISIC_0033422,df,consensus,45,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1176,HAM_0003597,ISIC_0027488,df,consensus,45,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1177,HAM_0003081,ISIC_0033808,df,consensus,45,male,abdomen,Dermatofibroma,-1,Non-Melanoma
+1178,HAM_0003081,ISIC_0033847,df,consensus,45,male,abdomen,Dermatofibroma,-1,Non-Melanoma
+1179,HAM_0003081,ISIC_0033860,df,consensus,45,male,abdomen,Dermatofibroma,-1,Non-Melanoma
+1180,HAM_0002960,ISIC_0024994,df,consensus,40,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1181,HAM_0006794,ISIC_0030830,df,consensus,50,female,genital,Dermatofibroma,-1,Non-Melanoma
+1182,HAM_0000902,ISIC_0027745,df,consensus,50,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1183,HAM_0005330,ISIC_0024553,df,consensus,50,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1184,HAM_0005983,ISIC_0025594,df,consensus,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1185,HAM_0004648,ISIC_0025911,df,consensus,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1186,HAM_0006816,ISIC_0026254,df,consensus,45,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1187,HAM_0006787,ISIC_0026471,df,consensus,60,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1188,HAM_0002463,ISIC_0029052,df,consensus,75,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1189,HAM_0005529,ISIC_0025980,df,consensus,55,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1190,HAM_0004090,ISIC_0031271,df,consensus,45,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1191,HAM_0002129,ISIC_0025903,df,consensus,60,male,abdomen,Dermatofibroma,-1,Non-Melanoma
+1192,HAM_0004496,ISIC_0028651,df,consensus,55,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1193,HAM_0005359,ISIC_0030665,df,consensus,55,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1194,HAM_0000024,ISIC_0027141,df,consensus,45,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1195,HAM_0003023,ISIC_0031257,df,consensus,55,female,upper extremity,Dermatofibroma,-1,Non-Melanoma
+1196,HAM_0005112,ISIC_0024386,df,consensus,40,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1197,HAM_0004065,ISIC_0026629,df,consensus,65,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1198,HAM_0002045,ISIC_0029973,df,consensus,60,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1199,HAM_0002848,ISIC_0027598,df,consensus,60,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1200,HAM_0003348,ISIC_0031799,df,consensus,70,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1201,HAM_0000049,ISIC_0029130,df,consensus,70,male,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1202,HAM_0002871,ISIC_0027044,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1203,HAM_0005918,ISIC_0029177,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1204,HAM_0000757,ISIC_0025314,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1205,HAM_0007569,ISIC_0025373,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1206,HAM_0001841,ISIC_0025771,df,consensus,35,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1207,HAM_0006707,ISIC_0030870,df,consensus,45,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1208,HAM_0002153,ISIC_0029297,df,consensus,40,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1209,HAM_0007129,ISIC_0027216,df,consensus,60,female,lower extremity,Dermatofibroma,-1,Non-Melanoma
+1211,HAM_0000871,ISIC_0025964,mel,histo,40,female,chest,Melanoma,0,Melanoma
+1212,HAM_0000871,ISIC_0030623,mel,histo,40,female,chest,Melanoma,0,Melanoma
+1213,HAM_0000040,ISIC_0027190,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1214,HAM_0005678,ISIC_0031023,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1215,HAM_0005678,ISIC_0028086,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1216,HAM_0005191,ISIC_0031177,mel,histo,40,female,back,Melanoma,0,Melanoma
+1217,HAM_0005186,ISIC_0026993,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1218,HAM_0007310,ISIC_0026120,mel,histo,55,male,back,Melanoma,0,Melanoma
+1219,HAM_0007310,ISIC_0028412,mel,histo,55,male,back,Melanoma,0,Melanoma
+1220,HAM_0004476,ISIC_0030417,mel,histo,70,male,face,Melanoma,0,Melanoma
+1221,HAM_0000876,ISIC_0026531,mel,histo,55,male,abdomen,Melanoma,0,Melanoma
+1222,HAM_0000876,ISIC_0032396,mel,histo,55,male,abdomen,Melanoma,0,Melanoma
+1223,HAM_0006722,ISIC_0030443,mel,histo,85,female,lower extremity,Melanoma,0,Melanoma
+1224,HAM_0006722,ISIC_0031499,mel,histo,85,female,lower extremity,Melanoma,0,Melanoma
+1225,HAM_0003832,ISIC_0025450,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1226,HAM_0003832,ISIC_0024586,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1227,HAM_0002143,ISIC_0025451,mel,histo,25,female,foot,Melanoma,0,Melanoma
+1228,HAM_0002119,ISIC_0032248,mel,histo,75,male,neck,Melanoma,0,Melanoma
+1229,HAM_0000492,ISIC_0028445,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1230,HAM_0000492,ISIC_0027076,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1231,HAM_0004784,ISIC_0029512,mel,histo,55,female,foot,Melanoma,0,Melanoma
+1232,HAM_0004784,ISIC_0027872,mel,histo,55,female,foot,Melanoma,0,Melanoma
+1233,HAM_0001150,ISIC_0030486,mel,histo,80,male,ear,Melanoma,0,Melanoma
+1234,HAM_0003182,ISIC_0029028,mel,histo,85,female,trunk,Melanoma,0,Melanoma
+1235,HAM_0003182,ISIC_0027125,mel,histo,85,female,trunk,Melanoma,0,Melanoma
+1236,HAM_0001747,ISIC_0029575,mel,histo,45,male,back,Melanoma,0,Melanoma
+1237,HAM_0001747,ISIC_0028361,mel,histo,45,male,back,Melanoma,0,Melanoma
+1238,HAM_0006453,ISIC_0029081,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1239,HAM_0006453,ISIC_0025744,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1240,HAM_0005557,ISIC_0030119,mel,histo,75,female,lower extremity,Melanoma,0,Melanoma
+1241,HAM_0005557,ISIC_0028215,mel,histo,75,female,lower extremity,Melanoma,0,Melanoma
+1242,HAM_0003558,ISIC_0025303,mel,histo,55,male,back,Melanoma,0,Melanoma
+1243,HAM_0003558,ISIC_0030129,mel,histo,55,male,back,Melanoma,0,Melanoma
+1244,HAM_0007454,ISIC_0032214,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1245,HAM_0001811,ISIC_0028069,mel,histo,35,female,neck,Melanoma,0,Melanoma
+1246,HAM_0001811,ISIC_0028579,mel,histo,35,female,neck,Melanoma,0,Melanoma
+1247,HAM_0001726,ISIC_0029281,mel,histo,35,female,back,Melanoma,0,Melanoma
+1248,HAM_0001726,ISIC_0024367,mel,histo,35,female,back,Melanoma,0,Melanoma
+1249,HAM_0003315,ISIC_0030281,mel,histo,50,female,trunk,Melanoma,0,Melanoma
+1250,HAM_0003315,ISIC_0024481,mel,histo,50,female,trunk,Melanoma,0,Melanoma
+1251,HAM_0006900,ISIC_0031118,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1252,HAM_0006900,ISIC_0030080,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1253,HAM_0000060,ISIC_0031953,mel,histo,55,male,abdomen,Melanoma,0,Melanoma
+1254,HAM_0000060,ISIC_0031406,mel,histo,55,male,abdomen,Melanoma,0,Melanoma
+1255,HAM_0004910,ISIC_0026115,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1256,HAM_0004910,ISIC_0026281,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1257,HAM_0004720,ISIC_0027277,mel,histo,40,male,lower extremity,Melanoma,0,Melanoma
+1258,HAM_0004720,ISIC_0028642,mel,histo,40,male,lower extremity,Melanoma,0,Melanoma
+1259,HAM_0005555,ISIC_0032079,mel,histo,60,female,chest,Melanoma,0,Melanoma
+1260,HAM_0004607,ISIC_0026150,mel,histo,50,female,back,Melanoma,0,Melanoma
+1261,HAM_0004607,ISIC_0031642,mel,histo,50,female,back,Melanoma,0,Melanoma
+1262,HAM_0007390,ISIC_0027043,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1263,HAM_0007390,ISIC_0027174,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1264,HAM_0002720,ISIC_0025277,mel,histo,75,male,ear,Melanoma,0,Melanoma
+1265,HAM_0002011,ISIC_0024729,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1266,HAM_0002011,ISIC_0031711,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1267,HAM_0004739,ISIC_0025234,mel,histo,70,male,back,Melanoma,0,Melanoma
+1268,HAM_0005481,ISIC_0029000,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+1269,HAM_0005481,ISIC_0025955,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+1270,HAM_0000814,ISIC_0025751,mel,histo,65,male,back,Melanoma,0,Melanoma
+1271,HAM_0001446,ISIC_0026754,mel,histo,65,female,scalp,Melanoma,0,Melanoma
+1272,HAM_0004813,ISIC_0027063,mel,histo,80,male,abdomen,Melanoma,0,Melanoma
+1273,HAM_0004813,ISIC_0032331,mel,histo,80,male,abdomen,Melanoma,0,Melanoma
+1274,HAM_0006803,ISIC_0032400,mel,histo,60,female,abdomen,Melanoma,0,Melanoma
+1275,HAM_0006803,ISIC_0024545,mel,histo,60,female,abdomen,Melanoma,0,Melanoma
+1276,HAM_0000814,ISIC_0028109,mel,histo,65,male,back,Melanoma,0,Melanoma
+1277,HAM_0000095,ISIC_0033186,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1278,HAM_0004126,ISIC_0030060,mel,histo,80,female,back,Melanoma,0,Melanoma
+1279,HAM_0004126,ISIC_0030211,mel,histo,80,female,back,Melanoma,0,Melanoma
+1280,HAM_0007560,ISIC_0026892,mel,histo,75,male,unknown,Melanoma,0,Melanoma
+1281,HAM_0007560,ISIC_0024987,mel,histo,75,male,unknown,Melanoma,0,Melanoma
+1282,HAM_0006253,ISIC_0030171,mel,histo,65,male,back,Melanoma,0,Melanoma
+1283,HAM_0006253,ISIC_0028291,mel,histo,65,male,back,Melanoma,0,Melanoma
+1284,HAM_0002534,ISIC_0024898,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+1285,HAM_0002534,ISIC_0029538,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+1286,HAM_0000099,ISIC_0032313,mel,histo,70,male,unknown,Melanoma,0,Melanoma
+1287,HAM_0000099,ISIC_0027769,mel,histo,70,male,unknown,Melanoma,0,Melanoma
+1288,HAM_0007171,ISIC_0029913,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1289,HAM_0007171,ISIC_0026909,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1290,HAM_0002714,ISIC_0026113,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1291,HAM_0002714,ISIC_0032265,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1292,HAM_0003802,ISIC_0032308,mel,histo,75,male,face,Melanoma,0,Melanoma
+1293,HAM_0001203,ISIC_0025081,mel,histo,30,female,abdomen,Melanoma,0,Melanoma
+1294,HAM_0001203,ISIC_0030134,mel,histo,30,female,abdomen,Melanoma,0,Melanoma
+1295,HAM_0003031,ISIC_0030445,mel,histo,75,male,back,Melanoma,0,Melanoma
+1296,HAM_0001913,ISIC_0030798,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1297,HAM_0004979,ISIC_0026596,mel,histo,85,male,back,Melanoma,0,Melanoma
+1298,HAM_0004979,ISIC_0028056,mel,histo,85,male,back,Melanoma,0,Melanoma
+1299,HAM_0003194,ISIC_0032019,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+1300,HAM_0006521,ISIC_0025155,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+1301,HAM_0006521,ISIC_0031557,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+1302,HAM_0001847,ISIC_0024792,mel,histo,50,male,back,Melanoma,0,Melanoma
+1303,HAM_0001847,ISIC_0030898,mel,histo,50,male,back,Melanoma,0,Melanoma
+1304,HAM_0000152,ISIC_0032244,mel,histo,75,female,face,Melanoma,0,Melanoma
+1305,HAM_0006739,ISIC_0028901,mel,histo,35,female,ear,Melanoma,0,Melanoma
+1306,HAM_0006739,ISIC_0032098,mel,histo,35,female,ear,Melanoma,0,Melanoma
+1307,HAM_0004579,ISIC_0025603,mel,histo,75,male,trunk,Melanoma,0,Melanoma
+1308,HAM_0004643,ISIC_0029651,mel,histo,65,male,back,Melanoma,0,Melanoma
+1309,HAM_0004643,ISIC_0032044,mel,histo,65,male,back,Melanoma,0,Melanoma
+1310,HAM_0001353,ISIC_0030759,mel,histo,55,female,face,Melanoma,0,Melanoma
+1311,HAM_0001353,ISIC_0024886,mel,histo,55,female,face,Melanoma,0,Melanoma
+1312,HAM_0003782,ISIC_0027102,mel,histo,35,female,abdomen,Melanoma,0,Melanoma
+1313,HAM_0006908,ISIC_0025904,mel,histo,70,male,back,Melanoma,0,Melanoma
+1314,HAM_0006908,ISIC_0032450,mel,histo,70,male,back,Melanoma,0,Melanoma
+1315,HAM_0005697,ISIC_0027253,mel,histo,75,male,trunk,Melanoma,0,Melanoma
+1316,HAM_0005697,ISIC_0032046,mel,histo,75,male,trunk,Melanoma,0,Melanoma
+1317,HAM_0006692,ISIC_0029163,mel,histo,80,male,scalp,Melanoma,0,Melanoma
+1318,HAM_0006692,ISIC_0029630,mel,histo,80,male,scalp,Melanoma,0,Melanoma
+1319,HAM_0000210,ISIC_0024624,mel,histo,75,female,face,Melanoma,0,Melanoma
+1320,HAM_0000531,ISIC_0025674,mel,histo,85,male,face,Melanoma,0,Melanoma
+1321,HAM_0000531,ISIC_0031369,mel,histo,85,male,face,Melanoma,0,Melanoma
+1322,HAM_0007165,ISIC_0029547,mel,histo,80,male,unknown,Melanoma,0,Melanoma
+1323,HAM_0007165,ISIC_0026622,mel,histo,80,male,unknown,Melanoma,0,Melanoma
+1324,HAM_0002471,ISIC_0028326,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1325,HAM_0002471,ISIC_0027060,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1326,HAM_0007538,ISIC_0031941,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1327,HAM_0007538,ISIC_0024315,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1328,HAM_0002838,ISIC_0030818,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1329,HAM_0003990,ISIC_0026360,mel,histo,60,male,back,Melanoma,0,Melanoma
+1330,HAM_0003990,ISIC_0025996,mel,histo,60,male,back,Melanoma,0,Melanoma
+1331,HAM_0005588,ISIC_0025219,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+1332,HAM_0005588,ISIC_0026458,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+1333,HAM_0001531,ISIC_0024951,mel,histo,70,male,back,Melanoma,0,Melanoma
+1334,HAM_0001531,ISIC_0030106,mel,histo,70,male,back,Melanoma,0,Melanoma
+1335,HAM_0000903,ISIC_0024702,mel,histo,60,male,back,Melanoma,0,Melanoma
+1336,HAM_0001284,ISIC_0024972,mel,histo,75,female,ear,Melanoma,0,Melanoma
+1337,HAM_0001284,ISIC_0031779,mel,histo,75,female,ear,Melanoma,0,Melanoma
+1338,HAM_0001328,ISIC_0028442,mel,histo,75,male,unknown,Melanoma,0,Melanoma
+1339,HAM_0001671,ISIC_0031745,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1340,HAM_0001671,ISIC_0031586,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1341,HAM_0002182,ISIC_0031972,mel,histo,65,female,face,Melanoma,0,Melanoma
+1342,HAM_0002182,ISIC_0030539,mel,histo,65,female,face,Melanoma,0,Melanoma
+1343,HAM_0006828,ISIC_0031977,mel,histo,85,male,back,Melanoma,0,Melanoma
+1344,HAM_0004265,ISIC_0026296,mel,histo,45,male,unknown,Melanoma,0,Melanoma
+1345,HAM_0004265,ISIC_0025018,mel,histo,45,male,unknown,Melanoma,0,Melanoma
+1346,HAM_0003212,ISIC_0028519,mel,histo,80,male,back,Melanoma,0,Melanoma
+1347,HAM_0003212,ISIC_0024767,mel,histo,80,male,back,Melanoma,0,Melanoma
+1348,HAM_0001202,ISIC_0031517,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1349,HAM_0001202,ISIC_0028022,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1350,HAM_0006975,ISIC_0024967,mel,histo,60,male,back,Melanoma,0,Melanoma
+1351,HAM_0006433,ISIC_0029370,mel,histo,85,female,upper extremity,Melanoma,0,Melanoma
+1352,HAM_0006433,ISIC_0031958,mel,histo,85,female,upper extremity,Melanoma,0,Melanoma
+1353,HAM_0006522,ISIC_0026369,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1354,HAM_0006522,ISIC_0030521,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1355,HAM_0004483,ISIC_0027487,mel,histo,35,female,lower extremity,Melanoma,0,Melanoma
+1356,HAM_0002955,ISIC_0029212,mel,histo,75,female,lower extremity,Melanoma,0,Melanoma
+1357,HAM_0007620,ISIC_0030089,mel,histo,55,female,back,Melanoma,0,Melanoma
+1358,HAM_0007620,ISIC_0027616,mel,histo,55,female,back,Melanoma,0,Melanoma
+1359,HAM_0005084,ISIC_0027261,mel,histo,75,male,ear,Melanoma,0,Melanoma
+1360,HAM_0005084,ISIC_0028505,mel,histo,75,male,ear,Melanoma,0,Melanoma
+1361,HAM_0005381,ISIC_0025153,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1362,HAM_0005381,ISIC_0031598,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1363,HAM_0001796,ISIC_0025363,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1364,HAM_0001796,ISIC_0029473,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1365,HAM_0005742,ISIC_0027651,mel,histo,50,male,ear,Melanoma,0,Melanoma
+1366,HAM_0005742,ISIC_0030014,mel,histo,50,male,ear,Melanoma,0,Melanoma
+1367,HAM_0006152,ISIC_0027238,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1368,HAM_0006152,ISIC_0029571,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1369,HAM_0001600,ISIC_0024675,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1370,HAM_0001600,ISIC_0025891,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1371,HAM_0004980,ISIC_0027693,mel,histo,45,female,back,Melanoma,0,Melanoma
+1372,HAM_0004980,ISIC_0029017,mel,histo,45,female,back,Melanoma,0,Melanoma
+1373,HAM_0003521,ISIC_0032220,mel,histo,70,female,back,Melanoma,0,Melanoma
+1374,HAM_0005911,ISIC_0028127,mel,histo,70,female,back,Melanoma,0,Melanoma
+1375,HAM_0005911,ISIC_0030165,mel,histo,70,female,back,Melanoma,0,Melanoma
+1376,HAM_0002557,ISIC_0025927,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1377,HAM_0006214,ISIC_0031189,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+1378,HAM_0006214,ISIC_0032190,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+1379,HAM_0000417,ISIC_0025783,mel,histo,65,male,back,Melanoma,0,Melanoma
+1380,HAM_0006092,ISIC_0029241,mel,histo,70,male,face,Melanoma,0,Melanoma
+1381,HAM_0003683,ISIC_0027352,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1382,HAM_0003683,ISIC_0029558,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1383,HAM_0007420,ISIC_0031890,mel,histo,85,male,face,Melanoma,0,Melanoma
+1384,HAM_0007229,ISIC_0031545,mel,histo,75,female,back,Melanoma,0,Melanoma
+1385,HAM_0000233,ISIC_0028219,mel,histo,45,male,upper extremity,Melanoma,0,Melanoma
+1386,HAM_0000233,ISIC_0026314,mel,histo,45,male,upper extremity,Melanoma,0,Melanoma
+1387,HAM_0007617,ISIC_0024875,mel,histo,85,female,face,Melanoma,0,Melanoma
+1388,HAM_0007617,ISIC_0026950,mel,histo,85,female,face,Melanoma,0,Melanoma
+1389,HAM_0000059,ISIC_0027033,mel,histo,85,male,face,Melanoma,0,Melanoma
+1390,HAM_0000059,ISIC_0027822,mel,histo,85,male,face,Melanoma,0,Melanoma
+1391,HAM_0003449,ISIC_0029242,mel,histo,85,male,back,Melanoma,0,Melanoma
+1392,HAM_0003449,ISIC_0027263,mel,histo,85,male,back,Melanoma,0,Melanoma
+1393,HAM_0004676,ISIC_0026247,mel,histo,85,male,back,Melanoma,0,Melanoma
+1394,HAM_0004676,ISIC_0028467,mel,histo,85,male,back,Melanoma,0,Melanoma
+1395,HAM_0003448,ISIC_0026158,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1396,HAM_0004153,ISIC_0029216,mel,histo,80,male,foot,Melanoma,0,Melanoma
+1397,HAM_0004153,ISIC_0026489,mel,histo,80,male,foot,Melanoma,0,Melanoma
+1398,HAM_0000062,ISIC_0028878,mel,histo,55,male,back,Melanoma,0,Melanoma
+1399,HAM_0007117,ISIC_0033312,mel,histo,35,male,back,Melanoma,0,Melanoma
+1400,HAM_0006751,ISIC_0024400,mel,histo,75,female,unknown,Melanoma,0,Melanoma
+1401,HAM_0006635,ISIC_0029884,mel,histo,70,male,face,Melanoma,0,Melanoma
+1402,HAM_0006635,ISIC_0028900,mel,histo,70,male,face,Melanoma,0,Melanoma
+1403,HAM_0006896,ISIC_0027387,mel,histo,45,female,back,Melanoma,0,Melanoma
+1404,HAM_0006896,ISIC_0024911,mel,histo,45,female,back,Melanoma,0,Melanoma
+1405,HAM_0005642,ISIC_0027659,mel,histo,70,male,back,Melanoma,0,Melanoma
+1406,HAM_0005642,ISIC_0030223,mel,histo,70,male,back,Melanoma,0,Melanoma
+1407,HAM_0006651,ISIC_0032182,mel,histo,70,female,back,Melanoma,0,Melanoma
+1408,HAM_0004364,ISIC_0027721,mel,histo,75,male,face,Melanoma,0,Melanoma
+1409,HAM_0004364,ISIC_0026697,mel,histo,75,male,face,Melanoma,0,Melanoma
+1410,HAM_0005624,ISIC_0030760,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1411,HAM_0005624,ISIC_0028565,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1412,HAM_0000709,ISIC_0034006,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1413,HAM_0002981,ISIC_0028087,mel,histo,65,female,back,Melanoma,0,Melanoma
+1414,HAM_0002981,ISIC_0026664,mel,histo,65,female,back,Melanoma,0,Melanoma
+1415,HAM_0001703,ISIC_0029660,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1416,HAM_0001703,ISIC_0024496,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1417,HAM_0000796,ISIC_0028415,mel,histo,60,male,trunk,Melanoma,0,Melanoma
+1418,HAM_0000796,ISIC_0028041,mel,histo,60,male,trunk,Melanoma,0,Melanoma
+1419,HAM_0003330,ISIC_0028696,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1420,HAM_0003330,ISIC_0029343,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1421,HAM_0002897,ISIC_0030552,mel,histo,75,male,back,Melanoma,0,Melanoma
+1422,HAM_0004102,ISIC_0029726,mel,histo,75,male,face,Melanoma,0,Melanoma
+1423,HAM_0000645,ISIC_0029513,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1424,HAM_0000645,ISIC_0024853,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1425,HAM_0006208,ISIC_0028916,mel,histo,60,female,face,Melanoma,0,Melanoma
+1426,HAM_0007243,ISIC_0028029,mel,histo,75,female,neck,Melanoma,0,Melanoma
+1427,HAM_0000330,ISIC_0030824,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1428,HAM_0001729,ISIC_0028325,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1429,HAM_0001729,ISIC_0024537,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1430,HAM_0003497,ISIC_0031310,mel,histo,50,female,lower extremity,Melanoma,0,Melanoma
+1431,HAM_0002115,ISIC_0032408,mel,histo,60,female,upper extremity,Melanoma,0,Melanoma
+1432,HAM_0002509,ISIC_0030440,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1433,HAM_0002509,ISIC_0024732,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1434,HAM_0002770,ISIC_0025489,mel,histo,30,male,back,Melanoma,0,Melanoma
+1435,HAM_0002770,ISIC_0025265,mel,histo,30,male,back,Melanoma,0,Melanoma
+1436,HAM_0005785,ISIC_0028489,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1437,HAM_0005785,ISIC_0026236,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1438,HAM_0005752,ISIC_0028317,mel,histo,65,female,face,Melanoma,0,Melanoma
+1439,HAM_0005752,ISIC_0031013,mel,histo,65,female,face,Melanoma,0,Melanoma
+1440,HAM_0005328,ISIC_0028969,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1441,HAM_0005328,ISIC_0032441,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1442,HAM_0005095,ISIC_0030324,mel,histo,85,male,face,Melanoma,0,Melanoma
+1443,HAM_0003376,ISIC_0025394,mel,histo,45,male,trunk,Melanoma,0,Melanoma
+1444,HAM_0002391,ISIC_0027260,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1445,HAM_0002391,ISIC_0027604,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1446,HAM_0002391,ISIC_0029434,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1447,HAM_0001741,ISIC_0026963,mel,histo,65,male,face,Melanoma,0,Melanoma
+1448,HAM_0001741,ISIC_0028211,mel,histo,65,male,face,Melanoma,0,Melanoma
+1449,HAM_0003350,ISIC_0027300,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1450,HAM_0003350,ISIC_0028512,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1451,HAM_0003350,ISIC_0024310,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1452,HAM_0001734,ISIC_0033496,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1453,HAM_0001734,ISIC_0032927,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1454,HAM_0001734,ISIC_0024865,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1455,HAM_0004121,ISIC_0025324,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1456,HAM_0004121,ISIC_0026996,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1457,HAM_0004397,ISIC_0030681,mel,histo,55,female,neck,Melanoma,0,Melanoma
+1458,HAM_0004397,ISIC_0027327,mel,histo,55,female,neck,Melanoma,0,Melanoma
+1459,HAM_0004397,ISIC_0025589,mel,histo,55,female,neck,Melanoma,0,Melanoma
+1460,HAM_0007272,ISIC_0024756,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1461,HAM_0005719,ISIC_0029562,mel,histo,40,female,upper extremity,Melanoma,0,Melanoma
+1462,HAM_0005719,ISIC_0029453,mel,histo,40,female,upper extremity,Melanoma,0,Melanoma
+1463,HAM_0006435,ISIC_0034071,mel,histo,50,male,back,Melanoma,0,Melanoma
+1464,HAM_0006435,ISIC_0033573,mel,histo,50,male,back,Melanoma,0,Melanoma
+1465,HAM_0005403,ISIC_0026086,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1466,HAM_0007073,ISIC_0025035,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1467,HAM_0003622,ISIC_0027776,mel,histo,70,female,face,Melanoma,0,Melanoma
+1468,HAM_0001456,ISIC_0025835,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+1469,HAM_0001456,ISIC_0030828,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+1470,HAM_0002004,ISIC_0032847,mel,histo,45,male,abdomen,Melanoma,0,Melanoma
+1471,HAM_0002004,ISIC_0033654,mel,histo,45,male,abdomen,Melanoma,0,Melanoma
+1472,HAM_0002032,ISIC_0030575,mel,histo,25,male,back,Melanoma,0,Melanoma
+1473,HAM_0005490,ISIC_0033931,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1474,HAM_0007163,ISIC_0033268,mel,histo,50,female,lower extremity,Melanoma,0,Melanoma
+1475,HAM_0007163,ISIC_0032750,mel,histo,50,female,lower extremity,Melanoma,0,Melanoma
+1476,HAM_0002939,ISIC_0032888,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1477,HAM_0002939,ISIC_0033968,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1478,HAM_0006445,ISIC_0033333,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1479,HAM_0006445,ISIC_0033717,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1480,HAM_0006445,ISIC_0034120,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1481,HAM_0004405,ISIC_0032532,mel,histo,80,male,back,Melanoma,0,Melanoma
+1482,HAM_0004405,ISIC_0033500,mel,histo,80,male,back,Melanoma,0,Melanoma
+1483,HAM_0001412,ISIC_0033834,mel,histo,75,female,back,Melanoma,0,Melanoma
+1484,HAM_0001412,ISIC_0033678,mel,histo,75,female,back,Melanoma,0,Melanoma
+1485,HAM_0000179,ISIC_0034046,mel,histo,45,male,back,Melanoma,0,Melanoma
+1486,HAM_0000179,ISIC_0032550,mel,histo,45,male,back,Melanoma,0,Melanoma
+1487,HAM_0000179,ISIC_0033700,mel,histo,45,male,back,Melanoma,0,Melanoma
+1488,HAM_0001409,ISIC_0026188,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1489,HAM_0003083,ISIC_0032604,mel,histo,75,male,chest,Melanoma,0,Melanoma
+1490,HAM_0003083,ISIC_0033428,mel,histo,75,male,chest,Melanoma,0,Melanoma
+1491,HAM_0000878,ISIC_0028746,mel,histo,70,male,back,Melanoma,0,Melanoma
+1492,HAM_0003983,ISIC_0033975,mel,histo,85,male,abdomen,Melanoma,0,Melanoma
+1493,HAM_0003983,ISIC_0033278,mel,histo,85,male,abdomen,Melanoma,0,Melanoma
+1494,HAM_0003983,ISIC_0033679,mel,histo,85,male,abdomen,Melanoma,0,Melanoma
+1495,HAM_0000483,ISIC_0034141,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+1496,HAM_0000483,ISIC_0033643,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+1497,HAM_0000483,ISIC_0032629,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+1498,HAM_0001135,ISIC_0033152,mel,histo,65,female,back,Melanoma,0,Melanoma
+1499,HAM_0005500,ISIC_0033636,mel,histo,75,male,trunk,Melanoma,0,Melanoma
+1500,HAM_0001266,ISIC_0029909,mel,histo,75,female,ear,Melanoma,0,Melanoma
+1501,HAM_0005893,ISIC_0033432,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1502,HAM_0005893,ISIC_0032833,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1503,HAM_0005893,ISIC_0034236,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1504,HAM_0001174,ISIC_0033027,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1505,HAM_0002824,ISIC_0034118,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1506,HAM_0002824,ISIC_0033476,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1507,HAM_0002824,ISIC_0033047,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1508,HAM_0002824,ISIC_0025987,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1509,HAM_0007368,ISIC_0032017,mel,histo,70,male,face,Melanoma,0,Melanoma
+1510,HAM_0007343,ISIC_0033946,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1511,HAM_0007343,ISIC_0033369,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1512,HAM_0007343,ISIC_0032447,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1513,HAM_0007343,ISIC_0033655,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1514,HAM_0007343,ISIC_0033831,mel,histo,70,male,chest,Melanoma,0,Melanoma
+1515,HAM_0000006,ISIC_0032583,mel,histo,70,male,back,Melanoma,0,Melanoma
+1516,HAM_0000006,ISIC_0034162,mel,histo,70,male,back,Melanoma,0,Melanoma
+1517,HAM_0000006,ISIC_0032187,mel,histo,70,male,back,Melanoma,0,Melanoma
+1518,HAM_0006330,ISIC_0032976,mel,histo,80,female,face,Melanoma,0,Melanoma
+1519,HAM_0006330,ISIC_0033274,mel,histo,80,female,face,Melanoma,0,Melanoma
+1520,HAM_0006330,ISIC_0026745,mel,histo,80,female,face,Melanoma,0,Melanoma
+1521,HAM_0007032,ISIC_0033034,mel,histo,70,female,back,Melanoma,0,Melanoma
+1522,HAM_0007032,ISIC_0034294,mel,histo,70,female,back,Melanoma,0,Melanoma
+1523,HAM_0007032,ISIC_0034202,mel,histo,70,female,back,Melanoma,0,Melanoma
+1524,HAM_0003386,ISIC_0033416,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1525,HAM_0003386,ISIC_0032662,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1526,HAM_0003386,ISIC_0033452,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1527,HAM_0005368,ISIC_0033074,mel,histo,45,male,chest,Melanoma,0,Melanoma
+1528,HAM_0005368,ISIC_0034087,mel,histo,45,male,chest,Melanoma,0,Melanoma
+1529,HAM_0005368,ISIC_0032722,mel,histo,45,male,chest,Melanoma,0,Melanoma
+1530,HAM_0006886,ISIC_0033204,mel,histo,55,male,back,Melanoma,0,Melanoma
+1531,HAM_0006886,ISIC_0033953,mel,histo,55,male,back,Melanoma,0,Melanoma
+1532,HAM_0006886,ISIC_0032823,mel,histo,55,male,back,Melanoma,0,Melanoma
+1533,HAM_0000321,ISIC_0032733,mel,histo,70,male,back,Melanoma,0,Melanoma
+1534,HAM_0000321,ISIC_0033183,mel,histo,70,male,back,Melanoma,0,Melanoma
+1535,HAM_0000321,ISIC_0032564,mel,histo,70,male,back,Melanoma,0,Melanoma
+1536,HAM_0005636,ISIC_0034140,mel,histo,70,male,back,Melanoma,0,Melanoma
+1537,HAM_0005636,ISIC_0034256,mel,histo,70,male,back,Melanoma,0,Melanoma
+1538,HAM_0005636,ISIC_0032984,mel,histo,70,male,back,Melanoma,0,Melanoma
+1539,HAM_0007234,ISIC_0033362,mel,histo,85,female,back,Melanoma,0,Melanoma
+1540,HAM_0005545,ISIC_0033947,mel,histo,40,female,face,Melanoma,0,Melanoma
+1541,HAM_0005545,ISIC_0033881,mel,histo,40,female,face,Melanoma,0,Melanoma
+1542,HAM_0005400,ISIC_0029363,mel,histo,80,male,back,Melanoma,0,Melanoma
+1543,HAM_0002086,ISIC_0033820,mel,histo,70,male,face,Melanoma,0,Melanoma
+1544,HAM_0002086,ISIC_0033814,mel,histo,70,male,face,Melanoma,0,Melanoma
+1545,HAM_0003625,ISIC_0032875,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1546,HAM_0003625,ISIC_0033802,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1547,HAM_0003625,ISIC_0033429,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+1548,HAM_0005608,ISIC_0032685,mel,histo,75,male,back,Melanoma,0,Melanoma
+1549,HAM_0005608,ISIC_0032903,mel,histo,75,male,back,Melanoma,0,Melanoma
+1550,HAM_0005608,ISIC_0033323,mel,histo,75,male,back,Melanoma,0,Melanoma
+1551,HAM_0002956,ISIC_0032637,mel,histo,35,female,abdomen,Melanoma,0,Melanoma
+1552,HAM_0002956,ISIC_0032993,mel,histo,35,female,abdomen,Melanoma,0,Melanoma
+1553,HAM_0000611,ISIC_0033804,mel,histo,30,female,back,Melanoma,0,Melanoma
+1554,HAM_0000611,ISIC_0033801,mel,histo,30,female,back,Melanoma,0,Melanoma
+1555,HAM_0000611,ISIC_0033216,mel,histo,30,female,back,Melanoma,0,Melanoma
+1556,HAM_0005336,ISIC_0033154,mel,histo,30,male,trunk,Melanoma,0,Melanoma
+1557,HAM_0005336,ISIC_0033192,mel,histo,30,male,trunk,Melanoma,0,Melanoma
+1558,HAM_0005352,ISIC_0027100,mel,histo,75,male,face,Melanoma,0,Melanoma
+1559,HAM_0002235,ISIC_0034222,mel,histo,30,male,back,Melanoma,0,Melanoma
+1560,HAM_0002235,ISIC_0032569,mel,histo,30,male,back,Melanoma,0,Melanoma
+1561,HAM_0002235,ISIC_0034064,mel,histo,30,male,back,Melanoma,0,Melanoma
+1562,HAM_0000048,ISIC_0033902,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+1563,HAM_0000048,ISIC_0032774,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+1564,HAM_0003679,ISIC_0032840,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1565,HAM_0003679,ISIC_0034313,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1566,HAM_0003679,ISIC_0033570,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1567,HAM_0004811,ISIC_0032602,mel,histo,50,female,back,Melanoma,0,Melanoma
+1568,HAM_0004811,ISIC_0032724,mel,histo,50,female,back,Melanoma,0,Melanoma
+1569,HAM_0004811,ISIC_0033129,mel,histo,50,female,back,Melanoma,0,Melanoma
+1570,HAM_0005010,ISIC_0033180,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1571,HAM_0005010,ISIC_0033962,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1572,HAM_0005010,ISIC_0033603,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1573,HAM_0005777,ISIC_0033325,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1574,HAM_0005777,ISIC_0034208,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1575,HAM_0002671,ISIC_0033068,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1576,HAM_0002671,ISIC_0034218,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1577,HAM_0002671,ISIC_0034263,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1578,HAM_0000097,ISIC_0034262,mel,histo,65,male,foot,Melanoma,0,Melanoma
+1579,HAM_0000097,ISIC_0033103,mel,histo,65,male,foot,Melanoma,0,Melanoma
+1580,HAM_0000097,ISIC_0034106,mel,histo,65,male,foot,Melanoma,0,Melanoma
+1581,HAM_0001928,ISIC_0033725,mel,histo,55,male,chest,Melanoma,0,Melanoma
+1582,HAM_0001928,ISIC_0032537,mel,histo,55,male,chest,Melanoma,0,Melanoma
+1583,HAM_0001928,ISIC_0033287,mel,histo,55,male,chest,Melanoma,0,Melanoma
+1584,HAM_0005758,ISIC_0033286,mel,histo,85,male,chest,Melanoma,0,Melanoma
+1585,HAM_0005758,ISIC_0032586,mel,histo,85,male,chest,Melanoma,0,Melanoma
+1586,HAM_0005535,ISIC_0029632,mel,histo,55,male,back,Melanoma,0,Melanoma
+1587,HAM_0003556,ISIC_0033485,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1588,HAM_0003556,ISIC_0033175,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1589,HAM_0003556,ISIC_0033886,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1590,HAM_0003354,ISIC_0032892,mel,histo,85,female,back,Melanoma,0,Melanoma
+1591,HAM_0000322,ISIC_0033942,mel,histo,65,male,back,Melanoma,0,Melanoma
+1592,HAM_0000322,ISIC_0033473,mel,histo,65,male,back,Melanoma,0,Melanoma
+1593,HAM_0005613,ISIC_0030564,mel,histo,45,male,face,Melanoma,0,Melanoma
+1594,HAM_0005581,ISIC_0033337,mel,histo,50,male,back,Melanoma,0,Melanoma
+1595,HAM_0005581,ISIC_0033594,mel,histo,50,male,back,Melanoma,0,Melanoma
+1596,HAM_0000319,ISIC_0029209,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+1597,HAM_0000358,ISIC_0026976,mel,histo,60,male,back,Melanoma,0,Melanoma
+1598,HAM_0003280,ISIC_0033275,mel,histo,60,female,chest,Melanoma,0,Melanoma
+1599,HAM_0003280,ISIC_0033938,mel,histo,60,female,chest,Melanoma,0,Melanoma
+1600,HAM_0003280,ISIC_0032841,mel,histo,60,female,chest,Melanoma,0,Melanoma
+1601,HAM_0000388,ISIC_0033819,mel,histo,60,male,back,Melanoma,0,Melanoma
+1602,HAM_0000388,ISIC_0032544,mel,histo,60,male,back,Melanoma,0,Melanoma
+1603,HAM_0000388,ISIC_0032844,mel,histo,60,male,back,Melanoma,0,Melanoma
+1604,HAM_0004927,ISIC_0032921,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1605,HAM_0004927,ISIC_0034117,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1606,HAM_0004927,ISIC_0033415,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+1607,HAM_0005303,ISIC_0033240,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1608,HAM_0005303,ISIC_0032782,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1609,HAM_0005303,ISIC_0032522,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1610,HAM_0005280,ISIC_0033595,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1611,HAM_0005280,ISIC_0034059,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1612,HAM_0005280,ISIC_0033063,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1613,HAM_0006321,ISIC_0033174,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1614,HAM_0006321,ISIC_0033239,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1615,HAM_0006321,ISIC_0033985,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1616,HAM_0007180,ISIC_0032726,mel,histo,65,male,face,Melanoma,0,Melanoma
+1617,HAM_0007180,ISIC_0033272,mel,histo,65,male,face,Melanoma,0,Melanoma
+1618,HAM_0003202,ISIC_0032718,mel,histo,65,male,chest,Melanoma,0,Melanoma
+1619,HAM_0003202,ISIC_0032736,mel,histo,65,male,chest,Melanoma,0,Melanoma
+1620,HAM_0000662,ISIC_0033317,mel,histo,80,male,face,Melanoma,0,Melanoma
+1621,HAM_0000662,ISIC_0034269,mel,histo,80,male,face,Melanoma,0,Melanoma
+1622,HAM_0000662,ISIC_0033956,mel,histo,80,male,face,Melanoma,0,Melanoma
+1623,HAM_0006545,ISIC_0033241,mel,histo,50,female,back,Melanoma,0,Melanoma
+1624,HAM_0006545,ISIC_0032598,mel,histo,50,female,back,Melanoma,0,Melanoma
+1625,HAM_0006545,ISIC_0034289,mel,histo,50,female,back,Melanoma,0,Melanoma
+1626,HAM_0003602,ISIC_0033980,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1627,HAM_0003602,ISIC_0032533,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1628,HAM_0003602,ISIC_0033986,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1629,HAM_0003602,ISIC_0033004,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+1630,HAM_0004593,ISIC_0024900,mel,histo,65,female,back,Melanoma,0,Melanoma
+1631,HAM_0004593,ISIC_0032072,mel,histo,65,female,back,Melanoma,0,Melanoma
+1632,HAM_0004571,ISIC_0033578,mel,histo,65,male,face,Melanoma,0,Melanoma
+1633,HAM_0004571,ISIC_0034100,mel,histo,65,male,face,Melanoma,0,Melanoma
+1634,HAM_0005628,ISIC_0032940,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1635,HAM_0003620,ISIC_0032511,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1636,HAM_0007117,ISIC_0033687,mel,histo,35,male,back,Melanoma,0,Melanoma
+1637,HAM_0007117,ISIC_0034085,mel,histo,35,male,back,Melanoma,0,Melanoma
+1638,HAM_0000107,ISIC_0033299,mel,histo,85,male,trunk,Melanoma,0,Melanoma
+1639,HAM_0004321,ISIC_0033479,mel,histo,40,female,back,Melanoma,0,Melanoma
+1640,HAM_0004321,ISIC_0033522,mel,histo,40,female,back,Melanoma,0,Melanoma
+1641,HAM_0005711,ISIC_0033911,mel,histo,35,male,back,Melanoma,0,Melanoma
+1642,HAM_0005711,ISIC_0033779,mel,histo,35,male,back,Melanoma,0,Melanoma
+1643,HAM_0005711,ISIC_0032638,mel,histo,35,male,back,Melanoma,0,Melanoma
+1644,HAM_0000064,ISIC_0032603,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1645,HAM_0000064,ISIC_0033871,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1646,HAM_0000064,ISIC_0032955,mel,histo,30,female,lower extremity,Melanoma,0,Melanoma
+1647,HAM_0005748,ISIC_0032812,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+1648,HAM_0005748,ISIC_0033619,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+1649,HAM_0005748,ISIC_0034065,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+1650,HAM_0003466,ISIC_0034132,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1651,HAM_0003466,ISIC_0033038,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1652,HAM_0004984,ISIC_0033630,mel,histo,80,male,face,Melanoma,0,Melanoma
+1653,HAM_0004984,ISIC_0032879,mel,histo,80,male,face,Melanoma,0,Melanoma
+1654,HAM_0006011,ISIC_0034012,mel,histo,85,male,back,Melanoma,0,Melanoma
+1655,HAM_0006011,ISIC_0034150,mel,histo,85,male,back,Melanoma,0,Melanoma
+1656,HAM_0006037,ISIC_0028082,mel,histo,40,female,chest,Melanoma,0,Melanoma
+1657,HAM_0001465,ISIC_0033209,mel,histo,65,male,ear,Melanoma,0,Melanoma
+1658,HAM_0001465,ISIC_0034074,mel,histo,65,male,ear,Melanoma,0,Melanoma
+1659,HAM_0001465,ISIC_0032699,mel,histo,65,male,ear,Melanoma,0,Melanoma
+1660,HAM_0000002,ISIC_0033848,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1661,HAM_0000002,ISIC_0032622,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1662,HAM_0000002,ISIC_0034246,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1663,HAM_0001524,ISIC_0032915,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+1664,HAM_0002099,ISIC_0028460,mel,histo,65,male,back,Melanoma,0,Melanoma
+1665,HAM_0004949,ISIC_0033883,mel,histo,55,male,back,Melanoma,0,Melanoma
+1666,HAM_0004949,ISIC_0034145,mel,histo,55,male,back,Melanoma,0,Melanoma
+1667,HAM_0004949,ISIC_0032981,mel,histo,55,male,back,Melanoma,0,Melanoma
+1668,HAM_0003421,ISIC_0033470,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1669,HAM_0003421,ISIC_0034094,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1670,HAM_0003421,ISIC_0033560,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1671,HAM_0000553,ISIC_0034061,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1672,HAM_0000553,ISIC_0032716,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1673,HAM_0000553,ISIC_0034159,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1674,HAM_0007054,ISIC_0024482,mel,histo,50,male,back,Melanoma,0,Melanoma
+1675,HAM_0007021,ISIC_0033477,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1676,HAM_0007021,ISIC_0034092,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1677,HAM_0007086,ISIC_0033863,mel,histo,65,female,back,Melanoma,0,Melanoma
+1678,HAM_0007086,ISIC_0034180,mel,histo,65,female,back,Melanoma,0,Melanoma
+1679,HAM_0007086,ISIC_0033267,mel,histo,65,female,back,Melanoma,0,Melanoma
+1680,HAM_0006763,ISIC_0034005,mel,histo,75,male,foot,Melanoma,0,Melanoma
+1681,HAM_0006101,ISIC_0033872,mel,histo,75,male,back,Melanoma,0,Melanoma
+1682,HAM_0006101,ISIC_0032617,mel,histo,75,male,back,Melanoma,0,Melanoma
+1683,HAM_0005483,ISIC_0032965,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1684,HAM_0005483,ISIC_0034242,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1685,HAM_0005483,ISIC_0033117,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1686,HAM_0002993,ISIC_0034104,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1687,HAM_0002993,ISIC_0032547,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1688,HAM_0002993,ISIC_0033644,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1689,HAM_0004881,ISIC_0033806,mel,histo,85,male,abdomen,Melanoma,0,Melanoma
+1690,HAM_0004881,ISIC_0032913,mel,histo,85,male,abdomen,Melanoma,0,Melanoma
+1691,HAM_0004998,ISIC_0033651,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1692,HAM_0004998,ISIC_0033304,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1693,HAM_0005970,ISIC_0032806,mel,histo,65,male,chest,Melanoma,0,Melanoma
+1694,HAM_0007574,ISIC_0033624,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1695,HAM_0007574,ISIC_0033238,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1696,HAM_0007574,ISIC_0034089,mel,histo,70,male,scalp,Melanoma,0,Melanoma
+1697,HAM_0000042,ISIC_0034048,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1698,HAM_0000042,ISIC_0033905,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1699,HAM_0000042,ISIC_0033981,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1700,HAM_0003506,ISIC_0033336,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1701,HAM_0003506,ISIC_0033405,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1702,HAM_0003506,ISIC_0034188,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1703,HAM_0006189,ISIC_0033269,mel,histo,55,female,back,Melanoma,0,Melanoma
+1704,HAM_0006566,ISIC_0033569,mel,histo,65,male,back,Melanoma,0,Melanoma
+1705,HAM_0006566,ISIC_0032535,mel,histo,65,male,back,Melanoma,0,Melanoma
+1706,HAM_0002149,ISIC_0033042,mel,histo,60,female,face,Melanoma,0,Melanoma
+1707,HAM_0005078,ISIC_0032081,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1708,HAM_0005141,ISIC_0034034,mel,histo,70,male,back,Melanoma,0,Melanoma
+1709,HAM_0005141,ISIC_0033217,mel,histo,70,male,back,Melanoma,0,Melanoma
+1710,HAM_0005256,ISIC_0033728,mel,histo,80,male,back,Melanoma,0,Melanoma
+1711,HAM_0002342,ISIC_0033901,mel,histo,40,male,back,Melanoma,0,Melanoma
+1712,HAM_0002342,ISIC_0032917,mel,histo,40,male,back,Melanoma,0,Melanoma
+1713,HAM_0002342,ISIC_0032925,mel,histo,40,male,back,Melanoma,0,Melanoma
+1714,HAM_0001863,ISIC_0032797,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1715,HAM_0001863,ISIC_0032596,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1716,HAM_0001863,ISIC_0032856,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1717,HAM_0001863,ISIC_0033193,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1718,HAM_0001863,ISIC_0033125,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1719,HAM_0001863,ISIC_0032810,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1720,HAM_0004304,ISIC_0033324,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1721,HAM_0004304,ISIC_0034316,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1722,HAM_0004304,ISIC_0033710,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1723,HAM_0006437,ISIC_0033469,mel,histo,65,female,ear,Melanoma,0,Melanoma
+1724,HAM_0004240,ISIC_0033663,mel,histo,50,male,back,Melanoma,0,Melanoma
+1725,HAM_0004240,ISIC_0034284,mel,histo,50,male,back,Melanoma,0,Melanoma
+1726,HAM_0000282,ISIC_0031709,mel,histo,65,male,neck,Melanoma,0,Melanoma
+1727,HAM_0004240,ISIC_0032517,mel,histo,50,male,back,Melanoma,0,Melanoma
+1728,HAM_0003566,ISIC_0032684,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1729,HAM_0003566,ISIC_0034052,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1730,HAM_0003566,ISIC_0033171,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1731,HAM_0002732,ISIC_0034022,mel,histo,65,male,chest,Melanoma,0,Melanoma
+1732,HAM_0002732,ISIC_0033017,mel,histo,65,male,chest,Melanoma,0,Melanoma
+1733,HAM_0002732,ISIC_0033874,mel,histo,65,male,chest,Melanoma,0,Melanoma
+1734,HAM_0004687,ISIC_0033754,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1735,HAM_0004687,ISIC_0032938,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1736,HAM_0004767,ISIC_0025531,mel,histo,80,male,face,Melanoma,0,Melanoma
+1737,HAM_0006802,ISIC_0032610,mel,histo,40,male,upper extremity,Melanoma,0,Melanoma
+1738,HAM_0006824,ISIC_0032958,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+1739,HAM_0006824,ISIC_0033538,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+1740,HAM_0003073,ISIC_0032836,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1741,HAM_0003073,ISIC_0033444,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1742,HAM_0003073,ISIC_0034183,mel,histo,50,male,abdomen,Melanoma,0,Melanoma
+1743,HAM_0001143,ISIC_0033426,mel,histo,55,male,back,Melanoma,0,Melanoma
+1744,HAM_0000055,ISIC_0033546,mel,histo,40,female,back,Melanoma,0,Melanoma
+1745,HAM_0003495,ISIC_0032869,mel,histo,85,male,back,Melanoma,0,Melanoma
+1746,HAM_0003495,ISIC_0033524,mel,histo,85,male,back,Melanoma,0,Melanoma
+1747,HAM_0004853,ISIC_0034101,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1748,HAM_0004853,ISIC_0030333,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1749,HAM_0004853,ISIC_0032695,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1750,HAM_0000119,ISIC_0033310,mel,histo,60,male,back,Melanoma,0,Melanoma
+1751,HAM_0006097,ISIC_0027306,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1752,HAM_0006097,ISIC_0034253,mel,histo,60,male,chest,Melanoma,0,Melanoma
+1753,HAM_0007558,ISIC_0033120,mel,histo,45,male,upper extremity,Melanoma,0,Melanoma
+1754,HAM_0007583,ISIC_0033081,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1755,HAM_0007558,ISIC_0034211,mel,histo,45,male,upper extremity,Melanoma,0,Melanoma
+1756,HAM_0007558,ISIC_0028410,mel,histo,45,male,upper extremity,Melanoma,0,Melanoma
+1757,HAM_0007558,ISIC_0033545,mel,histo,45,male,upper extremity,Melanoma,0,Melanoma
+1758,HAM_0007570,ISIC_0026430,mel,histo,60,female,back,Melanoma,0,Melanoma
+1759,HAM_0005274,ISIC_0033141,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1760,HAM_0005274,ISIC_0033261,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1761,HAM_0005274,ISIC_0032766,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+1762,HAM_0007102,ISIC_0030031,mel,histo,55,male,neck,Melanoma,0,Melanoma
+1763,HAM_0007102,ISIC_0028655,mel,histo,55,male,neck,Melanoma,0,Melanoma
+1764,HAM_0005409,ISIC_0032531,mel,histo,45,male,back,Melanoma,0,Melanoma
+1765,HAM_0005409,ISIC_0032970,mel,histo,45,male,back,Melanoma,0,Melanoma
+1766,HAM_0006556,ISIC_0027402,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1767,HAM_0000337,ISIC_0030391,mel,histo,50,female,back,Melanoma,0,Melanoma
+1768,HAM_0006376,ISIC_0032845,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1769,HAM_0003843,ISIC_0034036,mel,histo,35,male,abdomen,Melanoma,0,Melanoma
+1770,HAM_0000375,ISIC_0030238,mel,histo,45,male,back,Melanoma,0,Melanoma
+1771,HAM_0001272,ISIC_0032968,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1772,HAM_0001272,ISIC_0029265,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1773,HAM_0001274,ISIC_0032462,mel,histo,70,male,upper extremity,Melanoma,0,Melanoma
+1774,HAM_0001280,ISIC_0033704,mel,histo,60,male,back,Melanoma,0,Melanoma
+1775,HAM_0004578,ISIC_0034239,mel,histo,85,male,lower extremity,Melanoma,0,Melanoma
+1776,HAM_0004578,ISIC_0034287,mel,histo,85,male,lower extremity,Melanoma,0,Melanoma
+1777,HAM_0000274,ISIC_0031479,mel,histo,75,female,lower extremity,Melanoma,0,Melanoma
+1778,HAM_0005249,ISIC_0033166,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1779,HAM_0005249,ISIC_0033320,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1780,HAM_0005249,ISIC_0032526,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1781,HAM_0000423,ISIC_0033813,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+1782,HAM_0004129,ISIC_0032624,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1783,HAM_0004129,ISIC_0033977,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1784,HAM_0004129,ISIC_0034002,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1785,HAM_0001105,ISIC_0033387,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1786,HAM_0001105,ISIC_0025592,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1787,HAM_0001105,ISIC_0032552,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1788,HAM_0006802,ISIC_0033279,mel,histo,40,male,upper extremity,Melanoma,0,Melanoma
+1789,HAM_0006802,ISIC_0032887,mel,histo,40,male,upper extremity,Melanoma,0,Melanoma
+1790,HAM_0007583,ISIC_0034205,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1791,HAM_0007583,ISIC_0033612,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1792,HAM_0007589,ISIC_0034049,mel,histo,70,male,back,Melanoma,0,Melanoma
+1793,HAM_0003700,ISIC_0033300,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1794,HAM_0003700,ISIC_0033616,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1795,HAM_0003700,ISIC_0029606,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1796,HAM_0003700,ISIC_0033099,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1797,HAM_0005992,ISIC_0032723,mel,histo,25,female,back,Melanoma,0,Melanoma
+1798,HAM_0005992,ISIC_0032751,mel,histo,25,female,back,Melanoma,0,Melanoma
+1799,HAM_0005992,ISIC_0032597,mel,histo,25,female,back,Melanoma,0,Melanoma
+1800,HAM_0002841,ISIC_0032982,mel,histo,20,male,back,Melanoma,0,Melanoma
+1801,HAM_0002841,ISIC_0033196,mel,histo,20,male,back,Melanoma,0,Melanoma
+1802,HAM_0002841,ISIC_0032653,mel,histo,20,male,back,Melanoma,0,Melanoma
+1803,HAM_0004284,ISIC_0032730,mel,histo,80,female,face,Melanoma,0,Melanoma
+1804,HAM_0004284,ISIC_0032709,mel,histo,80,female,face,Melanoma,0,Melanoma
+1805,HAM_0004284,ISIC_0033206,mel,histo,80,female,face,Melanoma,0,Melanoma
+1806,HAM_0002952,ISIC_0033518,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1807,HAM_0002952,ISIC_0033843,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1808,HAM_0006540,ISIC_0033344,mel,histo,70,female,face,Melanoma,0,Melanoma
+1809,HAM_0006540,ISIC_0032988,mel,histo,70,female,face,Melanoma,0,Melanoma
+1810,HAM_0004859,ISIC_0033812,mel,histo,70,female,neck,Melanoma,0,Melanoma
+1811,HAM_0004859,ISIC_0033653,mel,histo,70,female,neck,Melanoma,0,Melanoma
+1812,HAM_0001686,ISIC_0032698,mel,histo,65,male,face,Melanoma,0,Melanoma
+1813,HAM_0000799,ISIC_0033611,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1814,HAM_0000799,ISIC_0033586,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1815,HAM_0000799,ISIC_0033226,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1816,HAM_0004754,ISIC_0033198,mel,histo,65,male,back,Melanoma,0,Melanoma
+1817,HAM_0004754,ISIC_0032790,mel,histo,65,male,back,Melanoma,0,Melanoma
+1818,HAM_0004754,ISIC_0033245,mel,histo,65,male,back,Melanoma,0,Melanoma
+1819,HAM_0004302,ISIC_0033029,mel,histo,60,male,abdomen,Melanoma,0,Melanoma
+1820,HAM_0004326,ISIC_0030883,mel,histo,75,female,back,Melanoma,0,Melanoma
+1821,HAM_0004302,ISIC_0028582,mel,histo,60,male,abdomen,Melanoma,0,Melanoma
+1822,HAM_0003225,ISIC_0033670,mel,histo,65,male,neck,Melanoma,0,Melanoma
+1823,HAM_0003225,ISIC_0029740,mel,histo,65,male,neck,Melanoma,0,Melanoma
+1824,HAM_0003225,ISIC_0033593,mel,histo,65,male,neck,Melanoma,0,Melanoma
+1825,HAM_0003335,ISIC_0032509,mel,histo,70,female,foot,Melanoma,0,Melanoma
+1826,HAM_0003335,ISIC_0034068,mel,histo,70,female,foot,Melanoma,0,Melanoma
+1827,HAM_0003174,ISIC_0033392,mel,histo,85,male,trunk,Melanoma,0,Melanoma
+1828,HAM_0003174,ISIC_0032873,mel,histo,85,male,trunk,Melanoma,0,Melanoma
+1829,HAM_0005809,ISIC_0034107,mel,histo,40,female,chest,Melanoma,0,Melanoma
+1830,HAM_0005809,ISIC_0033368,mel,histo,40,female,chest,Melanoma,0,Melanoma
+1831,HAM_0003759,ISIC_0032630,mel,histo,70,male,back,Melanoma,0,Melanoma
+1832,HAM_0003759,ISIC_0033399,mel,histo,70,male,back,Melanoma,0,Melanoma
+1833,HAM_0006923,ISIC_0032656,mel,histo,80,male,foot,Melanoma,0,Melanoma
+1834,HAM_0006923,ISIC_0032592,mel,histo,80,male,foot,Melanoma,0,Melanoma
+1835,HAM_0006184,ISIC_0033024,mel,histo,75,male,foot,Melanoma,0,Melanoma
+1836,HAM_0006184,ISIC_0034134,mel,histo,75,male,foot,Melanoma,0,Melanoma
+1837,HAM_0003351,ISIC_0033878,mel,histo,80,female,face,Melanoma,0,Melanoma
+1838,HAM_0001344,ISIC_0032687,mel,histo,45,male,back,Melanoma,0,Melanoma
+1839,HAM_0001344,ISIC_0033055,mel,histo,45,male,back,Melanoma,0,Melanoma
+1840,HAM_0006426,ISIC_0033559,mel,histo,80,female,upper extremity,Melanoma,0,Melanoma
+1841,HAM_0006426,ISIC_0032922,mel,histo,80,female,upper extremity,Melanoma,0,Melanoma
+1842,HAM_0006517,ISIC_0032672,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1843,HAM_0006517,ISIC_0034076,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+1844,HAM_0006462,ISIC_0033520,mel,histo,55,male,neck,Melanoma,0,Melanoma
+1845,HAM_0006462,ISIC_0034028,mel,histo,55,male,neck,Melanoma,0,Melanoma
+1846,HAM_0005673,ISIC_0033487,mel,histo,60,male,back,Melanoma,0,Melanoma
+1847,HAM_0005627,ISIC_0033607,mel,histo,45,male,back,Melanoma,0,Melanoma
+1848,HAM_0005627,ISIC_0033568,mel,histo,45,male,back,Melanoma,0,Melanoma
+1849,HAM_0004056,ISIC_0034051,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1850,HAM_0004056,ISIC_0033377,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+1851,HAM_0002617,ISIC_0033957,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+1852,HAM_0002617,ISIC_0034172,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+1853,HAM_0002617,ISIC_0033393,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+1854,HAM_0005953,ISIC_0033534,mel,histo,35,female,upper extremity,Melanoma,0,Melanoma
+1855,HAM_0005953,ISIC_0032626,mel,histo,35,female,upper extremity,Melanoma,0,Melanoma
+1856,HAM_0004914,ISIC_0034062,mel,histo,80,female,face,Melanoma,0,Melanoma
+1857,HAM_0004914,ISIC_0034170,mel,histo,80,female,face,Melanoma,0,Melanoma
+1858,HAM_0001506,ISIC_0033061,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1859,HAM_0001506,ISIC_0033967,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1860,HAM_0001506,ISIC_0033051,mel,histo,25,female,lower extremity,Melanoma,0,Melanoma
+1861,HAM_0003439,ISIC_0033050,mel,histo,75,female,back,Melanoma,0,Melanoma
+1862,HAM_0003439,ISIC_0033526,mel,histo,75,female,back,Melanoma,0,Melanoma
+1863,HAM_0000176,ISIC_0032862,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1864,HAM_0000176,ISIC_0033073,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1865,HAM_0000176,ISIC_0033696,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1866,HAM_0007592,ISIC_0027149,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1867,HAM_0005673,ISIC_0033995,mel,histo,60,male,back,Melanoma,0,Melanoma
+1868,HAM_0005681,ISIC_0027234,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1869,HAM_0000706,ISIC_0033668,mel,histo,50,male,face,Melanoma,0,Melanoma
+1870,HAM_0000706,ISIC_0032690,mel,histo,50,male,face,Melanoma,0,Melanoma
+1871,HAM_0000706,ISIC_0032918,mel,histo,50,male,face,Melanoma,0,Melanoma
+1872,HAM_0001793,ISIC_0028520,mel,histo,75,male,back,Melanoma,0,Melanoma
+1873,HAM_0001793,ISIC_0034000,mel,histo,75,male,back,Melanoma,0,Melanoma
+1874,HAM_0002488,ISIC_0032807,mel,histo,50,male,face,Melanoma,0,Melanoma
+1875,HAM_0002488,ISIC_0032645,mel,histo,50,male,face,Melanoma,0,Melanoma
+1876,HAM_0002051,ISIC_0033498,mel,histo,50,female,foot,Melanoma,0,Melanoma
+1877,HAM_0002051,ISIC_0031784,mel,histo,50,female,foot,Melanoma,0,Melanoma
+1878,HAM_0000392,ISIC_0034275,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1879,HAM_0000392,ISIC_0033440,mel,histo,70,male,trunk,Melanoma,0,Melanoma
+1880,HAM_0001974,ISIC_0033807,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1881,HAM_0001974,ISIC_0033533,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+1882,HAM_0005021,ISIC_0034173,mel,histo,75,male,face,Melanoma,0,Melanoma
+1883,HAM_0005021,ISIC_0033454,mel,histo,75,male,face,Melanoma,0,Melanoma
+1884,HAM_0001280,ISIC_0033893,mel,histo,60,male,back,Melanoma,0,Melanoma
+1885,HAM_0001349,ISIC_0028225,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1886,HAM_0000169,ISIC_0032960,mel,histo,,male,face,Melanoma,0,Melanoma
+1887,HAM_0000169,ISIC_0033708,mel,histo,,male,face,Melanoma,0,Melanoma
+1888,HAM_0006376,ISIC_0034317,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1889,HAM_0006400,ISIC_0031741,mel,histo,45,female,back,Melanoma,0,Melanoma
+1890,HAM_0006376,ISIC_0033662,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+1891,HAM_0004109,ISIC_0033037,mel,histo,70,male,back,Melanoma,0,Melanoma
+1892,HAM_0004109,ISIC_0033773,mel,histo,70,male,back,Melanoma,0,Melanoma
+1893,HAM_0000079,ISIC_0033752,mel,histo,50,female,face,Melanoma,0,Melanoma
+1894,HAM_0000079,ISIC_0033424,mel,histo,50,female,face,Melanoma,0,Melanoma
+1895,HAM_0003843,ISIC_0034216,mel,histo,35,male,abdomen,Melanoma,0,Melanoma
+1896,HAM_0003869,ISIC_0032152,mel,histo,50,male,lower extremity,Melanoma,0,Melanoma
+1897,HAM_0001647,ISIC_0033730,mel,histo,70,female,back,Melanoma,0,Melanoma
+1898,HAM_0001647,ISIC_0032975,mel,histo,70,female,back,Melanoma,0,Melanoma
+1899,HAM_0002723,ISIC_0034243,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1900,HAM_0002723,ISIC_0034050,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1901,HAM_0000709,ISIC_0033114,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1902,HAM_0000709,ISIC_0032559,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+1903,HAM_0005124,ISIC_0030150,mel,histo,80,female,neck,Melanoma,0,Melanoma
+1904,HAM_0004844,ISIC_0033394,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+1905,HAM_0004844,ISIC_0034233,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+1906,HAM_0004620,ISIC_0033122,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1907,HAM_0004620,ISIC_0033713,mel,histo,55,male,trunk,Melanoma,0,Melanoma
+1908,HAM_0000337,ISIC_0026081,mel,histo,50,female,back,Melanoma,0,Melanoma
+1909,HAM_0005040,ISIC_0033638,mel,histo,40,female,upper extremity,Melanoma,0,Melanoma
+1910,HAM_0005040,ISIC_0033805,mel,histo,40,female,upper extremity,Melanoma,0,Melanoma
+1911,HAM_0005040,ISIC_0033302,mel,histo,40,female,upper extremity,Melanoma,0,Melanoma
+1912,HAM_0000206,ISIC_0033925,mel,histo,65,female,upper extremity,Melanoma,0,Melanoma
+1913,HAM_0000206,ISIC_0033431,mel,histo,65,female,upper extremity,Melanoma,0,Melanoma
+1914,HAM_0000880,ISIC_0033089,mel,histo,60,male,face,Melanoma,0,Melanoma
+1915,HAM_0000880,ISIC_0033562,mel,histo,60,male,face,Melanoma,0,Melanoma
+1916,HAM_0000375,ISIC_0031233,mel,histo,45,male,back,Melanoma,0,Melanoma
+1917,HAM_0005737,ISIC_0033885,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1918,HAM_0001532,ISIC_0027204,mel,histo,70,male,neck,Melanoma,0,Melanoma
+1919,HAM_0001155,ISIC_0032987,mel,histo,70,male,face,Melanoma,0,Melanoma
+1920,HAM_0001570,ISIC_0032872,mel,histo,55,male,back,Melanoma,0,Melanoma
+1921,HAM_0001570,ISIC_0033178,mel,histo,55,male,back,Melanoma,0,Melanoma
+1922,HAM_0004011,ISIC_0033023,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1923,HAM_0000988,ISIC_0031186,mel,histo,70,male,face,Melanoma,0,Melanoma
+1924,HAM_0004011,ISIC_0033258,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+1925,HAM_0007245,ISIC_0032870,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+1926,HAM_0002377,ISIC_0033999,mel,histo,85,female,foot,Melanoma,0,Melanoma
+1927,HAM_0002377,ISIC_0033856,mel,histo,85,female,foot,Melanoma,0,Melanoma
+1928,HAM_0001753,ISIC_0024929,mel,histo,55,male,back,Melanoma,0,Melanoma
+1929,HAM_0003176,ISIC_0028148,mel,histo,85,male,chest,Melanoma,0,Melanoma
+1930,HAM_0005926,ISIC_0027069,mel,histo,75,male,back,Melanoma,0,Melanoma
+1931,HAM_0003617,ISIC_0029502,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1932,HAM_0005846,ISIC_0024459,mel,histo,80,male,back,Melanoma,0,Melanoma
+1933,HAM_0007305,ISIC_0029933,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+1934,HAM_0001299,ISIC_0031208,mel,histo,55,female,back,Melanoma,0,Melanoma
+1935,HAM_0001299,ISIC_0026545,mel,histo,55,female,back,Melanoma,0,Melanoma
+1936,HAM_0001428,ISIC_0026268,mel,histo,80,male,face,Melanoma,0,Melanoma
+1937,HAM_0006017,ISIC_0027282,mel,histo,60,female,back,Melanoma,0,Melanoma
+1938,HAM_0004427,ISIC_0029092,mel,histo,65,female,upper extremity,Melanoma,0,Melanoma
+1939,HAM_0006593,ISIC_0025708,mel,histo,30,female,back,Melanoma,0,Melanoma
+1940,HAM_0000373,ISIC_0024806,mel,histo,70,female,back,Melanoma,0,Melanoma
+1941,HAM_0001819,ISIC_0032424,mel,histo,70,female,back,Melanoma,0,Melanoma
+1942,HAM_0001819,ISIC_0028584,mel,histo,70,female,back,Melanoma,0,Melanoma
+1943,HAM_0007016,ISIC_0027838,mel,histo,35,female,abdomen,Melanoma,0,Melanoma
+1944,HAM_0000433,ISIC_0031554,mel,histo,55,male,back,Melanoma,0,Melanoma
+1945,HAM_0000433,ISIC_0025472,mel,histo,55,male,back,Melanoma,0,Melanoma
+1946,HAM_0005927,ISIC_0028173,mel,histo,45,male,back,Melanoma,0,Melanoma
+1947,HAM_0005600,ISIC_0025520,mel,histo,65,male,back,Melanoma,0,Melanoma
+1948,HAM_0005061,ISIC_0032466,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1949,HAM_0002491,ISIC_0028465,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1950,HAM_0002491,ISIC_0026770,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+1951,HAM_0002186,ISIC_0028463,mel,histo,60,female,back,Melanoma,0,Melanoma
+1952,HAM_0005467,ISIC_0024640,mel,histo,55,female,back,Melanoma,0,Melanoma
+1953,HAM_0004779,ISIC_0024962,mel,histo,35,male,back,Melanoma,0,Melanoma
+1954,HAM_0004779,ISIC_0024823,mel,histo,35,male,back,Melanoma,0,Melanoma
+1955,HAM_0006626,ISIC_0029914,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+1956,HAM_0002196,ISIC_0026089,mel,histo,60,male,back,Melanoma,0,Melanoma
+1957,HAM_0002196,ISIC_0024930,mel,histo,60,male,back,Melanoma,0,Melanoma
+1958,HAM_0001950,ISIC_0024449,mel,histo,55,male,back,Melanoma,0,Melanoma
+1959,HAM_0002834,ISIC_0032110,mel,histo,75,female,back,Melanoma,0,Melanoma
+1960,HAM_0002834,ISIC_0026500,mel,histo,75,female,back,Melanoma,0,Melanoma
+1961,HAM_0001986,ISIC_0025512,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+1962,HAM_0001986,ISIC_0024999,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+1963,HAM_0006467,ISIC_0027622,mel,histo,40,female,upper extremity,Melanoma,0,Melanoma
+1964,HAM_0001444,ISIC_0026352,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1965,HAM_0001444,ISIC_0024688,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+1966,HAM_0000653,ISIC_0024552,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+1967,HAM_0004850,ISIC_0026438,mel,histo,30,female,trunk,Melanoma,0,Melanoma
+1968,HAM_0004850,ISIC_0028126,mel,histo,30,female,trunk,Melanoma,0,Melanoma
+1969,HAM_0002711,ISIC_0027669,mel,histo,65,male,lower extremity,Melanoma,0,Melanoma
+1970,HAM_0002711,ISIC_0031795,mel,histo,65,male,lower extremity,Melanoma,0,Melanoma
+1971,HAM_0000201,ISIC_0031408,mel,histo,65,male,trunk,Melanoma,0,Melanoma
+1972,HAM_0001378,ISIC_0025313,mel,histo,35,female,lower extremity,Melanoma,0,Melanoma
+1973,HAM_0005064,ISIC_0028198,mel,histo,40,female,back,Melanoma,0,Melanoma
+1974,HAM_0005064,ISIC_0027144,mel,histo,40,female,back,Melanoma,0,Melanoma
+1975,HAM_0000888,ISIC_0025085,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1976,HAM_0000888,ISIC_0031034,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+1977,HAM_0000775,ISIC_0025097,mel,histo,55,male,chest,Melanoma,0,Melanoma
+1978,HAM_0000775,ISIC_0031666,mel,histo,55,male,chest,Melanoma,0,Melanoma
+1979,HAM_0007586,ISIC_0029819,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1980,HAM_0003400,ISIC_0026167,mel,histo,50,male,face,Melanoma,0,Melanoma
+1981,HAM_0003400,ISIC_0028984,mel,histo,50,male,face,Melanoma,0,Melanoma
+1982,HAM_0003400,ISIC_0032197,mel,histo,50,male,face,Melanoma,0,Melanoma
+1983,HAM_0004642,ISIC_0025524,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1984,HAM_0004642,ISIC_0025963,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1985,HAM_0004642,ISIC_0025121,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+1986,HAM_0002430,ISIC_0032134,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1987,HAM_0002430,ISIC_0028114,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1988,HAM_0002430,ISIC_0027673,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1989,HAM_0000917,ISIC_0024701,mel,histo,55,female,back,Melanoma,0,Melanoma
+1990,HAM_0000917,ISIC_0030390,mel,histo,55,female,back,Melanoma,0,Melanoma
+1991,HAM_0003176,ISIC_0030756,mel,histo,85,male,chest,Melanoma,0,Melanoma
+1992,HAM_0004565,ISIC_0027561,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+1993,HAM_0001214,ISIC_0025439,mel,histo,55,male,chest,Melanoma,0,Melanoma
+1994,HAM_0002622,ISIC_0030187,mel,histo,35,male,upper extremity,Melanoma,0,Melanoma
+1995,HAM_0003497,ISIC_0030970,mel,histo,50,female,lower extremity,Melanoma,0,Melanoma
+1996,HAM_0007502,ISIC_0030754,mel,histo,50,female,lower extremity,Melanoma,0,Melanoma
+1997,HAM_0006207,ISIC_0030034,mel,histo,50,female,back,Melanoma,0,Melanoma
+1998,HAM_0006538,ISIC_0029397,mel,histo,5,male,back,Melanoma,0,Melanoma
+1999,HAM_0003761,ISIC_0025316,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+2000,HAM_0006978,ISIC_0029316,mel,histo,45,female,neck,Melanoma,0,Melanoma
+2001,HAM_0007091,ISIC_0027552,mel,histo,40,male,face,Melanoma,0,Melanoma
+2002,HAM_0003194,ISIC_0026954,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+2003,HAM_0006088,ISIC_0028760,mel,histo,30,female,abdomen,Melanoma,0,Melanoma
+2004,HAM_0002534,ISIC_0027620,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+2005,HAM_0004281,ISIC_0028965,mel,histo,50,male,trunk,Melanoma,0,Melanoma
+2006,HAM_0005481,ISIC_0030356,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+2007,HAM_0000373,ISIC_0027407,mel,histo,70,female,back,Melanoma,0,Melanoma
+2008,HAM_0001726,ISIC_0024700,mel,histo,35,female,trunk,Melanoma,0,Melanoma
+2009,HAM_0006870,ISIC_0027793,mel,histo,35,female,neck,Melanoma,0,Melanoma
+2010,HAM_0003558,ISIC_0026989,mel,histo,55,male,back,Melanoma,0,Melanoma
+2011,HAM_0006453,ISIC_0030192,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+2012,HAM_0000492,ISIC_0029859,mel,histo,75,male,abdomen,Melanoma,0,Melanoma
+2013,HAM_0003484,ISIC_0028003,mel,histo,30,male,lower extremity,Melanoma,0,Melanoma
+2014,HAM_0000871,ISIC_0026506,mel,histo,40,female,trunk,Melanoma,0,Melanoma
+2015,HAM_0002477,ISIC_0025145,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+2016,HAM_0003522,ISIC_0029013,mel,histo,45,female,abdomen,Melanoma,0,Melanoma
+2017,HAM_0005826,ISIC_0031077,mel,histo,65,female,trunk,Melanoma,0,Melanoma
+2018,HAM_0003531,ISIC_0031999,mel,histo,40,male,face,Melanoma,0,Melanoma
+2019,HAM_0002764,ISIC_0030366,mel,histo,60,female,back,Melanoma,0,Melanoma
+2020,HAM_0004979,ISIC_0032245,mel,histo,85,male,back,Melanoma,0,Melanoma
+2021,HAM_0000396,ISIC_0028481,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+2022,HAM_0000396,ISIC_0029172,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+2023,HAM_0000417,ISIC_0031386,mel,histo,65,male,back,Melanoma,0,Melanoma
+2024,HAM_0000442,ISIC_0031565,mel,histo,45,male,foot,Melanoma,0,Melanoma
+2025,HAM_0006497,ISIC_0027302,mel,histo,35,female,lower extremity,Melanoma,0,Melanoma
+2026,HAM_0004878,ISIC_0029056,mel,histo,85,male,back,Melanoma,0,Melanoma
+2027,HAM_0000133,ISIC_0028548,mel,histo,60,female,back,Melanoma,0,Melanoma
+2028,HAM_0006833,ISIC_0030512,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+2029,HAM_0000863,ISIC_0031718,mel,histo,70,male,back,Melanoma,0,Melanoma
+2030,HAM_0005121,ISIC_0029591,mel,histo,65,female,upper extremity,Melanoma,0,Melanoma
+2031,HAM_0000241,ISIC_0030932,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+2032,HAM_0000863,ISIC_0028899,mel,histo,70,male,back,Melanoma,0,Melanoma
+2033,HAM_0004637,ISIC_0032036,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+2034,HAM_0004171,ISIC_0024644,mel,histo,85,female,lower extremity,Melanoma,0,Melanoma
+2035,HAM_0007188,ISIC_0031543,mel,histo,60,female,upper extremity,Melanoma,0,Melanoma
+2036,HAM_0005533,ISIC_0027065,mel,histo,85,female,upper extremity,Melanoma,0,Melanoma
+2037,HAM_0003608,ISIC_0028228,mel,histo,75,female,back,Melanoma,0,Melanoma
+2038,HAM_0004888,ISIC_0030107,mel,histo,20,female,scalp,Melanoma,0,Melanoma
+2039,HAM_0000856,ISIC_0028537,mel,histo,35,male,back,Melanoma,0,Melanoma
+2040,HAM_0004817,ISIC_0025238,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+2041,HAM_0005425,ISIC_0029698,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+2042,HAM_0000766,ISIC_0029937,mel,histo,40,male,chest,Melanoma,0,Melanoma
+2043,HAM_0002696,ISIC_0027171,mel,histo,45,female,foot,Melanoma,0,Melanoma
+2044,HAM_0002696,ISIC_0026207,mel,histo,45,female,foot,Melanoma,0,Melanoma
+2045,HAM_0004669,ISIC_0028543,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+2046,HAM_0000075,ISIC_0025651,mel,histo,70,male,back,Melanoma,0,Melanoma
+2047,HAM_0000563,ISIC_0027900,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+2048,HAM_0000220,ISIC_0030360,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+2049,HAM_0006257,ISIC_0029843,mel,histo,70,male,neck,Melanoma,0,Melanoma
+2050,HAM_0006380,ISIC_0028718,mel,histo,35,female,upper extremity,Melanoma,0,Melanoma
+2051,HAM_0002752,ISIC_0025748,mel,histo,70,male,lower extremity,Melanoma,0,Melanoma
+2052,HAM_0004654,ISIC_0027130,mel,histo,70,male,chest,Melanoma,0,Melanoma
+2053,HAM_0007019,ISIC_0029454,mel,histo,80,male,back,Melanoma,0,Melanoma
+2054,HAM_0006636,ISIC_0028051,mel,histo,45,male,back,Melanoma,0,Melanoma
+2055,HAM_0006696,ISIC_0026094,mel,histo,20,male,back,Melanoma,0,Melanoma
+2056,HAM_0006699,ISIC_0024571,mel,histo,65,male,face,Melanoma,0,Melanoma
+2057,HAM_0000282,ISIC_0027155,mel,histo,65,male,neck,Melanoma,0,Melanoma
+2058,HAM_0004651,ISIC_0027328,mel,histo,65,male,face,Melanoma,0,Melanoma
+2059,HAM_0000887,ISIC_0030501,mel,histo,50,male,back,Melanoma,0,Melanoma
+2060,HAM_0000952,ISIC_0024546,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+2061,HAM_0005540,ISIC_0024525,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+2062,HAM_0005640,ISIC_0030382,mel,histo,60,male,neck,Melanoma,0,Melanoma
+2063,HAM_0000910,ISIC_0028017,mel,histo,50,female,back,Melanoma,0,Melanoma
+2064,HAM_0002719,ISIC_0029033,mel,histo,30,female,upper extremity,Melanoma,0,Melanoma
+2065,HAM_0002079,ISIC_0029146,mel,histo,65,male,face,Melanoma,0,Melanoma
+2066,HAM_0004709,ISIC_0028288,mel,histo,65,male,back,Melanoma,0,Melanoma
+2067,HAM_0000952,ISIC_0026009,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+2068,HAM_0000624,ISIC_0029089,mel,histo,70,male,back,Melanoma,0,Melanoma
+2069,HAM_0004254,ISIC_0027030,mel,histo,65,female,lower extremity,Melanoma,0,Melanoma
+2070,HAM_0000952,ISIC_0030689,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+2071,HAM_0002523,ISIC_0024516,mel,histo,40,male,back,Melanoma,0,Melanoma
+2072,HAM_0003055,ISIC_0032420,mel,histo,65,female,neck,Melanoma,0,Melanoma
+2073,HAM_0006196,ISIC_0025248,mel,histo,70,male,back,Melanoma,0,Melanoma
+2074,HAM_0002436,ISIC_0026266,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+2075,HAM_0007114,ISIC_0028418,mel,histo,45,female,face,Melanoma,0,Melanoma
+2076,HAM_0003749,ISIC_0025268,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+2077,HAM_0003782,ISIC_0029744,mel,histo,35,female,abdomen,Melanoma,0,Melanoma
+2078,HAM_0004021,ISIC_0025800,mel,histo,65,male,back,Melanoma,0,Melanoma
+2079,HAM_0001349,ISIC_0032425,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+2080,HAM_0002375,ISIC_0027442,mel,histo,80,male,neck,Melanoma,0,Melanoma
+2081,HAM_0002375,ISIC_0024940,mel,histo,80,male,neck,Melanoma,0,Melanoma
+2082,HAM_0001349,ISIC_0024351,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+2083,HAM_0001655,ISIC_0030110,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+2084,HAM_0000247,ISIC_0025132,mel,histo,80,male,back,Melanoma,0,Melanoma
+2085,HAM_0007238,ISIC_0031494,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2086,HAM_0007238,ISIC_0028306,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2087,HAM_0000320,ISIC_0026916,mel,histo,55,male,back,Melanoma,0,Melanoma
+2088,HAM_0000320,ISIC_0027863,mel,histo,55,male,back,Melanoma,0,Melanoma
+2089,HAM_0006004,ISIC_0027702,mel,histo,70,female,back,Melanoma,0,Melanoma
+2090,HAM_0006006,ISIC_0028847,mel,histo,75,male,chest,Melanoma,0,Melanoma
+2091,HAM_0006006,ISIC_0024961,mel,histo,75,male,chest,Melanoma,0,Melanoma
+2092,HAM_0005315,ISIC_0029319,mel,histo,85,male,back,Melanoma,0,Melanoma
+2093,HAM_0005315,ISIC_0032219,mel,histo,85,male,back,Melanoma,0,Melanoma
+2094,HAM_0002436,ISIC_0025127,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+2095,HAM_0002609,ISIC_0029318,mel,histo,60,female,back,Melanoma,0,Melanoma
+2096,HAM_0002609,ISIC_0032070,mel,histo,60,female,back,Melanoma,0,Melanoma
+2097,HAM_0001397,ISIC_0026796,mel,histo,70,male,back,Melanoma,0,Melanoma
+2098,HAM_0002525,ISIC_0026811,mel,histo,55,male,face,Melanoma,0,Melanoma
+2099,HAM_0002113,ISIC_0029839,mel,histo,65,male,back,Melanoma,0,Melanoma
+2100,HAM_0006380,ISIC_0030747,mel,histo,35,female,upper extremity,Melanoma,0,Melanoma
+2101,HAM_0002906,ISIC_0026604,mel,histo,70,male,ear,Melanoma,0,Melanoma
+2102,HAM_0000125,ISIC_0028777,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+2103,HAM_0004354,ISIC_0026877,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+2104,HAM_0000125,ISIC_0027964,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+2105,HAM_0005078,ISIC_0030784,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+2106,HAM_0005006,ISIC_0031146,mel,histo,20,female,chest,Melanoma,0,Melanoma
+2107,HAM_0003095,ISIC_0025755,mel,histo,60,female,back,Melanoma,0,Melanoma
+2108,HAM_0007488,ISIC_0029157,mel,histo,60,male,back,Melanoma,0,Melanoma
+2109,HAM_0007488,ISIC_0024952,mel,histo,60,male,back,Melanoma,0,Melanoma
+2110,HAM_0007498,ISIC_0025546,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2111,HAM_0000767,ISIC_0031239,mel,histo,60,male,back,Melanoma,0,Melanoma
+2112,HAM_0005251,ISIC_0026868,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+2113,HAM_0005203,ISIC_0027742,mel,histo,60,male,back,Melanoma,0,Melanoma
+2114,HAM_0005747,ISIC_0027105,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+2115,HAM_0005747,ISIC_0027502,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+2116,HAM_0001657,ISIC_0031529,mel,histo,40,female,abdomen,Melanoma,0,Melanoma
+2117,HAM_0001551,ISIC_0027420,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+2118,HAM_0001069,ISIC_0030843,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+2119,HAM_0001069,ISIC_0028898,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+2120,HAM_0001596,ISIC_0027071,mel,histo,50,female,face,Melanoma,0,Melanoma
+2121,HAM_0001596,ISIC_0029780,mel,histo,50,female,face,Melanoma,0,Melanoma
+2122,HAM_0005623,ISIC_0030616,mel,histo,80,female,upper extremity,Melanoma,0,Melanoma
+2123,HAM_0005535,ISIC_0025391,mel,histo,55,male,back,Melanoma,0,Melanoma
+2124,HAM_0007054,ISIC_0025413,mel,histo,50,male,back,Melanoma,0,Melanoma
+2125,HAM_0007070,ISIC_0032192,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+2126,HAM_0002493,ISIC_0024323,mel,histo,50,male,lower extremity,Melanoma,0,Melanoma
+2127,HAM_0002493,ISIC_0027436,mel,histo,50,male,lower extremity,Melanoma,0,Melanoma
+2128,HAM_0000125,ISIC_0032372,mel,histo,60,male,lower extremity,Melanoma,0,Melanoma
+2129,HAM_0002869,ISIC_0026694,mel,histo,50,female,back,Melanoma,0,Melanoma
+2130,HAM_0002869,ISIC_0024313,mel,histo,50,female,back,Melanoma,0,Melanoma
+2131,HAM_0000136,ISIC_0031915,mel,histo,60,male,back,Melanoma,0,Melanoma
+2132,HAM_0000588,ISIC_0028929,mel,histo,65,female,back,Melanoma,0,Melanoma
+2133,HAM_0000588,ISIC_0026746,mel,histo,65,female,back,Melanoma,0,Melanoma
+2134,HAM_0007242,ISIC_0026774,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+2135,HAM_0007242,ISIC_0030047,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+2136,HAM_0001598,ISIC_0030910,mel,histo,65,male,back,Melanoma,0,Melanoma
+2137,HAM_0001598,ISIC_0029238,mel,histo,65,male,back,Melanoma,0,Melanoma
+2138,HAM_0006423,ISIC_0028685,mel,histo,55,male,back,Melanoma,0,Melanoma
+2139,HAM_0006355,ISIC_0027663,mel,histo,40,male,back,Melanoma,0,Melanoma
+2140,HAM_0000136,ISIC_0028065,mel,histo,60,male,back,Melanoma,0,Melanoma
+2141,HAM_0006037,ISIC_0026571,mel,histo,40,female,chest,Melanoma,0,Melanoma
+2142,HAM_0006130,ISIC_0031670,mel,histo,80,female,upper extremity,Melanoma,0,Melanoma
+2143,HAM_0001744,ISIC_0031339,mel,histo,60,male,back,Melanoma,0,Melanoma
+2144,HAM_0006940,ISIC_0027021,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2145,HAM_0006942,ISIC_0032430,mel,histo,55,male,face,Melanoma,0,Melanoma
+2146,HAM_0006942,ISIC_0027573,mel,histo,55,male,face,Melanoma,0,Melanoma
+2147,HAM_0002099,ISIC_0026847,mel,histo,65,male,back,Melanoma,0,Melanoma
+2148,HAM_0002906,ISIC_0027517,mel,histo,70,male,ear,Melanoma,0,Melanoma
+2149,HAM_0003445,ISIC_0026229,mel,histo,65,male,abdomen,Melanoma,0,Melanoma
+2150,HAM_0004507,ISIC_0029958,mel,histo,65,female,face,Melanoma,0,Melanoma
+2151,HAM_0001744,ISIC_0032476,mel,histo,60,male,back,Melanoma,0,Melanoma
+2152,HAM_0003428,ISIC_0031170,mel,histo,85,female,upper extremity,Melanoma,0,Melanoma
+2153,HAM_0005121,ISIC_0030423,mel,histo,65,female,upper extremity,Melanoma,0,Melanoma
+2154,HAM_0003428,ISIC_0024652,mel,histo,85,female,upper extremity,Melanoma,0,Melanoma
+2155,HAM_0001744,ISIC_0029353,mel,histo,60,male,back,Melanoma,0,Melanoma
+2156,HAM_0001791,ISIC_0032504,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+2157,HAM_0001791,ISIC_0027956,mel,histo,50,female,upper extremity,Melanoma,0,Melanoma
+2158,HAM_0001814,ISIC_0029170,mel,histo,65,female,foot,Melanoma,0,Melanoma
+2159,HAM_0001835,ISIC_0029995,mel,histo,65,male,back,Melanoma,0,Melanoma
+2160,HAM_0002772,ISIC_0031908,mel,histo,75,male,back,Melanoma,0,Melanoma
+2161,HAM_0002772,ISIC_0026897,mel,histo,75,male,back,Melanoma,0,Melanoma
+2162,HAM_0003957,ISIC_0030653,mel,histo,65,female,back,Melanoma,0,Melanoma
+2163,HAM_0001976,ISIC_0026586,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+2164,HAM_0001835,ISIC_0027101,mel,histo,65,male,back,Melanoma,0,Melanoma
+2165,HAM_0001976,ISIC_0025732,mel,histo,85,male,upper extremity,Melanoma,0,Melanoma
+2166,HAM_0006160,ISIC_0030950,mel,histo,70,female,hand,Melanoma,0,Melanoma
+2167,HAM_0006594,ISIC_0025195,mel,histo,60,female,back,Melanoma,0,Melanoma
+2168,HAM_0001835,ISIC_0026652,mel,histo,65,male,back,Melanoma,0,Melanoma
+2169,HAM_0000856,ISIC_0029885,mel,histo,35,male,back,Melanoma,0,Melanoma
+2170,HAM_0001877,ISIC_0025409,mel,histo,80,female,back,Melanoma,0,Melanoma
+2171,HAM_0002197,ISIC_0028709,mel,histo,50,male,back,Melanoma,0,Melanoma
+2172,HAM_0002194,ISIC_0025814,mel,histo,65,male,back,Melanoma,0,Melanoma
+2173,HAM_0002194,ISIC_0026853,mel,histo,65,male,back,Melanoma,0,Melanoma
+2174,HAM_0002693,ISIC_0031550,mel,histo,80,female,chest,Melanoma,0,Melanoma
+2175,HAM_0006877,ISIC_0028227,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2176,HAM_0006964,ISIC_0027163,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+2177,HAM_0006964,ISIC_0029642,mel,histo,60,female,lower extremity,Melanoma,0,Melanoma
+2178,HAM_0006699,ISIC_0029893,mel,histo,65,male,face,Melanoma,0,Melanoma
+2179,HAM_0006380,ISIC_0031417,mel,histo,35,female,upper extremity,Melanoma,0,Melanoma
+2180,HAM_0006764,ISIC_0024647,mel,histo,85,female,lower extremity,Melanoma,0,Melanoma
+2181,HAM_0001814,ISIC_0028567,mel,histo,65,female,foot,Melanoma,0,Melanoma
+2182,HAM_0002338,ISIC_0028103,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+2183,HAM_0004164,ISIC_0030695,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+2184,HAM_0004507,ISIC_0024554,mel,histo,65,female,face,Melanoma,0,Melanoma
+2185,HAM_0004164,ISIC_0031203,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+2186,HAM_0005532,ISIC_0030183,mel,histo,70,male,chest,Melanoma,0,Melanoma
+2187,HAM_0000593,ISIC_0024679,mel,histo,50,male,back,Melanoma,0,Melanoma
+2188,HAM_0000619,ISIC_0026690,mel,histo,50,male,lower extremity,Melanoma,0,Melanoma
+2189,HAM_0000593,ISIC_0031401,mel,histo,50,male,back,Melanoma,0,Melanoma
+2190,HAM_0002800,ISIC_0027089,mel,histo,55,male,chest,Melanoma,0,Melanoma
+2191,HAM_0002800,ISIC_0026239,mel,histo,55,male,chest,Melanoma,0,Melanoma
+2192,HAM_0002817,ISIC_0030255,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+2193,HAM_0002817,ISIC_0029495,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+2194,HAM_0003256,ISIC_0032269,mel,histo,60,male,back,Melanoma,0,Melanoma
+2195,HAM_0003435,ISIC_0031350,mel,histo,60,male,back,Melanoma,0,Melanoma
+2196,HAM_0003172,ISIC_0025832,mel,histo,65,male,back,Melanoma,0,Melanoma
+2197,HAM_0003172,ISIC_0026105,mel,histo,65,male,back,Melanoma,0,Melanoma
+2198,HAM_0005986,ISIC_0029574,mel,histo,60,male,back,Melanoma,0,Melanoma
+2199,HAM_0006061,ISIC_0027179,mel,histo,85,male,lower extremity,Melanoma,0,Melanoma
+2200,HAM_0002970,ISIC_0026930,mel,histo,60,male,chest,Melanoma,0,Melanoma
+2201,HAM_0003149,ISIC_0030246,mel,histo,60,male,upper extremity,Melanoma,0,Melanoma
+2202,HAM_0002970,ISIC_0027350,mel,histo,60,male,chest,Melanoma,0,Melanoma
+2203,HAM_0003256,ISIC_0028218,mel,histo,60,male,back,Melanoma,0,Melanoma
+2204,HAM_0005724,ISIC_0024805,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+2205,HAM_0005724,ISIC_0030032,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+2206,HAM_0005735,ISIC_0025543,mel,histo,85,female,face,Melanoma,0,Melanoma
+2207,HAM_0003587,ISIC_0026870,mel,histo,75,female,back,Melanoma,0,Melanoma
+2208,HAM_0006137,ISIC_0026738,mel,histo,85,female,face,Melanoma,0,Melanoma
+2209,HAM_0006171,ISIC_0026131,mel,histo,75,female,upper extremity,Melanoma,0,Melanoma
+2210,HAM_0006171,ISIC_0025663,mel,histo,75,female,upper extremity,Melanoma,0,Melanoma
+2211,HAM_0006955,ISIC_0025105,mel,histo,65,male,back,Melanoma,0,Melanoma
+2212,HAM_0006779,ISIC_0028860,mel,histo,65,male,back,Melanoma,0,Melanoma
+2213,HAM_0006744,ISIC_0031561,mel,histo,55,male,back,Melanoma,0,Melanoma
+2214,HAM_0003869,ISIC_0025766,mel,histo,50,male,lower extremity,Melanoma,0,Melanoma
+2215,HAM_0003782,ISIC_0031410,mel,histo,35,female,abdomen,Melanoma,0,Melanoma
+2216,HAM_0003885,ISIC_0027560,mel,histo,25,female,face,Melanoma,0,Melanoma
+2217,HAM_0004936,ISIC_0025573,mel,histo,80,male,chest,Melanoma,0,Melanoma
+2218,HAM_0004936,ISIC_0029705,mel,histo,80,male,chest,Melanoma,0,Melanoma
+2219,HAM_0000513,ISIC_0032207,mel,histo,35,female,upper extremity,Melanoma,0,Melanoma
+2220,HAM_0001964,ISIC_0032149,mel,histo,50,male,neck,Melanoma,0,Melanoma
+2221,HAM_0001964,ISIC_0024733,mel,histo,50,male,neck,Melanoma,0,Melanoma
+2222,HAM_0005504,ISIC_0032433,mel,histo,55,female,foot,Melanoma,0,Melanoma
+2223,HAM_0005504,ISIC_0027480,mel,histo,55,female,foot,Melanoma,0,Melanoma
+2224,HAM_0005692,ISIC_0031931,mel,histo,70,female,face,Melanoma,0,Melanoma
+2225,HAM_0004709,ISIC_0026558,mel,histo,65,male,back,Melanoma,0,Melanoma
+2226,HAM_0006764,ISIC_0027590,mel,histo,85,female,lower extremity,Melanoma,0,Melanoma
+2227,HAM_0005746,ISIC_0030083,mel,histo,65,male,back,Melanoma,0,Melanoma
+2228,HAM_0005746,ISIC_0030002,mel,histo,65,male,back,Melanoma,0,Melanoma
+2229,HAM_0005783,ISIC_0029271,mel,histo,60,female,upper extremity,Melanoma,0,Melanoma
+2230,HAM_0005789,ISIC_0028033,mel,histo,55,male,chest,Melanoma,0,Melanoma
+2231,HAM_0005789,ISIC_0032204,mel,histo,55,male,chest,Melanoma,0,Melanoma
+2232,HAM_0005789,ISIC_0032095,mel,histo,55,male,chest,Melanoma,0,Melanoma
+2233,HAM_0004354,ISIC_0028773,mel,histo,70,male,abdomen,Melanoma,0,Melanoma
+2234,HAM_0003957,ISIC_0031821,mel,histo,65,female,back,Melanoma,0,Melanoma
+2235,HAM_0003601,ISIC_0030795,mel,histo,60,male,back,Melanoma,0,Melanoma
+2236,HAM_0003601,ISIC_0027507,mel,histo,60,male,back,Melanoma,0,Melanoma
+2237,HAM_0004878,ISIC_0026802,mel,histo,85,male,back,Melanoma,0,Melanoma
+2238,HAM_0007522,ISIC_0028026,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+2239,HAM_0007522,ISIC_0027904,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+2240,HAM_0007511,ISIC_0024630,mel,histo,85,male,lower extremity,Melanoma,0,Melanoma
+2241,HAM_0007511,ISIC_0024333,mel,histo,85,male,lower extremity,Melanoma,0,Melanoma
+2242,HAM_0004898,ISIC_0024932,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+2243,HAM_0004898,ISIC_0029480,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+2244,HAM_0004878,ISIC_0032232,mel,histo,85,male,back,Melanoma,0,Melanoma
+2245,HAM_0000517,ISIC_0031005,mel,histo,65,male,back,Melanoma,0,Melanoma
+2246,HAM_0004559,ISIC_0028220,mel,histo,60,male,face,Melanoma,0,Melanoma
+2247,HAM_0000517,ISIC_0030507,mel,histo,65,male,back,Melanoma,0,Melanoma
+2248,HAM_0004622,ISIC_0028666,mel,histo,75,male,upper extremity,Melanoma,0,Melanoma
+2249,HAM_0007293,ISIC_0026735,mel,histo,85,female,face,Melanoma,0,Melanoma
+2250,HAM_0006423,ISIC_0028352,mel,histo,55,male,back,Melanoma,0,Melanoma
+2251,HAM_0006527,ISIC_0029094,mel,histo,45,female,upper extremity,Melanoma,0,Melanoma
+2252,HAM_0006899,ISIC_0025128,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+2253,HAM_0005909,ISIC_0026045,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+2254,HAM_0001607,ISIC_0028508,mel,histo,75,male,back,Melanoma,0,Melanoma
+2255,HAM_0001953,ISIC_0031498,mel,histo,65,male,back,Melanoma,0,Melanoma
+2256,HAM_0002109,ISIC_0028897,mel,histo,75,female,back,Melanoma,0,Melanoma
+2257,HAM_0007498,ISIC_0028156,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2258,HAM_0007530,ISIC_0024918,mel,histo,30,male,chest,Melanoma,0,Melanoma
+2259,HAM_0006223,ISIC_0032287,mel,histo,80,male,foot,Melanoma,0,Melanoma
+2260,HAM_0006223,ISIC_0025791,mel,histo,80,male,foot,Melanoma,0,Melanoma
+2261,HAM_0002131,ISIC_0030901,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2262,HAM_0002131,ISIC_0030995,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2263,HAM_0002576,ISIC_0031368,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+2264,HAM_0001113,ISIC_0031900,mel,histo,55,male,back,Melanoma,0,Melanoma
+2265,HAM_0003520,ISIC_0026516,mel,histo,45,female,abdomen,Melanoma,0,Melanoma
+2266,HAM_0003520,ISIC_0025724,mel,histo,45,female,abdomen,Melanoma,0,Melanoma
+2267,HAM_0002130,ISIC_0029570,mel,histo,50,female,lower extremity,Melanoma,0,Melanoma
+2268,HAM_0006899,ISIC_0025550,mel,histo,80,female,lower extremity,Melanoma,0,Melanoma
+2269,HAM_0002576,ISIC_0025414,mel,histo,55,male,lower extremity,Melanoma,0,Melanoma
+2270,HAM_0006965,ISIC_0026475,mel,histo,40,female,back,Melanoma,0,Melanoma
+2271,HAM_0007530,ISIC_0024410,mel,histo,30,male,chest,Melanoma,0,Melanoma
+2272,HAM_0002591,ISIC_0028930,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+2273,HAM_0002591,ISIC_0031389,mel,histo,55,female,lower extremity,Melanoma,0,Melanoma
+2274,HAM_0002613,ISIC_0030925,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+2275,HAM_0003171,ISIC_0030122,mel,histo,55,male,back,Melanoma,0,Melanoma
+2276,HAM_0003167,ISIC_0024864,mel,histo,40,female,lower extremity,Melanoma,0,Melanoma
+2277,HAM_0003509,ISIC_0031778,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+2278,HAM_0000022,ISIC_0031377,mel,histo,65,male,back,Melanoma,0,Melanoma
+2279,HAM_0004053,ISIC_0027126,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+2280,HAM_0002613,ISIC_0030604,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+2281,HAM_0002613,ISIC_0024958,mel,histo,45,male,lower extremity,Melanoma,0,Melanoma
+2282,HAM_0002911,ISIC_0031025,mel,histo,60,female,back,Melanoma,0,Melanoma
+2283,HAM_0000590,ISIC_0030951,mel,histo,85,female,lower extremity,Melanoma,0,Melanoma
+2284,HAM_0004081,ISIC_0031957,mel,histo,70,female,lower extremity,Melanoma,0,Melanoma
+2285,HAM_0004547,ISIC_0031303,mel,histo,65,male,face,Melanoma,0,Melanoma
+2286,HAM_0004053,ISIC_0027067,mel,histo,80,male,lower extremity,Melanoma,0,Melanoma
+2287,HAM_0004596,ISIC_0031087,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+2288,HAM_0004596,ISIC_0027187,mel,histo,65,male,upper extremity,Melanoma,0,Melanoma
+2289,HAM_0004767,ISIC_0028285,mel,histo,80,male,face,Melanoma,0,Melanoma
+2290,HAM_0000534,ISIC_0026258,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+2291,HAM_0000534,ISIC_0025235,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+2292,HAM_0006832,ISIC_0028915,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+2293,HAM_0006832,ISIC_0029652,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+2294,HAM_0006832,ISIC_0031295,mel,histo,50,male,upper extremity,Melanoma,0,Melanoma
+2295,HAM_0001095,ISIC_0026647,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+2296,HAM_0004428,ISIC_0025317,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+2297,HAM_0004428,ISIC_0026420,mel,histo,80,male,upper extremity,Melanoma,0,Melanoma
+2298,HAM_0004746,ISIC_0028764,mel,histo,65,female,back,Melanoma,0,Melanoma
+2299,HAM_0004746,ISIC_0029021,mel,histo,65,female,back,Melanoma,0,Melanoma
+2300,HAM_0000536,ISIC_0027359,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+2301,HAM_0007031,ISIC_0025616,mel,histo,70,female,upper extremity,Melanoma,0,Melanoma
+2302,HAM_0003504,ISIC_0028075,mel,histo,55,male,face,Melanoma,0,Melanoma
+2303,HAM_0003504,ISIC_0026823,mel,histo,55,male,face,Melanoma,0,Melanoma
+2304,HAM_0003530,ISIC_0030929,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+2305,HAM_0003534,ISIC_0028493,mel,histo,85,male,chest,Melanoma,0,Melanoma
+2306,HAM_0001910,ISIC_0028968,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2307,HAM_0001910,ISIC_0024739,mel,histo,55,male,upper extremity,Melanoma,0,Melanoma
+2308,HAM_0002525,ISIC_0025188,mel,histo,55,male,face,Melanoma,0,Melanoma
+2309,HAM_0002911,ISIC_0029272,mel,histo,60,female,back,Melanoma,0,Melanoma
+2310,HAM_0003102,ISIC_0032389,mel,histo,65,male,face,Melanoma,0,Melanoma
+2311,HAM_0003102,ISIC_0025709,mel,histo,65,male,face,Melanoma,0,Melanoma
+2312,HAM_0003534,ISIC_0031746,mel,histo,85,male,chest,Melanoma,0,Melanoma
+2313,HAM_0004047,ISIC_0025500,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+2314,HAM_0004047,ISIC_0030277,mel,histo,55,female,upper extremity,Melanoma,0,Melanoma
+2315,HAM_0003171,ISIC_0025941,mel,histo,55,male,back,Melanoma,0,Melanoma
+2316,HAM_0003509,ISIC_0027832,mel,histo,75,male,lower extremity,Melanoma,0,Melanoma
+2317,HAM_0000536,ISIC_0031844,mel,histo,45,female,lower extremity,Melanoma,0,Melanoma
+2318,HAM_0000910,ISIC_0027797,mel,histo,50,female,back,Melanoma,0,Melanoma
+2319,HAM_0001953,ISIC_0025611,mel,histo,65,male,back,Melanoma,0,Melanoma
+2320,HAM_0006889,ISIC_0031197,vasc,histo,20,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2321,HAM_0006889,ISIC_0031270,vasc,histo,20,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2322,HAM_0001920,ISIC_0029486,vasc,histo,55,male,back,Vascular lesions,-1,Non-Melanoma
+2323,HAM_0001920,ISIC_0031901,vasc,histo,55,male,back,Vascular lesions,-1,Non-Melanoma
+2324,HAM_0005155,ISIC_0032076,vasc,histo,85,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2325,HAM_0005155,ISIC_0025321,vasc,histo,85,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2326,HAM_0002692,ISIC_0029404,vasc,histo,10,male,trunk,Vascular lesions,-1,Non-Melanoma
+2327,HAM_0002692,ISIC_0030275,vasc,histo,10,male,trunk,Vascular lesions,-1,Non-Melanoma
+2328,HAM_0002914,ISIC_0026092,vasc,histo,75,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2329,HAM_0002914,ISIC_0024904,vasc,histo,75,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2330,HAM_0006617,ISIC_0028163,vasc,histo,25,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2331,HAM_0006617,ISIC_0024669,vasc,histo,25,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2332,HAM_0004765,ISIC_0031217,vasc,histo,15,male,face,Vascular lesions,-1,Non-Melanoma
+2333,HAM_0004765,ISIC_0025599,vasc,histo,15,male,face,Vascular lesions,-1,Non-Melanoma
+2334,HAM_0002218,ISIC_0025578,vasc,histo,5,male,back,Vascular lesions,-1,Non-Melanoma
+2335,HAM_0002218,ISIC_0029448,vasc,histo,5,male,back,Vascular lesions,-1,Non-Melanoma
+2336,HAM_0005713,ISIC_0028714,vasc,histo,60,female,neck,Vascular lesions,-1,Non-Melanoma
+2337,HAM_0005713,ISIC_0030956,vasc,histo,60,female,neck,Vascular lesions,-1,Non-Melanoma
+2338,HAM_0003839,ISIC_0026693,vasc,histo,75,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2339,HAM_0003839,ISIC_0027983,vasc,histo,75,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2340,HAM_0002538,ISIC_0030770,vasc,histo,65,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2341,HAM_0002538,ISIC_0032240,vasc,histo,65,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2342,HAM_0003925,ISIC_0031759,vasc,histo,80,male,back,Vascular lesions,-1,Non-Melanoma
+2343,HAM_0006324,ISIC_0029889,vasc,histo,40,female,chest,Vascular lesions,-1,Non-Melanoma
+2344,HAM_0004455,ISIC_0027385,vasc,histo,20,male,trunk,Vascular lesions,-1,Non-Melanoma
+2345,HAM_0004455,ISIC_0030882,vasc,histo,20,male,trunk,Vascular lesions,-1,Non-Melanoma
+2346,HAM_0007614,ISIC_0029514,vasc,histo,55,female,face,Vascular lesions,-1,Non-Melanoma
+2347,HAM_0007614,ISIC_0027672,vasc,histo,55,female,face,Vascular lesions,-1,Non-Melanoma
+2348,HAM_0003771,ISIC_0026163,vasc,histo,50,female,hand,Vascular lesions,-1,Non-Melanoma
+2349,HAM_0003771,ISIC_0025807,vasc,histo,50,female,hand,Vascular lesions,-1,Non-Melanoma
+2350,HAM_0000494,ISIC_0032745,vasc,histo,55,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2351,HAM_0000494,ISIC_0032557,vasc,histo,55,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2352,HAM_0000494,ISIC_0033092,vasc,histo,55,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2353,HAM_0006156,ISIC_0027903,vasc,histo,45,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2354,HAM_0006203,ISIC_0026456,vasc,histo,60,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2355,HAM_0005878,ISIC_0033450,vasc,histo,15,male,chest,Vascular lesions,-1,Non-Melanoma
+2356,HAM_0005878,ISIC_0033254,vasc,histo,15,male,chest,Vascular lesions,-1,Non-Melanoma
+2357,HAM_0004776,ISIC_0033158,vasc,histo,45,female,chest,Vascular lesions,-1,Non-Melanoma
+2358,HAM_0004776,ISIC_0032867,vasc,histo,45,female,chest,Vascular lesions,-1,Non-Melanoma
+2359,HAM_0004776,ISIC_0032545,vasc,histo,45,female,chest,Vascular lesions,-1,Non-Melanoma
+2360,HAM_0000940,ISIC_0032692,vasc,histo,35,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2361,HAM_0000940,ISIC_0033608,vasc,histo,35,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2362,HAM_0000940,ISIC_0033969,vasc,histo,35,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2363,HAM_0003862,ISIC_0033031,vasc,histo,45,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2364,HAM_0003862,ISIC_0032775,vasc,histo,45,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2365,HAM_0003862,ISIC_0033458,vasc,histo,45,male,upper extremity,Vascular lesions,-1,Non-Melanoma
+2366,HAM_0006946,ISIC_0032614,vasc,histo,55,female,back,Vascular lesions,-1,Non-Melanoma
+2367,HAM_0006946,ISIC_0033349,vasc,histo,55,female,back,Vascular lesions,-1,Non-Melanoma
+2368,HAM_0006946,ISIC_0032919,vasc,histo,55,female,back,Vascular lesions,-1,Non-Melanoma
+2369,HAM_0006946,ISIC_0032866,vasc,histo,55,female,back,Vascular lesions,-1,Non-Melanoma
+2370,HAM_0004791,ISIC_0033135,vasc,histo,80,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2371,HAM_0004791,ISIC_0032538,vasc,histo,80,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2372,HAM_0004791,ISIC_0033591,vasc,histo,80,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2373,HAM_0005989,ISIC_0031648,vasc,histo,25,female,back,Vascular lesions,-1,Non-Melanoma
+2374,HAM_0005989,ISIC_0033565,vasc,histo,25,female,back,Vascular lesions,-1,Non-Melanoma
+2375,HAM_0005989,ISIC_0033123,vasc,histo,25,female,back,Vascular lesions,-1,Non-Melanoma
+2376,HAM_0007097,ISIC_0033230,vasc,histo,60,male,trunk,Vascular lesions,-1,Non-Melanoma
+2377,HAM_0007097,ISIC_0033762,vasc,histo,60,male,trunk,Vascular lesions,-1,Non-Melanoma
+2378,HAM_0007097,ISIC_0034214,vasc,histo,60,male,trunk,Vascular lesions,-1,Non-Melanoma
+2379,HAM_0001852,ISIC_0033749,vasc,histo,80,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2380,HAM_0001852,ISIC_0034196,vasc,histo,80,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2381,HAM_0001719,ISIC_0031090,vasc,histo,55,female,upper extremity,Vascular lesions,-1,Non-Melanoma
+2382,HAM_0005270,ISIC_0032270,vasc,histo,70,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2383,HAM_0005158,ISIC_0031950,vasc,histo,40,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2384,HAM_0005471,ISIC_0028146,vasc,histo,60,female,back,Vascular lesions,-1,Non-Melanoma
+2385,HAM_0004877,ISIC_0027159,vasc,histo,85,female,upper extremity,Vascular lesions,-1,Non-Melanoma
+2386,HAM_0004877,ISIC_0028188,vasc,histo,85,female,upper extremity,Vascular lesions,-1,Non-Melanoma
+2387,HAM_0004820,ISIC_0030722,vasc,consensus,45,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2388,HAM_0002610,ISIC_0026876,vasc,consensus,0,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2389,HAM_0002610,ISIC_0030606,vasc,consensus,0,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2390,HAM_0001566,ISIC_0024747,vasc,consensus,70,female,face,Vascular lesions,-1,Non-Melanoma
+2391,HAM_0001566,ISIC_0031346,vasc,consensus,70,female,face,Vascular lesions,-1,Non-Melanoma
+2392,HAM_0006748,ISIC_0027210,vasc,consensus,30,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2393,HAM_0006748,ISIC_0025924,vasc,consensus,30,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2394,HAM_0007020,ISIC_0031719,vasc,consensus,75,female,hand,Vascular lesions,-1,Non-Melanoma
+2395,HAM_0007020,ISIC_0030070,vasc,consensus,75,female,hand,Vascular lesions,-1,Non-Melanoma
+2396,HAM_0000502,ISIC_0031093,vasc,consensus,70,male,back,Vascular lesions,-1,Non-Melanoma
+2397,HAM_0000502,ISIC_0029608,vasc,consensus,70,male,back,Vascular lesions,-1,Non-Melanoma
+2398,HAM_0004542,ISIC_0024402,vasc,consensus,0,female,back,Vascular lesions,-1,Non-Melanoma
+2399,HAM_0004542,ISIC_0027256,vasc,consensus,0,female,back,Vascular lesions,-1,Non-Melanoma
+2400,HAM_0006852,ISIC_0032715,vasc,consensus,45,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2401,HAM_0006852,ISIC_0033991,vasc,consensus,45,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2402,HAM_0001249,ISIC_0033817,vasc,consensus,85,male,back,Vascular lesions,-1,Non-Melanoma
+2403,HAM_0002498,ISIC_0032839,vasc,consensus,70,male,back,Vascular lesions,-1,Non-Melanoma
+2404,HAM_0002498,ISIC_0032932,vasc,consensus,70,male,back,Vascular lesions,-1,Non-Melanoma
+2405,HAM_0003480,ISIC_0031996,vasc,consensus,70,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2406,HAM_0003480,ISIC_0032890,vasc,consensus,70,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2407,HAM_0003480,ISIC_0033844,vasc,consensus,70,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2408,HAM_0006406,ISIC_0026336,vasc,consensus,50,male,trunk,Vascular lesions,-1,Non-Melanoma
+2409,HAM_0002390,ISIC_0029439,vasc,consensus,50,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2410,HAM_0004549,ISIC_0031201,vasc,consensus,45,male,trunk,Vascular lesions,-1,Non-Melanoma
+2411,HAM_0007372,ISIC_0030283,vasc,consensus,55,male,trunk,Vascular lesions,-1,Non-Melanoma
+2412,HAM_0000934,ISIC_0031706,vasc,consensus,60,male,trunk,Vascular lesions,-1,Non-Melanoma
+2413,HAM_0003873,ISIC_0024475,vasc,consensus,35,male,face,Vascular lesions,-1,Non-Melanoma
+2414,HAM_0004097,ISIC_0025677,vasc,consensus,50,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2415,HAM_0006501,ISIC_0025873,vasc,consensus,50,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2416,HAM_0000460,ISIC_0025197,vasc,consensus,50,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2417,HAM_0001238,ISIC_0032409,vasc,consensus,80,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2418,HAM_0007150,ISIC_0028680,vasc,consensus,45,female,trunk,Vascular lesions,-1,Non-Melanoma
+2419,HAM_0000845,ISIC_0025244,vasc,consensus,45,female,trunk,Vascular lesions,-1,Non-Melanoma
+2420,HAM_0005938,ISIC_0025596,vasc,consensus,45,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2421,HAM_0002788,ISIC_0027563,vasc,consensus,70,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2422,HAM_0006796,ISIC_0025707,vasc,consensus,35,male,trunk,Vascular lesions,-1,Non-Melanoma
+2423,HAM_0002650,ISIC_0029742,vasc,consensus,5,male,back,Vascular lesions,-1,Non-Melanoma
+2424,HAM_0002177,ISIC_0025612,vasc,consensus,45,female,neck,Vascular lesions,-1,Non-Melanoma
+2425,HAM_0007113,ISIC_0027522,vasc,consensus,55,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2426,HAM_0005215,ISIC_0028406,vasc,consensus,80,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2427,HAM_0005475,ISIC_0025628,vasc,consensus,80,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2428,HAM_0005011,ISIC_0026393,vasc,consensus,80,male,trunk,Vascular lesions,-1,Non-Melanoma
+2429,HAM_0006193,ISIC_0029877,vasc,consensus,80,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2430,HAM_0007532,ISIC_0024662,vasc,consensus,75,male,trunk,Vascular lesions,-1,Non-Melanoma
+2431,HAM_0005885,ISIC_0031215,vasc,consensus,75,male,trunk,Vascular lesions,-1,Non-Melanoma
+2432,HAM_0007118,ISIC_0027856,vasc,consensus,45,female,trunk,Vascular lesions,-1,Non-Melanoma
+2433,HAM_0004653,ISIC_0028431,vasc,consensus,50,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2434,HAM_0001122,ISIC_0030104,vasc,consensus,65,female,trunk,Vascular lesions,-1,Non-Melanoma
+2435,HAM_0006291,ISIC_0026490,vasc,consensus,65,female,trunk,Vascular lesions,-1,Non-Melanoma
+2436,HAM_0004943,ISIC_0027790,vasc,consensus,50,female,face,Vascular lesions,-1,Non-Melanoma
+2437,HAM_0004409,ISIC_0027888,vasc,consensus,40,male,trunk,Vascular lesions,-1,Non-Melanoma
+2438,HAM_0001780,ISIC_0024370,vasc,consensus,55,male,trunk,Vascular lesions,-1,Non-Melanoma
+2439,HAM_0005376,ISIC_0025606,vasc,consensus,55,male,scalp,Vascular lesions,-1,Non-Melanoma
+2440,HAM_0001372,ISIC_0031103,vasc,consensus,35,female,trunk,Vascular lesions,-1,Non-Melanoma
+2441,HAM_0000109,ISIC_0031065,vasc,consensus,35,female,trunk,Vascular lesions,-1,Non-Melanoma
+2442,HAM_0004769,ISIC_0025250,vasc,consensus,30,male,scalp,Vascular lesions,-1,Non-Melanoma
+2443,HAM_0005245,ISIC_0024375,vasc,consensus,70,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2444,HAM_0000286,ISIC_0029099,vasc,consensus,70,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2445,HAM_0001091,ISIC_0031955,vasc,consensus,30,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2446,HAM_0002639,ISIC_0025249,vasc,consensus,30,female,lower extremity,Vascular lesions,-1,Non-Melanoma
+2447,HAM_0006138,ISIC_0026713,vasc,consensus,35,female,hand,Vascular lesions,-1,Non-Melanoma
+2448,HAM_0006447,ISIC_0031276,vasc,consensus,75,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2449,HAM_0005427,ISIC_0028885,vasc,consensus,75,male,back,Vascular lesions,-1,Non-Melanoma
+2450,HAM_0007568,ISIC_0024867,vasc,consensus,75,male,trunk,Vascular lesions,-1,Non-Melanoma
+2451,HAM_0006280,ISIC_0027937,vasc,consensus,70,male,trunk,Vascular lesions,-1,Non-Melanoma
+2452,HAM_0002787,ISIC_0025425,vasc,consensus,50,male,trunk,Vascular lesions,-1,Non-Melanoma
+2453,HAM_0001038,ISIC_0024706,vasc,consensus,50,male,trunk,Vascular lesions,-1,Non-Melanoma
+2454,HAM_0001860,ISIC_0027665,vasc,consensus,50,male,abdomen,Vascular lesions,-1,Non-Melanoma
+2455,HAM_0001537,ISIC_0026467,vasc,consensus,55,male,lower extremity,Vascular lesions,-1,Non-Melanoma
+2456,HAM_0004862,ISIC_0032057,vasc,consensus,55,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2457,HAM_0000415,ISIC_0025680,vasc,consensus,55,female,trunk,Vascular lesions,-1,Non-Melanoma
+2458,HAM_0004413,ISIC_0026068,vasc,consensus,55,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2459,HAM_0004257,ISIC_0025452,vasc,consensus,55,female,abdomen,Vascular lesions,-1,Non-Melanoma
+2460,HAM_0003829,ISIC_0026349,vasc,consensus,60,female,trunk,Vascular lesions,-1,Non-Melanoma
+2461,HAM_0005560,ISIC_0027269,vasc,consensus,60,female,trunk,Vascular lesions,-1,Non-Melanoma
+2463,HAM_0003220,ISIC_0034093,bcc,histo,80,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2464,HAM_0007141,ISIC_0029230,bcc,histo,50,male,trunk,Basal cell carcinoma,-1,Non-Melanoma
+2466,HAM_0007009,ISIC_0032384,bcc,histo,50,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2468,HAM_0006843,ISIC_0024457,bcc,histo,85,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2471,HAM_0002134,ISIC_0024431,bcc,histo,45,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2472,HAM_0002134,ISIC_0026656,bcc,histo,45,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2474,HAM_0001884,ISIC_0025718,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2477,HAM_0005776,ISIC_0028238,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2482,HAM_0003429,ISIC_0024673,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2484,HAM_0000195,ISIC_0028495,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2484,HAM_0000195,ISIC_0028495,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2487,HAM_0004511,ISIC_0024590,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2490,HAM_0003805,ISIC_0030446,bcc,histo,80,female,scalp,Basal cell carcinoma,-1,Non-Melanoma
+2492,HAM_0001610,ISIC_0031166,bcc,histo,75,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2494,HAM_0002467,ISIC_0030893,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2500,HAM_0000065,ISIC_0028085,bcc,histo,50,female,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2500,HAM_0000065,ISIC_0028085,bcc,histo,50,female,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2503,HAM_0001331,ISIC_0031400,bcc,histo,75,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2504,HAM_0006800,ISIC_0029747,bcc,histo,85,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2506,HAM_0002791,ISIC_0031749,bcc,histo,40,female,trunk,Basal cell carcinoma,-1,Non-Melanoma
+2513,HAM_0003981,ISIC_0028670,bcc,histo,65,male,trunk,Basal cell carcinoma,-1,Non-Melanoma
+2513,HAM_0003981,ISIC_0028670,bcc,histo,65,male,trunk,Basal cell carcinoma,-1,Non-Melanoma
+2515,HAM_0003094,ISIC_0027858,bcc,histo,75,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2522,HAM_0003738,ISIC_0031243,bcc,histo,85,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2525,HAM_0007446,ISIC_0028457,bcc,histo,75,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2526,HAM_0000791,ISIC_0030687,bcc,histo,80,male,scalp,Basal cell carcinoma,-1,Non-Melanoma
+2527,HAM_0000791,ISIC_0025584,bcc,histo,80,male,scalp,Basal cell carcinoma,-1,Non-Melanoma
+2532,HAM_0005921,ISIC_0029034,bcc,histo,75,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2536,HAM_0002346,ISIC_0029341,bcc,histo,70,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2541,HAM_0005947,ISIC_0027998,bcc,histo,65,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2545,HAM_0000463,ISIC_0032415,bcc,histo,70,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2549,HAM_0001926,ISIC_0028095,bcc,histo,75,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2556,HAM_0005382,ISIC_0026230,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2557,HAM_0005382,ISIC_0026395,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2559,HAM_0000189,ISIC_0025600,bcc,histo,85,female,scalp,Basal cell carcinoma,-1,Non-Melanoma
+2565,HAM_0003593,ISIC_0027478,bcc,histo,40,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2566,HAM_0005804,ISIC_0026275,bcc,histo,85,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2569,HAM_0005657,ISIC_0024572,bcc,histo,75,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2570,HAM_0001078,ISIC_0027851,bcc,histo,55,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2572,HAM_0005058,ISIC_0026324,bcc,histo,85,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2583,HAM_0006572,ISIC_0030349,bcc,histo,75,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2584,HAM_0006572,ISIC_0026091,bcc,histo,75,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2588,HAM_0003186,ISIC_0027297,bcc,histo,70,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2600,HAM_0001138,ISIC_0032768,bcc,histo,50,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2600,HAM_0001138,ISIC_0032768,bcc,histo,50,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2603,HAM_0000823,ISIC_0033575,bcc,histo,75,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2603,HAM_0000823,ISIC_0033575,bcc,histo,75,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2605,HAM_0005396,ISIC_0033720,bcc,histo,75,male,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2614,HAM_0002334,ISIC_0027786,bcc,histo,55,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2617,HAM_0000394,ISIC_0034143,bcc,histo,25,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2618,HAM_0004083,ISIC_0032652,bcc,histo,60,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2620,HAM_0004083,ISIC_0033571,bcc,histo,60,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2624,HAM_0003046,ISIC_0033257,bcc,histo,70,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2626,HAM_0003046,ISIC_0034119,bcc,histo,70,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2629,HAM_0007335,ISIC_0032808,bcc,histo,60,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2629,HAM_0007335,ISIC_0032808,bcc,histo,60,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2630,HAM_0007471,ISIC_0033483,bcc,histo,45,male,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2635,HAM_0004536,ISIC_0030314,bcc,histo,40,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2635,HAM_0004536,ISIC_0030314,bcc,histo,40,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2636,HAM_0000795,ISIC_0033012,bcc,histo,80,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2636,HAM_0000795,ISIC_0033012,bcc,histo,80,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2637,HAM_0000795,ISIC_0033468,bcc,histo,80,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2639,HAM_0002243,ISIC_0032777,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2642,HAM_0000879,ISIC_0033366,bcc,histo,65,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2647,HAM_0003216,ISIC_0034015,bcc,histo,85,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2648,HAM_0003216,ISIC_0034223,bcc,histo,85,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2650,HAM_0003072,ISIC_0033499,bcc,histo,85,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2650,HAM_0003072,ISIC_0033499,bcc,histo,85,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2654,HAM_0006586,ISIC_0034026,bcc,histo,80,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2656,HAM_0005478,ISIC_0033301,bcc,histo,65,male,neck,Basal cell carcinoma,-1,Non-Melanoma
+2657,HAM_0003690,ISIC_0034155,bcc,histo,45,female,unknown,Basal cell carcinoma,-1,Non-Melanoma
+2657,HAM_0003690,ISIC_0034155,bcc,histo,45,female,unknown,Basal cell carcinoma,-1,Non-Melanoma
+2659,HAM_0002397,ISIC_0029192,bcc,histo,85,female,neck,Basal cell carcinoma,-1,Non-Melanoma
+2659,HAM_0002397,ISIC_0029192,bcc,histo,85,female,neck,Basal cell carcinoma,-1,Non-Melanoma
+2661,HAM_0007248,ISIC_0025102,bcc,histo,70,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2663,HAM_0007248,ISIC_0030712,bcc,histo,70,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2665,HAM_0004849,ISIC_0032991,bcc,histo,80,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2667,HAM_0000212,ISIC_0028871,bcc,histo,80,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2669,HAM_0004539,ISIC_0025617,bcc,histo,40,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2669,HAM_0004539,ISIC_0025617,bcc,histo,40,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2671,HAM_0003039,ISIC_0026350,bcc,histo,30,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2679,HAM_0001640,ISIC_0031026,bcc,histo,65,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2680,HAM_0004435,ISIC_0032146,bcc,histo,80,female,neck,Basal cell carcinoma,-1,Non-Melanoma
+2683,HAM_0003112,ISIC_0030233,bcc,histo,80,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2683,HAM_0003112,ISIC_0030233,bcc,histo,80,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2691,HAM_0002983,ISIC_0029392,bcc,histo,75,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2691,HAM_0002983,ISIC_0029392,bcc,histo,75,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2693,HAM_0000082,ISIC_0031698,bcc,histo,75,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2694,HAM_0005901,ISIC_0031245,bcc,histo,65,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2694,HAM_0005901,ISIC_0031245,bcc,histo,65,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2699,HAM_0004937,ISIC_0026988,bcc,histo,60,male,neck,Basal cell carcinoma,-1,Non-Melanoma
+2701,HAM_0001759,ISIC_0032497,bcc,histo,70,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2702,HAM_0004831,ISIC_0025144,bcc,histo,75,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2704,HAM_0001666,ISIC_0024632,bcc,histo,70,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2705,HAM_0001666,ISIC_0026668,bcc,histo,70,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2705,HAM_0001666,ISIC_0026668,bcc,histo,70,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2707,HAM_0003851,ISIC_0031643,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2710,HAM_0002577,ISIC_0025417,bcc,histo,70,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2717,HAM_0000504,ISIC_0025971,bcc,histo,45,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2724,HAM_0002167,ISIC_0026952,bcc,histo,55,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2725,HAM_0002427,ISIC_0031384,bcc,histo,85,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2732,HAM_0004027,ISIC_0024595,bcc,histo,65,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2734,HAM_0003866,ISIC_0024665,bcc,histo,65,female,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2734,HAM_0003866,ISIC_0024665,bcc,histo,65,female,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2736,HAM_0004285,ISIC_0029129,bcc,histo,85,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2736,HAM_0004285,ISIC_0029129,bcc,histo,85,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2739,HAM_0005180,ISIC_0024454,bcc,histo,80,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2740,HAM_0005410,ISIC_0025433,bcc,histo,50,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2740,HAM_0005410,ISIC_0025433,bcc,histo,50,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2743,HAM_0004880,ISIC_0028583,bcc,histo,65,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2748,HAM_0000457,ISIC_0026855,bcc,histo,70,female,chest,Basal cell carcinoma,-1,Non-Melanoma
+2748,HAM_0000457,ISIC_0026855,bcc,histo,70,female,chest,Basal cell carcinoma,-1,Non-Melanoma
+2750,HAM_0005933,ISIC_0024634,bcc,histo,80,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2754,HAM_0000968,ISIC_0026074,bcc,histo,40,female,chest,Basal cell carcinoma,-1,Non-Melanoma
+2755,HAM_0001183,ISIC_0027846,bcc,histo,65,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2757,HAM_0001503,ISIC_0025940,bcc,histo,55,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2762,HAM_0003846,ISIC_0028113,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2767,HAM_0005536,ISIC_0026798,bcc,histo,45,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2769,HAM_0000719,ISIC_0027915,bcc,histo,80,male,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2770,HAM_0000719,ISIC_0026337,bcc,histo,80,male,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2770,HAM_0000719,ISIC_0026337,bcc,histo,80,male,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2773,HAM_0005984,ISIC_0026117,bcc,histo,75,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2777,HAM_0001283,ISIC_0026845,bcc,histo,80,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2780,HAM_0005417,ISIC_0032022,bcc,histo,65,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2784,HAM_0006727,ISIC_0030197,bcc,histo,75,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2785,HAM_0006727,ISIC_0024582,bcc,histo,75,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2787,HAM_0004487,ISIC_0028989,bcc,histo,65,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2794,HAM_0003389,ISIC_0031122,bcc,histo,65,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2796,HAM_0005585,ISIC_0025826,bcc,histo,65,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2797,HAM_0001388,ISIC_0032225,bcc,histo,70,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2798,HAM_0001457,ISIC_0029856,bcc,histo,75,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2799,HAM_0001573,ISIC_0024799,bcc,histo,45,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2800,HAM_0000153,ISIC_0031007,bcc,histo,80,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2802,HAM_0007588,ISIC_0030230,bcc,histo,55,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2811,HAM_0001528,ISIC_0025601,bcc,histo,40,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2812,HAM_0001528,ISIC_0032461,bcc,histo,40,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2813,HAM_0004514,ISIC_0030690,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2813,HAM_0004514,ISIC_0030690,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2813,HAM_0004514,ISIC_0030690,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2813,HAM_0004514,ISIC_0030690,bcc,histo,50,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2814,HAM_0002959,ISIC_0027473,bcc,histo,65,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2817,HAM_0005985,ISIC_0030181,bcc,histo,45,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2817,HAM_0005985,ISIC_0030181,bcc,histo,45,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2818,HAM_0004624,ISIC_0028329,bcc,histo,80,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2820,HAM_0001434,ISIC_0031009,bcc,histo,70,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2830,HAM_0002689,ISIC_0029263,bcc,histo,60,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2831,HAM_0002689,ISIC_0026687,bcc,histo,60,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2835,HAM_0003191,ISIC_0029524,bcc,histo,65,female,hand,Basal cell carcinoma,-1,Non-Melanoma
+2836,HAM_0003191,ISIC_0028050,bcc,histo,65,female,hand,Basal cell carcinoma,-1,Non-Melanoma
+2842,HAM_0005371,ISIC_0028168,bcc,histo,65,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2845,HAM_0007627,ISIC_0029820,bcc,histo,80,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2846,HAM_0000987,ISIC_0027722,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2847,HAM_0005184,ISIC_0029644,bcc,histo,40,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2847,HAM_0005184,ISIC_0029644,bcc,histo,40,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2847,HAM_0005184,ISIC_0029644,bcc,histo,40,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2848,HAM_0003764,ISIC_0031063,bcc,histo,70,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2849,HAM_0003764,ISIC_0028877,bcc,histo,70,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2854,HAM_0000872,ISIC_0031171,bcc,histo,75,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2855,HAM_0006588,ISIC_0031552,bcc,histo,70,female,face,Basal cell carcinoma,-1,Non-Melanoma
+2858,HAM_0005030,ISIC_0028303,bcc,histo,75,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2861,HAM_0002313,ISIC_0025530,bcc,histo,80,female,foot,Basal cell carcinoma,-1,Non-Melanoma
+2862,HAM_0002427,ISIC_0027629,bcc,histo,85,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2863,HAM_0002017,ISIC_0025630,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2863,HAM_0002017,ISIC_0025630,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2863,HAM_0002017,ISIC_0025630,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2865,HAM_0003669,ISIC_0030096,bcc,histo,65,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2873,HAM_0001575,ISIC_0028652,bcc,histo,65,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2873,HAM_0001575,ISIC_0028652,bcc,histo,65,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2875,HAM_0005985,ISIC_0032030,bcc,histo,45,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2877,HAM_0005721,ISIC_0027525,bcc,histo,75,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2878,HAM_0005721,ISIC_0024550,bcc,histo,75,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2879,HAM_0005721,ISIC_0029919,bcc,histo,75,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2886,HAM_0005617,ISIC_0027546,bcc,histo,65,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2887,HAM_0001693,ISIC_0030868,bcc,histo,80,male,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2889,HAM_0000451,ISIC_0029123,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2889,HAM_0000451,ISIC_0029123,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2889,HAM_0000451,ISIC_0029123,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2890,HAM_0000451,ISIC_0029372,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2894,HAM_0001424,ISIC_0031470,bcc,histo,65,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2895,HAM_0005379,ISIC_0032092,bcc,histo,45,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2899,HAM_0003991,ISIC_0029602,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2899,HAM_0003991,ISIC_0029602,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2899,HAM_0003991,ISIC_0029602,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2900,HAM_0006053,ISIC_0028147,bcc,histo,65,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2902,HAM_0001183,ISIC_0031062,bcc,histo,65,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2905,HAM_0005392,ISIC_0024436,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2907,HAM_0001129,ISIC_0030352,bcc,histo,70,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2909,HAM_0003941,ISIC_0028419,bcc,histo,35,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2909,HAM_0003941,ISIC_0028419,bcc,histo,35,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2910,HAM_0004621,ISIC_0025818,bcc,histo,70,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2917,HAM_0002269,ISIC_0024443,bcc,histo,55,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2920,HAM_0007497,ISIC_0026829,bcc,histo,60,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2927,HAM_0005334,ISIC_0031298,bcc,histo,75,male,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2933,HAM_0006658,ISIC_0026154,bcc,histo,85,male,neck,Basal cell carcinoma,-1,Non-Melanoma
+2934,HAM_0003177,ISIC_0031697,bcc,histo,60,female,upper extremity,Basal cell carcinoma,-1,Non-Melanoma
+2935,HAM_0007364,ISIC_0029917,bcc,histo,80,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2936,HAM_0003444,ISIC_0028687,bcc,histo,80,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2937,HAM_0003444,ISIC_0027120,bcc,histo,80,female,lower extremity,Basal cell carcinoma,-1,Non-Melanoma
+2941,HAM_0001415,ISIC_0032222,bcc,histo,65,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2942,HAM_0001415,ISIC_0025019,bcc,histo,65,male,chest,Basal cell carcinoma,-1,Non-Melanoma
+2947,HAM_0006049,ISIC_0031614,bcc,histo,45,female,back,Basal cell carcinoma,-1,Non-Melanoma
+2954,HAM_0005837,ISIC_0028653,bcc,histo,50,female,chest,Basal cell carcinoma,-1,Non-Melanoma
+2954,HAM_0005837,ISIC_0028653,bcc,histo,50,female,chest,Basal cell carcinoma,-1,Non-Melanoma
+2962,HAM_0001390,ISIC_0024411,bcc,histo,75,male,face,Basal cell carcinoma,-1,Non-Melanoma
+2963,HAM_0001713,ISIC_0028671,bcc,histo,55,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2964,HAM_0001369,ISIC_0026957,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2964,HAM_0001369,ISIC_0026957,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2967,HAM_0004685,ISIC_0030767,bcc,histo,75,male,scalp,Basal cell carcinoma,-1,Non-Melanoma
+2969,HAM_0006564,ISIC_0031971,bcc,histo,70,male,unknown,Basal cell carcinoma,-1,Non-Melanoma
+2969,HAM_0006564,ISIC_0031971,bcc,histo,70,male,unknown,Basal cell carcinoma,-1,Non-Melanoma
+2970,HAM_0006564,ISIC_0031721,bcc,histo,70,male,unknown,Basal cell carcinoma,-1,Non-Melanoma
+2972,HAM_0001215,ISIC_0025260,bcc,histo,70,male,back,Basal cell carcinoma,-1,Non-Melanoma
+2974,HAM_0005026,ISIC_0028978,bcc,histo,40,female,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2974,HAM_0005026,ISIC_0028978,bcc,histo,40,female,abdomen,Basal cell carcinoma,-1,Non-Melanoma
+2996,HAM_0001335,ISIC_0026555,nv,follow_up,50,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+3003,HAM_0007320,ISIC_0026780,nv,follow_up,50,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+3020,HAM_0000128,ISIC_0024968,nv,follow_up,50,male,foot,Melanocytic nevi,-1,Non-Melanoma
+3034,HAM_0002180,ISIC_0027479,nv,follow_up,45,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3094,HAM_0002226,ISIC_0025407,nv,follow_up,45,female,genital,Melanocytic nevi,-1,Non-Melanoma
+3115,HAM_0005661,ISIC_0025053,nv,follow_up,50,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3117,HAM_0006863,ISIC_0030907,nv,follow_up,45,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3189,HAM_0006132,ISIC_0027732,nv,follow_up,45,female,back,Melanocytic nevi,-1,Non-Melanoma
+3189,HAM_0006132,ISIC_0027732,nv,follow_up,45,female,back,Melanocytic nevi,-1,Non-Melanoma
+3201,HAM_0006463,ISIC_0028515,nv,follow_up,45,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+3219,HAM_0002651,ISIC_0028682,nv,follow_up,25,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+3230,HAM_0005863,ISIC_0029336,nv,follow_up,55,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3308,HAM_0000429,ISIC_0026562,nv,follow_up,45,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3356,HAM_0003375,ISIC_0031422,nv,follow_up,50,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+3365,HAM_0000548,ISIC_0027763,nv,follow_up,55,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3395,HAM_0000444,ISIC_0029118,nv,follow_up,55,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3397,HAM_0006669,ISIC_0026137,nv,follow_up,25,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+3428,HAM_0003080,ISIC_0024868,nv,follow_up,55,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+3492,HAM_0001554,ISIC_0030836,nv,follow_up,35,male,back,Melanocytic nevi,-1,Non-Melanoma
+3553,HAM_0007465,ISIC_0031392,nv,follow_up,45,male,back,Melanocytic nevi,-1,Non-Melanoma
+3564,HAM_0005598,ISIC_0029023,nv,follow_up,45,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3579,HAM_0007252,ISIC_0026949,nv,follow_up,55,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3579,HAM_0007252,ISIC_0026949,nv,follow_up,55,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3636,HAM_0003924,ISIC_0030569,nv,follow_up,80,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+3674,HAM_0002930,ISIC_0026994,nv,follow_up,45,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+3745,HAM_0005247,ISIC_0024687,nv,follow_up,50,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3748,HAM_0003595,ISIC_0027621,nv,follow_up,40,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+3764,HAM_0002230,ISIC_0026243,nv,follow_up,5,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3765,HAM_0003314,ISIC_0026470,nv,follow_up,5,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3818,HAM_0004407,ISIC_0024555,nv,follow_up,50,female,hand,Melanocytic nevi,-1,Non-Melanoma
+3820,HAM_0004252,ISIC_0030461,nv,follow_up,55,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3844,HAM_0006891,ISIC_0031367,nv,follow_up,50,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+3846,HAM_0007201,ISIC_0026208,nv,follow_up,50,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3858,HAM_0000942,ISIC_0028554,nv,follow_up,75,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3899,HAM_0000499,ISIC_0029599,nv,follow_up,45,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+3912,HAM_0004823,ISIC_0032108,nv,follow_up,50,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3922,HAM_0004130,ISIC_0026173,nv,follow_up,45,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3926,HAM_0002062,ISIC_0027400,nv,follow_up,45,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+3929,HAM_0000021,ISIC_0026773,nv,follow_up,45,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+3947,HAM_0005272,ISIC_0028786,nv,follow_up,65,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+4003,HAM_0000780,ISIC_0027453,nv,follow_up,80,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4033,HAM_0005639,ISIC_0030657,nv,follow_up,45,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+4041,HAM_0000715,ISIC_0029287,nv,follow_up,50,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4072,HAM_0007077,ISIC_0032505,nv,follow_up,55,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4095,HAM_0007273,ISIC_0025437,nv,follow_up,40,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4096,HAM_0000697,ISIC_0029148,nv,follow_up,40,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4152,HAM_0007224,ISIC_0024977,nv,follow_up,60,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4166,HAM_0007190,ISIC_0030505,nv,follow_up,40,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4201,HAM_0000514,ISIC_0028934,nv,follow_up,80,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4224,HAM_0007198,ISIC_0026200,nv,follow_up,50,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4270,HAM_0007509,ISIC_0027542,nv,follow_up,75,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4287,HAM_0000840,ISIC_0026828,nv,follow_up,55,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4299,HAM_0006768,ISIC_0028284,nv,follow_up,55,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4355,HAM_0001831,ISIC_0029556,nv,follow_up,60,male,back,Melanocytic nevi,-1,Non-Melanoma
+4389,HAM_0001340,ISIC_0025290,nv,follow_up,60,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4389,HAM_0001340,ISIC_0025290,nv,follow_up,60,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4392,HAM_0001468,ISIC_0024469,nv,follow_up,45,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4399,HAM_0003500,ISIC_0025917,nv,follow_up,30,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+4407,HAM_0004436,ISIC_0030042,nv,follow_up,45,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4431,HAM_0001054,ISIC_0029006,nv,follow_up,40,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4440,HAM_0005168,ISIC_0028277,nv,follow_up,55,female,back,Melanocytic nevi,-1,Non-Melanoma
+4529,HAM_0007416,ISIC_0025281,nv,follow_up,55,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+4542,HAM_0000131,ISIC_0030769,nv,follow_up,35,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4542,HAM_0000131,ISIC_0030769,nv,follow_up,35,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4586,HAM_0004672,ISIC_0026550,nv,follow_up,40,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+4613,HAM_0003916,ISIC_0032370,nv,follow_up,45,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4619,HAM_0004166,ISIC_0028313,nv,follow_up,45,male,back,Melanocytic nevi,-1,Non-Melanoma
+4687,HAM_0000166,ISIC_0028954,nv,follow_up,55,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4689,HAM_0004969,ISIC_0025521,nv,follow_up,55,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4703,HAM_0005771,ISIC_0030799,nv,follow_up,50,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+4707,HAM_0003871,ISIC_0031664,nv,follow_up,35,female,back,Melanocytic nevi,-1,Non-Melanoma
+4713,HAM_0006091,ISIC_0026507,nv,follow_up,75,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4714,HAM_0002496,ISIC_0030861,nv,follow_up,75,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4737,HAM_0001422,ISIC_0029414,nv,follow_up,45,male,back,Melanocytic nevi,-1,Non-Melanoma
+4759,HAM_0001345,ISIC_0028407,nv,follow_up,55,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+4839,HAM_0002340,ISIC_0029047,nv,follow_up,70,male,back,Melanocytic nevi,-1,Non-Melanoma
+4943,HAM_0005150,ISIC_0028161,nv,follow_up,45,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+4956,HAM_0004758,ISIC_0028491,nv,follow_up,45,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+4959,HAM_0003245,ISIC_0025211,nv,follow_up,65,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4972,HAM_0004040,ISIC_0029042,nv,follow_up,35,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+4977,HAM_0002263,ISIC_0030252,nv,follow_up,25,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+4997,HAM_0000399,ISIC_0027599,nv,follow_up,60,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+5053,HAM_0002716,ISIC_0030779,nv,follow_up,65,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+5069,HAM_0006117,ISIC_0025566,nv,follow_up,35,female,back,Melanocytic nevi,-1,Non-Melanoma
+5084,HAM_0005503,ISIC_0029692,nv,follow_up,50,female,back,Melanocytic nevi,-1,Non-Melanoma
+5087,HAM_0005803,ISIC_0028717,nv,follow_up,55,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+5092,HAM_0007438,ISIC_0028203,nv,follow_up,60,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+5107,HAM_0007231,ISIC_0029114,nv,follow_up,60,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+5108,HAM_0000281,ISIC_0030577,nv,follow_up,60,female,genital,Melanocytic nevi,-1,Non-Melanoma
+5125,HAM_0003450,ISIC_0027746,nv,follow_up,40,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+5216,HAM_0001873,ISIC_0029283,nv,follow_up,50,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+5226,HAM_0001583,ISIC_0025280,nv,follow_up,35,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+5250,HAM_0001007,ISIC_0031758,nv,follow_up,40,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+5326,HAM_0000218,ISIC_0025552,nv,follow_up,50,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+5331,HAM_0007048,ISIC_0029284,nv,follow_up,45,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+5339,HAM_0007105,ISIC_0026616,nv,follow_up,35,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+5362,HAM_0001756,ISIC_0027484,nv,follow_up,80,male,back,Melanocytic nevi,-1,Non-Melanoma
+5528,HAM_0003599,ISIC_0029607,nv,follow_up,50,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+5676,HAM_0005120,ISIC_0027685,nv,follow_up,50,male,foot,Melanocytic nevi,-1,Non-Melanoma
+5736,HAM_0006570,ISIC_0030343,nv,follow_up,40,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+5772,HAM_0001124,ISIC_0026587,nv,follow_up,50,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+5810,HAM_0004357,ISIC_0027985,nv,follow_up,55,female,foot,Melanocytic nevi,-1,Non-Melanoma
+5925,HAM_0003266,ISIC_0029468,nv,follow_up,30,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+5969,HAM_0007218,ISIC_0025006,nv,follow_up,40,male,back,Melanocytic nevi,-1,Non-Melanoma
+6035,HAM_0007034,ISIC_0029529,nv,follow_up,40,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+6053,HAM_0004674,ISIC_0027252,nv,follow_up,45,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6117,HAM_0006555,ISIC_0030405,nv,follow_up,40,male,genital,Melanocytic nevi,-1,Non-Melanoma
+6126,HAM_0003903,ISIC_0028536,nv,follow_up,40,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+6195,HAM_0005385,ISIC_0028754,nv,follow_up,45,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+6207,HAM_0003019,ISIC_0032001,nv,follow_up,30,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6259,HAM_0007326,ISIC_0028783,nv,follow_up,40,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+6316,HAM_0002922,ISIC_0027625,nv,follow_up,55,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+6341,HAM_0003797,ISIC_0024639,nv,follow_up,60,male,back,Melanocytic nevi,-1,Non-Melanoma
+6344,HAM_0000964,ISIC_0028919,nv,follow_up,60,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6379,HAM_0000620,ISIC_0027414,nv,follow_up,30,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+6381,HAM_0003780,ISIC_0027123,nv,follow_up,30,female,back,Melanocytic nevi,-1,Non-Melanoma
+6400,HAM_0006846,ISIC_0027199,nv,follow_up,45,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6502,HAM_0005320,ISIC_0025356,nv,follow_up,35,female,back,Melanocytic nevi,-1,Non-Melanoma
+6509,HAM_0001844,ISIC_0026736,nv,follow_up,70,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+6511,HAM_0007411,ISIC_0028444,nv,follow_up,70,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+6627,HAM_0005165,ISIC_0030108,nv,follow_up,50,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6658,HAM_0005402,ISIC_0031695,nv,follow_up,45,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+6706,HAM_0007003,ISIC_0025638,nv,histo,20,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6711,HAM_0000854,ISIC_0029534,nv,histo,65,male,face,Melanocytic nevi,-1,Non-Melanoma
+6717,HAM_0000892,ISIC_0029845,nv,histo,40,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+6769,HAM_0002552,ISIC_0032985,mel,histo,25,male,upper extremity,Melanoma,0,Melanoma
+6802,HAM_0006457,ISIC_0032257,nv,histo,40,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+6829,HAM_0006108,ISIC_0024697,nv,histo,15,male,neck,Melanocytic nevi,-1,Non-Melanoma
+6890,HAM_0004699,ISIC_0028255,nv,histo,10,female,hand,Melanocytic nevi,-1,Non-Melanoma
+6935,HAM_0001712,ISIC_0031221,nv,histo,45,male,foot,Melanocytic nevi,-1,Non-Melanoma
+7051,HAM_0005611,ISIC_0025850,nv,histo,35,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+7081,HAM_0003951,ISIC_0024317,nv,histo,35,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+7123,HAM_0007477,ISIC_0032007,nv,histo,25,male,back,Melanocytic nevi,-1,Non-Melanoma
+7126,HAM_0001651,ISIC_0033251,nv,histo,45,male,back,Melanocytic nevi,-1,Non-Melanoma
+7129,HAM_0004766,ISIC_0030462,nv,histo,40,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+7262,HAM_0000138,ISIC_0029902,nv,histo,25,male,back,Melanocytic nevi,-1,Non-Melanoma
+7293,HAM_0005880,ISIC_0025117,nv,histo,25,female,hand,Melanocytic nevi,-1,Non-Melanoma
+7306,HAM_0004714,ISIC_0032651,nv,histo,30,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+7355,HAM_0004272,ISIC_0032957,nv,histo,30,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+7443,HAM_0001218,ISIC_0032864,nv,histo,35,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+7443,HAM_0001218,ISIC_0032864,nv,histo,35,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+7463,HAM_0003947,ISIC_0032551,nv,histo,55,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+7574,HAM_0007483,ISIC_0032628,nv,histo,35,female,back,Melanocytic nevi,-1,Non-Melanoma
+7633,HAM_0001935,ISIC_0032787,nv,histo,50,male,chest,Melanocytic nevi,-1,Non-Melanoma
+7652,HAM_0006372,ISIC_0033220,nv,histo,35,male,back,Melanocytic nevi,-1,Non-Melanoma
+7757,HAM_0003424,ISIC_0033552,nv,histo,45,male,back,Melanocytic nevi,-1,Non-Melanoma
+7776,HAM_0006191,ISIC_0033530,nv,histo,45,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+7781,HAM_0001905,ISIC_0033116,nv,histo,45,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+7788,HAM_0000316,ISIC_0033339,nv,histo,40,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+7812,HAM_0003744,ISIC_0032518,nv,histo,5,female,foot,Melanocytic nevi,-1,Non-Melanoma
+7900,HAM_0003535,ISIC_0033403,nv,histo,35,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+7970,HAM_0001175,ISIC_0033191,nv,histo,5,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8014,HAM_0003310,ISIC_0032952,nv,histo,60,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+8016,HAM_0004076,ISIC_0032966,nv,histo,0,unknown,back,Melanocytic nevi,-1,Non-Melanoma
+8074,HAM_0004954,ISIC_0030156,nv,histo,35,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8076,HAM_0004675,ISIC_0031411,nv,histo,55,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8095,HAM_0001242,ISIC_0025988,nv,histo,40,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8121,HAM_0000448,ISIC_0026210,nv,histo,25,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8133,HAM_0000139,ISIC_0027909,nv,histo,45,female,chest,Melanocytic nevi,-1,Non-Melanoma
+8156,HAM_0001037,ISIC_0031645,nv,histo,35,male,foot,Melanocytic nevi,-1,Non-Melanoma
+8200,HAM_0000397,ISIC_0029499,nv,histo,35,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+8216,HAM_0002031,ISIC_0031917,nv,histo,30,male,back,Melanocytic nevi,-1,Non-Melanoma
+8282,HAM_0001830,ISIC_0031502,nv,histo,55,female,back,Melanocytic nevi,-1,Non-Melanoma
+8305,HAM_0001895,ISIC_0029196,nv,histo,25,male,chest,Melanocytic nevi,-1,Non-Melanoma
+8363,HAM_0000391,ISIC_0028621,nv,histo,25,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+8381,HAM_0001699,ISIC_0029661,nv,histo,80,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8384,HAM_0005625,ISIC_0031623,nv,histo,35,female,back,Melanocytic nevi,-1,Non-Melanoma
+8508,HAM_0000168,ISIC_0031353,nv,histo,55,male,neck,Melanocytic nevi,-1,Non-Melanoma
+8522,HAM_0001846,ISIC_0031302,nv,histo,20,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8586,HAM_0005987,ISIC_0026741,nv,histo,80,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8587,HAM_0005925,ISIC_0026222,nv,histo,85,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8607,HAM_0000591,ISIC_0026654,nv,histo,70,male,chest,Melanocytic nevi,-1,Non-Melanoma
+8612,HAM_0007046,ISIC_0027401,nv,histo,65,male,back,Melanocytic nevi,-1,Non-Melanoma
+8629,HAM_0000225,ISIC_0029645,nv,histo,40,male,back,Melanocytic nevi,-1,Non-Melanoma
+8692,HAM_0001737,ISIC_0027883,nv,histo,85,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8692,HAM_0001737,ISIC_0027883,nv,histo,85,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8697,HAM_0004127,ISIC_0031700,nv,histo,55,male,back,Melanocytic nevi,-1,Non-Melanoma
+8735,HAM_0003640,ISIC_0027181,nv,histo,75,female,foot,Melanocytic nevi,-1,Non-Melanoma
+8774,HAM_0006094,ISIC_0032218,nv,histo,40,female,genital,Melanocytic nevi,-1,Non-Melanoma
+8779,HAM_0005750,ISIC_0029733,nv,histo,70,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8820,HAM_0002552,ISIC_0032936,mel,histo,25,male,upper extremity,Melanoma,0,Melanoma
+8834,HAM_0002552,ISIC_0033232,mel,histo,25,male,upper extremity,Melanoma,0,Melanoma
+8855,HAM_0003590,ISIC_0032459,nv,histo,45,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8881,HAM_0002025,ISIC_0028091,nv,histo,5,male,scalp,Melanocytic nevi,-1,Non-Melanoma
+8885,HAM_0003958,ISIC_0029554,nv,histo,40,male,chest,Melanocytic nevi,-1,Non-Melanoma
+8891,HAM_0005925,ISIC_0027036,nv,histo,85,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8925,HAM_0005762,ISIC_0026216,nv,histo,65,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+8930,HAM_0006409,ISIC_0028987,nv,histo,60,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+8947,HAM_0002647,ISIC_0032284,nv,histo,50,female,back,Melanocytic nevi,-1,Non-Melanoma
+8972,HAM_0003125,ISIC_0028736,nv,histo,55,male,chest,Melanocytic nevi,-1,Non-Melanoma
+8997,HAM_0006821,ISIC_0030260,nv,histo,75,male,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+9039,HAM_0003919,ISIC_0031011,nv,histo,35,male,hand,Melanocytic nevi,-1,Non-Melanoma
+9070,HAM_0006458,ISIC_0027578,nv,histo,80,male,back,Melanocytic nevi,-1,Non-Melanoma
+9121,HAM_0006104,ISIC_0026323,nv,histo,30,male,back,Melanocytic nevi,-1,Non-Melanoma
+9135,HAM_0000778,ISIC_0031039,nv,histo,30,female,back,Melanocytic nevi,-1,Non-Melanoma
+9135,HAM_0000778,ISIC_0031039,nv,histo,30,female,back,Melanocytic nevi,-1,Non-Melanoma
+9148,HAM_0004956,ISIC_0030810,nv,histo,55,female,upper extremity,Melanocytic nevi,-1,Non-Melanoma
+9205,HAM_0003946,ISIC_0026991,nv,histo,45,female,foot,Melanocytic nevi,-1,Non-Melanoma
+9242,HAM_0002708,ISIC_0029247,nv,consensus,0,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+9254,HAM_0002364,ISIC_0029838,nv,consensus,5,female,hand,Melanocytic nevi,-1,Non-Melanoma
+9266,HAM_0002798,ISIC_0025323,nv,consensus,60,female,abdomen,Melanocytic nevi,-1,Non-Melanoma
+9272,HAM_0003579,ISIC_0030229,nv,consensus,60,male,back,Melanocytic nevi,-1,Non-Melanoma
+9279,HAM_0002296,ISIC_0029055,nv,consensus,35,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+9288,HAM_0003045,ISIC_0031475,nv,consensus,45,male,back,Melanocytic nevi,-1,Non-Melanoma
+9344,HAM_0000406,ISIC_0031985,nv,consensus,20,female,back,Melanocytic nevi,-1,Non-Melanoma
+9360,HAM_0000159,ISIC_0024540,nv,consensus,25,female,trunk,Melanocytic nevi,-1,Non-Melanoma
+9421,HAM_0007206,ISIC_0031524,nv,consensus,60,female,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+9430,HAM_0006925,ISIC_0033338,nv,consensus,50,female,chest,Melanocytic nevi,-1,Non-Melanoma
+9457,HAM_0000675,ISIC_0034054,nv,consensus,35,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+9459,HAM_0005263,ISIC_0034163,nv,consensus,40,male,trunk,Melanocytic nevi,-1,Non-Melanoma
+9501,HAM_0004071,ISIC_0033098,nv,consensus,45,male,abdomen,Melanocytic nevi,-1,Non-Melanoma
+9563,HAM_0004214,ISIC_0034248,nv,consensus,40,female,unknown,Melanocytic nevi,-1,Non-Melanoma
+9568,HAM_0004188,ISIC_0032996,nv,consensus,40,female,unknown,Melanocytic nevi,-1,Non-Melanoma
+9568,HAM_0004188,ISIC_0032996,nv,consensus,40,female,unknown,Melanocytic nevi,-1,Non-Melanoma
+9576,HAM_0004209,ISIC_0034075,nv,consensus,40,female,unknown,Melanocytic nevi,-1,Non-Melanoma
+9601,HAM_0001147,ISIC_0033375,nv,consensus,,unknown,unknown,Melanocytic nevi,-1,Non-Melanoma
+9669,HAM_0007122,ISIC_0028399,nv,consensus,75,male,lower extremity,Melanocytic nevi,-1,Non-Melanoma
+9692,HAM_0006875,ISIC_0026575,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9692,HAM_0006875,ISIC_0026575,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9693,HAM_0006875,ISIC_0030586,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9693,HAM_0006875,ISIC_0030586,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9693,HAM_0006875,ISIC_0030586,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9693,HAM_0006875,ISIC_0030586,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9696,HAM_0006898,ISIC_0029041,akiec,histo,80,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9696,HAM_0006898,ISIC_0029041,akiec,histo,80,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9697,HAM_0006898,ISIC_0031040,akiec,histo,80,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9697,HAM_0006898,ISIC_0031040,akiec,histo,80,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9700,HAM_0002615,ISIC_0033456,akiec,histo,70,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9700,HAM_0002615,ISIC_0033456,akiec,histo,70,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9702,HAM_0001526,ISIC_0027795,akiec,histo,70,male,ear,Actinic keratoses,-1,Non-Melanoma
+9702,HAM_0001526,ISIC_0027795,akiec,histo,70,male,ear,Actinic keratoses,-1,Non-Melanoma
+9704,HAM_0005027,ISIC_0032329,akiec,histo,85,female,back,Actinic keratoses,-1,Non-Melanoma
+9707,HAM_0005931,ISIC_0031191,akiec,histo,60,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9710,HAM_0004243,ISIC_0031119,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9710,HAM_0004243,ISIC_0031119,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9710,HAM_0004243,ISIC_0031119,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9710,HAM_0004243,ISIC_0031119,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9715,HAM_0003989,ISIC_0030714,akiec,histo,70,female,face,Actinic keratoses,-1,Non-Melanoma
+9716,HAM_0002343,ISIC_0028158,akiec,histo,70,female,back,Actinic keratoses,-1,Non-Melanoma
+9717,HAM_0003688,ISIC_0028231,akiec,histo,80,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9719,HAM_0003971,ISIC_0029634,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9728,HAM_0001922,ISIC_0031874,akiec,histo,65,female,face,Actinic keratoses,-1,Non-Melanoma
+9729,HAM_0007601,ISIC_0032437,akiec,histo,65,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9730,HAM_0006222,ISIC_0025069,akiec,histo,75,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9733,HAM_0000718,ISIC_0025130,akiec,histo,80,female,face,Actinic keratoses,-1,Non-Melanoma
+9735,HAM_0003123,ISIC_0028816,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9736,HAM_0003123,ISIC_0028232,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9736,HAM_0003123,ISIC_0028232,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9737,HAM_0000498,ISIC_0029067,akiec,histo,65,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9741,HAM_0006217,ISIC_0031043,akiec,histo,85,male,face,Actinic keratoses,-1,Non-Melanoma
+9744,HAM_0002472,ISIC_0025696,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9745,HAM_0001337,ISIC_0032455,akiec,histo,80,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9745,HAM_0001337,ISIC_0032455,akiec,histo,80,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9745,HAM_0001337,ISIC_0032455,akiec,histo,80,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9746,HAM_0002185,ISIC_0030794,akiec,histo,65,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9746,HAM_0002185,ISIC_0030794,akiec,histo,65,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9748,HAM_0005889,ISIC_0029930,akiec,histo,70,female,face,Actinic keratoses,-1,Non-Melanoma
+9748,HAM_0005889,ISIC_0029930,akiec,histo,70,female,face,Actinic keratoses,-1,Non-Melanoma
+9750,HAM_0003586,ISIC_0027678,akiec,histo,60,male,back,Actinic keratoses,-1,Non-Melanoma
+9755,HAM_0001453,ISIC_0030991,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9756,HAM_0004636,ISIC_0029541,akiec,histo,55,male,face,Actinic keratoses,-1,Non-Melanoma
+9759,HAM_0001173,ISIC_0030827,akiec,histo,40,female,face,Actinic keratoses,-1,Non-Melanoma
+9761,HAM_0003501,ISIC_0029582,akiec,histo,75,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9761,HAM_0003501,ISIC_0029582,akiec,histo,75,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9762,HAM_0006560,ISIC_0026729,akiec,histo,50,male,face,Actinic keratoses,-1,Non-Melanoma
+9763,HAM_0006482,ISIC_0028372,akiec,histo,55,female,hand,Actinic keratoses,-1,Non-Melanoma
+9763,HAM_0006482,ISIC_0028372,akiec,histo,55,female,hand,Actinic keratoses,-1,Non-Melanoma
+9766,HAM_0005356,ISIC_0028854,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9769,HAM_0004398,ISIC_0025358,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+9770,HAM_0004441,ISIC_0031852,akiec,histo,85,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9770,HAM_0004441,ISIC_0031852,akiec,histo,85,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9770,HAM_0004441,ISIC_0031852,akiec,histo,85,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9771,HAM_0004363,ISIC_0031609,akiec,histo,55,male,face,Actinic keratoses,-1,Non-Melanoma
+9775,HAM_0005389,ISIC_0029533,akiec,histo,70,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9778,HAM_0003146,ISIC_0026992,akiec,histo,85,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9778,HAM_0003146,ISIC_0026992,akiec,histo,85,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9779,HAM_0003146,ISIC_0029563,akiec,histo,85,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9780,HAM_0002441,ISIC_0030491,akiec,histo,80,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9780,HAM_0002441,ISIC_0030491,akiec,histo,80,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9781,HAM_0000859,ISIC_0029715,akiec,histo,70,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9784,HAM_0004558,ISIC_0030341,akiec,histo,70,female,back,Actinic keratoses,-1,Non-Melanoma
+9784,HAM_0004558,ISIC_0030341,akiec,histo,70,female,back,Actinic keratoses,-1,Non-Melanoma
+9797,HAM_0006481,ISIC_0027753,akiec,histo,70,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9800,HAM_0004722,ISIC_0029932,akiec,histo,70,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9802,HAM_0003051,ISIC_0030175,akiec,histo,85,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9802,HAM_0003051,ISIC_0030175,akiec,histo,85,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9803,HAM_0004722,ISIC_0024575,akiec,histo,70,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9804,HAM_0000501,ISIC_0031335,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9805,HAM_0007131,ISIC_0031692,akiec,histo,60,male,back,Actinic keratoses,-1,Non-Melanoma
+9807,HAM_0002705,ISIC_0025089,akiec,histo,65,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9808,HAM_0002705,ISIC_0027178,akiec,histo,65,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9809,HAM_0002734,ISIC_0028190,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9810,HAM_0006434,ISIC_0028314,akiec,histo,60,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9812,HAM_0005264,ISIC_0029371,akiec,histo,45,male,back,Actinic keratoses,-1,Non-Melanoma
+9814,HAM_0005264,ISIC_0024946,akiec,histo,45,male,back,Actinic keratoses,-1,Non-Melanoma
+9815,HAM_0001890,ISIC_0030707,akiec,histo,80,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9815,HAM_0001890,ISIC_0030707,akiec,histo,80,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9817,HAM_0000552,ISIC_0028872,akiec,histo,55,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9818,HAM_0005924,ISIC_0030953,akiec,histo,80,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9820,HAM_0006604,ISIC_0030821,akiec,histo,75,male,neck,Actinic keratoses,-1,Non-Melanoma
+9821,HAM_0007008,ISIC_0031292,akiec,histo,60,male,hand,Actinic keratoses,-1,Non-Melanoma
+9823,HAM_0002771,ISIC_0029059,akiec,histo,80,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9823,HAM_0002771,ISIC_0029059,akiec,histo,80,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9824,HAM_0006213,ISIC_0025182,akiec,histo,60,female,hand,Actinic keratoses,-1,Non-Melanoma
+9824,HAM_0006213,ISIC_0025182,akiec,histo,60,female,hand,Actinic keratoses,-1,Non-Melanoma
+9825,HAM_0002070,ISIC_0028659,akiec,histo,70,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9826,HAM_0001178,ISIC_0031570,akiec,histo,70,female,back,Actinic keratoses,-1,Non-Melanoma
+9827,HAM_0003380,ISIC_0024418,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9829,HAM_0003939,ISIC_0027172,akiec,histo,75,male,face,Actinic keratoses,-1,Non-Melanoma
+9832,HAM_0001624,ISIC_0032277,akiec,histo,85,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9833,HAM_0002461,ISIC_0025953,akiec,histo,65,male,face,Actinic keratoses,-1,Non-Melanoma
+9833,HAM_0002461,ISIC_0025953,akiec,histo,65,male,face,Actinic keratoses,-1,Non-Melanoma
+9837,HAM_0003262,ISIC_0026212,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9837,HAM_0003262,ISIC_0026212,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9837,HAM_0003262,ISIC_0026212,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9841,HAM_0002615,ISIC_0033413,akiec,histo,70,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9841,HAM_0002615,ISIC_0033413,akiec,histo,70,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9841,HAM_0002615,ISIC_0033413,akiec,histo,70,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9843,HAM_0004809,ISIC_0029840,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9847,HAM_0002307,ISIC_0032154,akiec,histo,75,male,chest,Actinic keratoses,-1,Non-Melanoma
+9848,HAM_0002307,ISIC_0026549,akiec,histo,75,male,chest,Actinic keratoses,-1,Non-Melanoma
+9848,HAM_0002307,ISIC_0026549,akiec,histo,75,male,chest,Actinic keratoses,-1,Non-Melanoma
+9849,HAM_0000982,ISIC_0032356,akiec,histo,60,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9849,HAM_0000982,ISIC_0032356,akiec,histo,60,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9850,HAM_0000954,ISIC_0026100,akiec,histo,70,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9851,HAM_0000954,ISIC_0029567,akiec,histo,70,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9851,HAM_0000954,ISIC_0029567,akiec,histo,70,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9852,HAM_0005650,ISIC_0024522,akiec,histo,65,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9853,HAM_0005650,ISIC_0030387,akiec,histo,65,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9855,HAM_0000769,ISIC_0029851,akiec,histo,80,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9855,HAM_0000769,ISIC_0029851,akiec,histo,80,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9863,HAM_0003633,ISIC_0030280,akiec,histo,70,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9865,HAM_0005459,ISIC_0032397,akiec,histo,85,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9866,HAM_0004780,ISIC_0030245,akiec,histo,75,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9867,HAM_0000688,ISIC_0026720,akiec,histo,75,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9867,HAM_0000688,ISIC_0026720,akiec,histo,75,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9871,HAM_0004439,ISIC_0030986,akiec,histo,55,female,face,Actinic keratoses,-1,Non-Melanoma
+9871,HAM_0004439,ISIC_0030986,akiec,histo,55,female,face,Actinic keratoses,-1,Non-Melanoma
+9871,HAM_0004439,ISIC_0030986,akiec,histo,55,female,face,Actinic keratoses,-1,Non-Melanoma
+9873,HAM_0005480,ISIC_0026149,akiec,histo,65,male,face,Actinic keratoses,-1,Non-Melanoma
+9873,HAM_0005480,ISIC_0026149,akiec,histo,65,male,face,Actinic keratoses,-1,Non-Melanoma
+9873,HAM_0005480,ISIC_0026149,akiec,histo,65,male,face,Actinic keratoses,-1,Non-Melanoma
+9876,HAM_0003401,ISIC_0029598,akiec,histo,55,male,face,Actinic keratoses,-1,Non-Melanoma
+9877,HAM_0003401,ISIC_0029002,akiec,histo,55,male,face,Actinic keratoses,-1,Non-Melanoma
+9879,HAM_0001048,ISIC_0026525,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9880,HAM_0001565,ISIC_0026709,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+9882,HAM_0000462,ISIC_0032897,akiec,histo,60,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9886,HAM_0004592,ISIC_0030730,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+9887,HAM_0002094,ISIC_0030549,akiec,histo,50,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9889,HAM_0005231,ISIC_0029043,akiec,histo,70,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9896,HAM_0007601,ISIC_0027447,akiec,histo,65,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9897,HAM_0007601,ISIC_0027536,akiec,histo,65,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9898,HAM_0000005,ISIC_0025577,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9899,HAM_0000005,ISIC_0030591,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9899,HAM_0000005,ISIC_0030591,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9901,HAM_0000005,ISIC_0029638,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9902,HAM_0003105,ISIC_0025029,akiec,histo,75,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9902,HAM_0003105,ISIC_0025029,akiec,histo,75,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9904,HAM_0004992,ISIC_0026132,akiec,histo,70,male,chest,Actinic keratoses,-1,Non-Melanoma
+9908,HAM_0001219,ISIC_0028335,akiec,histo,60,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9908,HAM_0001219,ISIC_0028335,akiec,histo,60,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9909,HAM_0005648,ISIC_0027580,akiec,histo,75,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9911,HAM_0000909,ISIC_0026981,akiec,histo,55,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9912,HAM_0000909,ISIC_0031286,akiec,histo,55,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9913,HAM_0005255,ISIC_0030158,akiec,histo,55,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9916,HAM_0006180,ISIC_0026905,akiec,histo,70,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9919,HAM_0006442,ISIC_0033000,akiec,histo,70,male,hand,Actinic keratoses,-1,Non-Melanoma
+9919,HAM_0006442,ISIC_0033000,akiec,histo,70,male,hand,Actinic keratoses,-1,Non-Melanoma
+9924,HAM_0006434,ISIC_0030142,akiec,histo,60,male,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9925,HAM_0006301,ISIC_0024468,akiec,histo,75,male,neck,Actinic keratoses,-1,Non-Melanoma
+9927,HAM_0006301,ISIC_0031823,akiec,histo,75,male,neck,Actinic keratoses,-1,Non-Melanoma
+9927,HAM_0006301,ISIC_0031823,akiec,histo,75,male,neck,Actinic keratoses,-1,Non-Melanoma
+9927,HAM_0006301,ISIC_0031823,akiec,histo,75,male,neck,Actinic keratoses,-1,Non-Melanoma
+9928,HAM_0006560,ISIC_0028063,akiec,histo,50,male,face,Actinic keratoses,-1,Non-Melanoma
+9932,HAM_0006592,ISIC_0024925,akiec,histo,75,male,abdomen,Actinic keratoses,-1,Non-Melanoma
+9932,HAM_0006592,ISIC_0024925,akiec,histo,75,male,abdomen,Actinic keratoses,-1,Non-Melanoma
+9932,HAM_0006592,ISIC_0024925,akiec,histo,75,male,abdomen,Actinic keratoses,-1,Non-Melanoma
+9932,HAM_0006592,ISIC_0024925,akiec,histo,75,male,abdomen,Actinic keratoses,-1,Non-Melanoma
+9934,HAM_0003107,ISIC_0030844,akiec,histo,80,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9936,HAM_0006887,ISIC_0029500,akiec,histo,45,male,face,Actinic keratoses,-1,Non-Melanoma
+9937,HAM_0007038,ISIC_0032404,akiec,histo,70,male,face,Actinic keratoses,-1,Non-Melanoma
+9940,HAM_0004297,ISIC_0027550,akiec,histo,65,female,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9941,HAM_0007047,ISIC_0025605,akiec,histo,60,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9942,HAM_0007088,ISIC_0024800,akiec,histo,50,male,back,Actinic keratoses,-1,Non-Melanoma
+9943,HAM_0007199,ISIC_0030344,akiec,histo,55,female,face,Actinic keratoses,-1,Non-Melanoma
+9947,HAM_0007308,ISIC_0026848,akiec,histo,55,male,face,Actinic keratoses,-1,Non-Melanoma
+9948,HAM_0007622,ISIC_0027562,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+9949,HAM_0002551,ISIC_0024539,akiec,histo,70,male,face,Actinic keratoses,-1,Non-Melanoma
+9950,HAM_0000832,ISIC_0028763,akiec,histo,85,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9950,HAM_0000832,ISIC_0028763,akiec,histo,85,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9952,HAM_0003934,ISIC_0027767,akiec,histo,85,male,back,Actinic keratoses,-1,Non-Melanoma
+9954,HAM_0001386,ISIC_0027668,akiec,histo,60,male,scalp,Actinic keratoses,-1,Non-Melanoma
+9957,HAM_0006587,ISIC_0025780,akiec,histo,70,male,face,Actinic keratoses,-1,Non-Melanoma
+9957,HAM_0006587,ISIC_0025780,akiec,histo,70,male,face,Actinic keratoses,-1,Non-Melanoma
+9958,HAM_0001593,ISIC_0028941,akiec,histo,70,female,face,Actinic keratoses,-1,Non-Melanoma
+9960,HAM_0002699,ISIC_0029827,akiec,histo,60,male,back,Actinic keratoses,-1,Non-Melanoma
+9961,HAM_0001023,ISIC_0026468,akiec,histo,50,male,hand,Actinic keratoses,-1,Non-Melanoma
+9962,HAM_0005228,ISIC_0026702,akiec,histo,80,female,face,Actinic keratoses,-1,Non-Melanoma
+9962,HAM_0005228,ISIC_0026702,akiec,histo,80,female,face,Actinic keratoses,-1,Non-Melanoma
+9963,HAM_0004033,ISIC_0027452,akiec,histo,70,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9963,HAM_0004033,ISIC_0027452,akiec,histo,70,male,upper extremity,Actinic keratoses,-1,Non-Melanoma
+9964,HAM_0001903,ISIC_0026984,akiec,histo,50,male,face,Actinic keratoses,-1,Non-Melanoma
+9965,HAM_0001302,ISIC_0032206,akiec,histo,50,male,neck,Actinic keratoses,-1,Non-Melanoma
+9965,HAM_0001302,ISIC_0032206,akiec,histo,50,male,neck,Actinic keratoses,-1,Non-Melanoma
+9966,HAM_0000361,ISIC_0032199,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+9968,HAM_0004363,ISIC_0026857,akiec,histo,55,male,face,Actinic keratoses,-1,Non-Melanoma
+9969,HAM_0004060,ISIC_0030825,akiec,histo,40,male,face,Actinic keratoses,-1,Non-Melanoma
+9969,HAM_0004060,ISIC_0030825,akiec,histo,40,male,face,Actinic keratoses,-1,Non-Melanoma
+9971,HAM_0005668,ISIC_0028370,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9972,HAM_0000239,ISIC_0033866,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+9973,HAM_0007008,ISIC_0030036,akiec,histo,60,male,hand,Actinic keratoses,-1,Non-Melanoma
+9974,HAM_0005705,ISIC_0024654,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+9977,HAM_0006902,ISIC_0031506,akiec,histo,70,male,hand,Actinic keratoses,-1,Non-Melanoma
+9979,HAM_0004472,ISIC_0025368,akiec,histo,40,female,face,Actinic keratoses,-1,Non-Melanoma
+9980,HAM_0003910,ISIC_0026194,akiec,histo,30,male,face,Actinic keratoses,-1,Non-Melanoma
+9981,HAM_0001474,ISIC_0026765,akiec,histo,55,female,chest,Actinic keratoses,-1,Non-Melanoma
+9982,HAM_0001505,ISIC_0024511,akiec,histo,55,female,face,Actinic keratoses,-1,Non-Melanoma
+9984,HAM_0006024,ISIC_0029830,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9985,HAM_0006024,ISIC_0027884,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9985,HAM_0006024,ISIC_0027884,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9987,HAM_0004809,ISIC_0031108,akiec,histo,60,male,face,Actinic keratoses,-1,Non-Melanoma
+9990,HAM_0004462,ISIC_0027334,akiec,histo,45,male,trunk,Actinic keratoses,-1,Non-Melanoma
+9991,HAM_0001152,ISIC_0030133,akiec,histo,65,male,face,Actinic keratoses,-1,Non-Melanoma
+9999,HAM_0000356,ISIC_0030655,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+9999,HAM_0000356,ISIC_0030655,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+10000,HAM_0004282,ISIC_0033151,akiec,histo,65,female,face,Actinic keratoses,-1,Non-Melanoma
+10001,HAM_0000020,ISIC_0031922,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+10003,HAM_0004592,ISIC_0029141,akiec,histo,60,female,face,Actinic keratoses,-1,Non-Melanoma
+10004,HAM_0005579,ISIC_0029309,akiec,histo,80,male,face,Actinic keratoses,-1,Non-Melanoma
+10006,HAM_0004034,ISIC_0024948,akiec,histo,55,female,face,Actinic keratoses,-1,Non-Melanoma
+10009,HAM_0005705,ISIC_0031430,akiec,histo,75,female,lower extremity,Actinic keratoses,-1,Non-Melanoma
+10014,HAM_0003521,ISIC_0032258,mel,histo,70,female,back,Melanoma,0,Melanoma
